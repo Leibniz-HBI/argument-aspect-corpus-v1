@@ -13,6 +13,8 @@ that we have used. This repository may also be a starting point to experiment wi
 aspect with other models or hyperparameters
 You can replace models with other available models from huggingface.
 
+The Corpus will also be made available on Zenodo.
+
 ## Installation
 you need [pipenv](https://pipenv.pypa.io/en/latest/index.html) for dependency
 installation. Then, run `pipenv sync` in order to create the environment.
@@ -54,4 +56,6 @@ and
 `python sentence_predictions.py nervaluate experiments/<foldername>`
 
 
+## Citation
 
+Please cite ...
