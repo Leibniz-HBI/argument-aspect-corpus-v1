@@ -1,0 +1,2596 @@
+1	This	O	1
+2	has	O	1
+3	allowed	O	1
+4	criminal	ILLEGAL TRADE	1
+5	,	ILLEGAL TRADE	1
+6	paramilitary	ILLEGAL TRADE	1
+7	and	ILLEGAL TRADE	1
+8	guerrilla	ILLEGAL TRADE	1
+9	groups	ILLEGAL TRADE	1
+10	to	ILLEGAL TRADE	1
+11	reap	ILLEGAL TRADE	1
+12	huge	ILLEGAL TRADE	1
+13	profits	ILLEGAL TRADE	1
+14	,	O	1
+15	exacerbating	O	1
+16	already	O	1
+17	serious	O	1
+18	law-and-order	O	1
+19	and	O	1
+20	political	O	1
+21	problems	O	1
+22	.	O	0
+
+1	But	O	1
+2	,	O	1
+3	you	O	1
+4	can	O	1
+5	also	O	1
+6	bet	O	1
+7	that	O	1
+8	those	O	1
+9	same	O	1
+10	people	O	1
+11	will	COMMUNITY/SOCIATAL EFFECTS	1
+12	be	COMMUNITY/SOCIATAL EFFECTS	1
+13	complaining	COMMUNITY/SOCIATAL EFFECTS	1
+14	about	COMMUNITY/SOCIATAL EFFECTS	1
+15	all	COMMUNITY/SOCIATAL EFFECTS	1
+16	the	COMMUNITY/SOCIATAL EFFECTS	1
+17	junkies	COMMUNITY/SOCIATAL EFFECTS	1
+18	and	COMMUNITY/SOCIATAL EFFECTS	1
+19	welfare	COMMUNITY/SOCIATAL EFFECTS	1
+20	cases	COMMUNITY/SOCIATAL EFFECTS	1
+21	that	COMMUNITY/SOCIATAL EFFECTS	1
+22	will	COMMUNITY/SOCIATAL EFFECTS	1
+23	be	COMMUNITY/SOCIATAL EFFECTS	1
+24	created	COMMUNITY/SOCIATAL EFFECTS	1
+25	by	O	1
+26	the	O	1
+27	policy	O	1
+28	they	O	1
+29	endorsed	O	1
+30	.	O	0
+
+1	"	O	1
+2	At	O	1
+3	the	O	1
+4	end	O	1
+5	of	O	1
+6	the	O	1
+7	day	O	1
+8	this	DRUG POLICY	1
+9	is	DRUG POLICY	1
+10	a	DRUG POLICY	1
+11	product	DRUG POLICY	1
+12	that	DRUG POLICY	1
+13	can	DRUG POLICY	1
+14	be	DRUG POLICY	1
+15	regulated	DRUG POLICY	1
+16	,	O	1
+17	and	O	1
+18	regulated	DRUG POLICY	1
+19	well	DRUG POLICY	1
+20	,	O	1
+21	as	O	1
+22	we	O	1
+23	'	O	0
+24	ve	O	1
+25	demonstrated	O	1
+26	,	O	1
+27	"	O	1
+28	Pabon	O	1
+29	said	O	1
+30	.	O	0
+
+1	Legalizing	O	1
+2	it	O	1
+3	would	O	1
+4	reduce	O	1
+5	the	O	1
+6	prices	O	1
+7	,	O	1
+8	it	NATIONAL BUDGET	1
+9	'	NATIONAL BUDGET	0
+10	d	NATIONAL BUDGET	1
+11	be	NATIONAL BUDGET	1
+12	taxed	NATIONAL BUDGET	1
+13	making	NATIONAL BUDGET	1
+14	a	NATIONAL BUDGET	1
+15	lot	NATIONAL BUDGET	1
+16	of	NATIONAL BUDGET	1
+17	money	NATIONAL BUDGET	1
+18	from	NATIONAL BUDGET	1
+19	that	NATIONAL BUDGET	1
+20	alone	NATIONAL BUDGET	1
+21	.	O	0
+
+1	But	O	1
+2	it	O	1
+3	has	O	1
+4	also	O	1
+5	had	O	1
+6	the	O	1
+7	unwanted	O	1
+8	side	O	1
+9	effect	O	1
+10	that	O	1
+11	Dutch	CHILD AND TEEN SAFETY	1
+12	children	CHILD AND TEEN SAFETY	1
+13	are	CHILD AND TEEN SAFETY	1
+14	frequently	CHILD AND TEEN SAFETY	1
+15	exposed	CHILD AND TEEN SAFETY	1
+16	to	CHILD AND TEEN SAFETY	1
+17	the	CHILD AND TEEN SAFETY	1
+18	drug	CHILD AND TEEN SAFETY	1
+19	in	O	1
+20	public	O	1
+21	areas	O	1
+22	.	O	0
+
+1	“	O	1
+2	What	O	1
+3	we	O	1
+4	know	O	1
+5	is	O	1
+6	the	HARM	1
+7	THC	HARM	1
+8	,	HARM	1
+9	the	HARM	1
+10	psychoactive	HARM	1
+11	component	HARM	1
+12	of	HARM	1
+13	marijuana	HARM	1
+14	,	HARM	1
+15	back	HARM	1
+16	in	HARM	1
+17	the	HARM	1
+18	60	HARM	1
+19	’s	HARM	1
+20	and	HARM	1
+21	70	HARM	1
+22	’s	HARM	1
+23	was	HARM	1
+24	less	HARM	1
+25	than	HARM	1
+26	1	HARM	1
+27	%	HARM	1
+28	.	O	0
+
+1	After	O	1
+2	all	O	1
+3	,	O	1
+4	there	O	1
+5	is	O	1
+6	nothing	DRUG POLICY	1
+7	to	DRUG POLICY	1
+8	regulate	DRUG POLICY	1
+9	what	DRUG POLICY	1
+10	is	DRUG POLICY	1
+11	sold	DRUG POLICY	1
+12	and	O	1
+13	no	O	1
+14	way	O	1
+15	to	O	1
+16	sue	O	1
+17	anyone	O	1
+18	for	O	1
+19	product	O	1
+20	liability	O	1
+21	.	O	0
+
+1	While	O	1
+2	all	O	1
+3	too	O	1
+4	often	O	1
+5	children	CHILD AND TEEN SAFETY	1
+6	and	CHILD AND TEEN SAFETY	1
+7	teenagers	CHILD AND TEEN SAFETY	1
+8	are	O	1
+9	getting	O	1
+10	their	O	1
+11	hands	O	1
+12	on	O	1
+13	cigarettes	LEGAL DRUGS	1
+14	and	LEGAL DRUGS	1
+15	alcohol	LEGAL DRUGS	1
+16	,	O	1
+17	it	O	1
+18	is	O	1
+19	stressed	O	1
+20	that	O	1
+21	authorities	O	1
+22	should	O	1
+23	think	O	1
+24	twice	O	1
+25	about	O	1
+26	legalizing	O	1
+27	this	O	1
+28	drug	O	1
+29	.	O	0
+
+1	Once	O	1
+2	those	ILLEGAL TRADE	1
+3	involved	ILLEGAL TRADE	1
+4	in	ILLEGAL TRADE	1
+5	the	ILLEGAL TRADE	1
+6	narcotics	ILLEGAL TRADE	1
+7	trade	ILLEGAL TRADE	1
+8	have	O	1
+9	a	O	1
+10	legal	O	1
+11	method	O	1
+12	of	O	1
+13	settling	O	1
+14	business	O	1
+15	disputes	O	1
+16	,	O	1
+17	the	O	1
+18	number	O	1
+19	of	O	1
+20	murders	O	1
+21	and	O	1
+22	violent	O	1
+23	crime	O	1
+24	could	O	1
+25	drop	O	1
+26	.	O	0
+
+1	If	O	1
+2	medical	MEDICAL MARIJUANA	1
+3	marijuana	MEDICAL MARIJUANA	1
+4	is	O	1
+5	truly	O	1
+6	helping	O	1
+7	,	O	1
+8	why	O	1
+9	not	O	1
+10	legalize	O	1
+11	it	O	1
+12	?	O	0
+
+1	Kids	CHILD AND TEEN SAFETY	1
+2	who	CHILD AND TEEN SAFETY	1
+3	use	CHILD AND TEEN SAFETY	1
+4	that	CHILD AND TEEN SAFETY	1
+5	frequently	CHILD AND TEEN SAFETY	1
+6	are	O	1
+7	putting	O	1
+8	themselves	O	1
+9	at	CHILD AND TEEN SAFETY	1
+10	the	CHILD AND TEEN SAFETY	1
+11	highest	CHILD AND TEEN SAFETY	1
+12	risk	CHILD AND TEEN SAFETY	1
+13	of	CHILD AND TEEN SAFETY	1
+14	the	CHILD AND TEEN SAFETY	1
+15	adverse	CHILD AND TEEN SAFETY	1
+16	effects	CHILD AND TEEN SAFETY	1
+17	of	CHILD AND TEEN SAFETY	1
+18	marijuana	CHILD AND TEEN SAFETY	1
+19	use	CHILD AND TEEN SAFETY	1
+20	.	O	0
+
+1	With	O	1
+2	drugs	O	1
+3	prohibited	O	1
+4	,	O	1
+5	sellers	ILLEGAL TRADE	1
+6	are	ILLEGAL TRADE	1
+7	"	ILLEGAL TRADE	1
+8	underground	ILLEGAL TRADE	1
+9	"	O	1
+10	and	O	1
+11	therefore	O	1
+12	nearly	O	1
+13	impossible	O	1
+14	to	O	1
+15	control	O	1
+16	.	O	0
+
+1	The	COMMUNITY/SOCIATAL EFFECTS	1
+2	social	COMMUNITY/SOCIATAL EFFECTS	1
+3	costs	COMMUNITY/SOCIATAL EFFECTS	1
+4	of	O	1
+5	the	O	1
+6	marijuana	O	1
+7	laws	O	1
+8	are	O	1
+9	vast	O	1
+10	.	O	0
+
+1	Vibrant	ILLEGAL TRADE	1
+2	gray	ILLEGAL TRADE	1
+3	markets	ILLEGAL TRADE	1
+4	have	O	1
+5	developed	O	1
+6	throughout	O	1
+7	the	O	1
+8	world	O	1
+9	for	O	1
+10	many	O	1
+11	products	O	1
+12	that	O	1
+13	are	O	1
+14	legal	O	1
+15	,	O	1
+16	regulated	O	1
+17	,	O	1
+18	and	O	1
+19	heavily	O	1
+20	taxed	O	1
+21	.	O	0
+
+1	Its	MEDICAL MARIJUANA	1
+2	anti-inflammatory	MEDICAL MARIJUANA	1
+3	and	MEDICAL MARIJUANA	1
+4	pain-relief	MEDICAL MARIJUANA	1
+5	effects	MEDICAL MARIJUANA	1
+6	are	O	1
+7	well-documented	O	1
+8	.	O	0
+
+1	Third	O	1
+2	,	O	1
+3	legalization	O	1
+4	allows	O	1
+5	taxation	NATIONAL BUDGET	1
+6	of	NATIONAL BUDGET	1
+7	drug	NATIONAL BUDGET	1
+8	production	NATIONAL BUDGET	1
+9	and	NATIONAL BUDGET	1
+10	sale	NATIONAL BUDGET	1
+11	.	O	1
+12	”	O	0
+
+1	Jaime	O	1
+2	Smith	O	1
+3	,	O	1
+4	deputy	O	1
+5	communications	O	1
+6	director	O	1
+7	for	O	1
+8	the	O	1
+9	governor	O	1
+10	’s	O	1
+11	office	O	1
+12	,	O	1
+13	said	O	1
+14	,	O	1
+15	“	O	1
+16	The	O	1
+17	legalization	O	1
+18	initiative	O	1
+19	was	O	1
+20	not	O	1
+21	driven	O	1
+22	by	O	1
+23	a	NATIONAL BUDGET	1
+24	desire	NATIONAL BUDGET	1
+25	for	NATIONAL BUDGET	1
+26	a	NATIONAL BUDGET	1
+27	revenue	NATIONAL BUDGET	1
+28	,	O	1
+29	but	O	1
+30	it	O	1
+31	has	NATIONAL BUDGET	1
+32	provided	NATIONAL BUDGET	1
+33	a	NATIONAL BUDGET	1
+34	small	NATIONAL BUDGET	1
+35	assist	NATIONAL BUDGET	1
+36	for	NATIONAL BUDGET	1
+37	our	NATIONAL BUDGET	1
+38	state	NATIONAL BUDGET	1
+39	budget	NATIONAL BUDGET	1
+40	.	O	1
+41	”	O	0
+
+1	I	O	1
+2	'	O	0
+3	m	O	1
+4	not	O	1
+5	an	ADDICTION	1
+6	addict	ADDICTION	1
+7	,	O	1
+8	but	O	1
+9	I	O	1
+10	'	O	0
+11	ve	O	1
+12	had	O	1
+13	it	O	1
+14	in	O	1
+15	my	O	1
+16	family	O	1
+17	,	O	1
+18	"	O	1
+19	Mowrey	O	1
+20	added	O	1
+21	.	O	0
+
+1	Researchers	O	1
+2	in	O	1
+3	Canada	O	1
+4	found	O	1
+5	that	O	1
+6	marijuana	O	1
+7	smoke	O	1
+8	contains	HEALTH/PSYCHOLOGICAL EFFECTS	1
+9	significantly	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	higher	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	levels	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	of	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	numerous	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	toxic	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	compounds	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	,	O	1
+17	like	O	1
+18	ammonia	O	1
+19	and	O	1
+20	hydrogen	O	1
+21	cyanide	O	1
+22	,	O	1
+23	than	O	1
+24	regular	LEGAL DRUGS	1
+25	tobacco	LEGAL DRUGS	1
+26	smoke	LEGAL DRUGS	1
+27	.	O	0
+
+1	Unless	O	1
+2	a	O	1
+3	person	O	1
+4	is	O	1
+5	wealthy	O	1
+6	,	O	1
+7	he	COMMUNITY/SOCIATAL EFFECTS	1
+8	or	COMMUNITY/SOCIATAL EFFECTS	1
+9	she	COMMUNITY/SOCIATAL EFFECTS	1
+10	must	COMMUNITY/SOCIATAL EFFECTS	1
+11	often	COMMUNITY/SOCIATAL EFFECTS	1
+12	resort	COMMUNITY/SOCIATAL EFFECTS	1
+13	to	COMMUNITY/SOCIATAL EFFECTS	1
+14	robbery	COMMUNITY/SOCIATAL EFFECTS	1
+15	and	COMMUNITY/SOCIATAL EFFECTS	1
+16	other	COMMUNITY/SOCIATAL EFFECTS	1
+17	crimes	COMMUNITY/SOCIATAL EFFECTS	1
+18	to	COMMUNITY/SOCIATAL EFFECTS	1
+19	generate	COMMUNITY/SOCIATAL EFFECTS	1
+20	the	COMMUNITY/SOCIATAL EFFECTS	1
+21	money	COMMUNITY/SOCIATAL EFFECTS	1
+22	needed	COMMUNITY/SOCIATAL EFFECTS	1
+23	to	COMMUNITY/SOCIATAL EFFECTS	1
+24	buy	COMMUNITY/SOCIATAL EFFECTS	1
+25	the	COMMUNITY/SOCIATAL EFFECTS	1
+26	drugs	COMMUNITY/SOCIATAL EFFECTS	1
+27	.	O	0
+
+1	There	O	1
+2	are	O	1
+3	places	O	1
+4	in	O	1
+5	California	O	1
+6	where	O	1
+7	it	O	1
+8	'	O	0
+9	s	O	1
+10	already	O	1
+11	legal	O	1
+12	for	O	1
+13	medicinal	MEDICAL MARIJUANA	1
+14	purposes	MEDICAL MARIJUANA	1
+15	.	O	0
+
+1	Any	O	1
+2	time	O	1
+3	you	O	1
+4	make	O	1
+5	something	O	1
+6	legal	O	1
+7	,	O	1
+8	you	O	1
+9	increase	CHILD AND TEEN SAFETY	1
+10	the	CHILD AND TEEN SAFETY	1
+11	accessibility	CHILD AND TEEN SAFETY	1
+12	to	CHILD AND TEEN SAFETY	1
+13	children	CHILD AND TEEN SAFETY	1
+14	.	O	0
+
+1	Lauren	O	1
+2	Michaels	O	1
+3	,	O	1
+4	legislative	O	1
+5	affairs	O	1
+6	manager	O	1
+7	for	O	1
+8	the	O	1
+9	California	O	1
+10	Police	O	1
+11	Chiefs	O	1
+12	Association	O	1
+13	,	O	1
+14	which	O	1
+15	donated	O	1
+16	$	O	1
+17	20,000	O	1
+18	to	O	1
+19	the	O	1
+20	campaign	O	1
+21	against	O	1
+22	Prop	O	1
+23	64	O	1
+24	,	O	1
+25	noted	O	1
+26	that	O	1
+27	her	O	1
+28	organization	O	1
+29	supports	O	1
+30	medical	MEDICAL MARIJUANA	1
+31	marijuana	MEDICAL MARIJUANA	1
+32	in	O	1
+33	the	O	1
+34	state	O	1
+35	but	O	1
+36	opposes	O	1
+37	the	O	1
+38	proposed	O	1
+39	recreational	O	1
+40	system	O	1
+41	because	O	1
+42	“	O	1
+43	there	DRUG POLICY	1
+44	’s	DRUG POLICY	1
+45	much	DRUG POLICY	1
+46	less	DRUG POLICY	1
+47	oversight	DRUG POLICY	1
+48	and	DRUG POLICY	1
+49	accountability	DRUG POLICY	1
+50	for	DRUG POLICY	1
+51	complying	DRUG POLICY	1
+52	with	DRUG POLICY	1
+53	state	DRUG POLICY	1
+54	regulations	DRUG POLICY	1
+55	.	O	1
+56	”	O	0
+
+1	“	O	1
+2	Tax	NATIONAL BUDGET	1
+3	revenue	NATIONAL BUDGET	1
+4	collected	O	1
+5	from	O	1
+6	marijuana	O	1
+7	sales	O	1
+8	would	NATIONAL BUDGET	1
+9	substantially	NATIONAL BUDGET	1
+10	outweigh	NATIONAL BUDGET	1
+11	the	NATIONAL BUDGET	1
+12	social	NATIONAL BUDGET	1
+13	costs	NATIONAL BUDGET	1
+14	of	O	1
+15	legalization	O	1
+16	.	O	1
+17	”	O	0
+
+1	Legalizing	O	1
+2	marijuana	O	1
+3	would	O	1
+4	serve	O	1
+5	only	O	1
+6	to	HARM	1
+7	compound	HARM	1
+8	the	HARM	1
+9	problems	HARM	1
+10	already	HARM	1
+11	associated	HARM	1
+12	with	HARM	1
+13	drug	HARM	1
+14	use	HARM	1
+15	.	O	0
+
+1	Proposition	O	1
+2	64	O	1
+3	does	O	1
+4	not	O	1
+5	dictate	O	1
+6	an	O	1
+7	explicit	O	1
+8	level	O	1
+9	of	O	1
+10	THC	O	1
+11	that	O	1
+12	would	O	1
+13	indicate	O	1
+14	impairment	O	1
+15	–	O	1
+16	something	O	1
+17	that	O	1
+18	would	O	1
+19	be	O	1
+20	comparable	O	1
+21	to	O	1
+22	blood-alcohol	LEGAL DRUGS	1
+23	standards	LEGAL DRUGS	1
+24	.	O	0
+
+1	Consider	O	1
+2	cigarettes	LEGAL DRUGS	1
+3	:	O	1
+4	While	O	1
+5	their	O	1
+6	purchase	O	1
+7	by	O	1
+8	people	O	1
+9	under	O	1
+10	18	O	1
+11	is	O	1
+12	illegal	O	1
+13	,	O	1
+14	20	O	1
+15	percent	O	1
+16	of	O	1
+17	high	O	1
+18	school	O	1
+19	students	O	1
+20	admit	O	1
+21	to	O	1
+22	having	O	1
+23	smoked	LEGAL DRUGS	1
+24	cigarettes	LEGAL DRUGS	1
+25	in	O	1
+26	the	O	1
+27	past	O	1
+28	30	O	1
+29	days	O	1
+30	.	O	0
+
+1	Considering	O	1
+2	that	O	1
+3	marijuana	O	1
+4	is	O	1
+5	a	O	1
+6	drug	O	1
+7	,	O	1
+8	which	O	1
+9	by	O	1
+10	definition	O	1
+11	changes	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	way	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	human	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	body	HEALTH/PSYCHOLOGICAL EFFECTS	1
+17	works	HEALTH/PSYCHOLOGICAL EFFECTS	1
+18	,	O	1
+19	its	O	1
+20	use	O	1
+21	would	O	1
+22	lead	O	1
+23	users	O	1
+24	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+25	experience	HEALTH/PSYCHOLOGICAL EFFECTS	1
+26	a	HEALTH/PSYCHOLOGICAL EFFECTS	1
+27	high	HEALTH/PSYCHOLOGICAL EFFECTS	1
+28	that	O	1
+29	alters	HEALTH/PSYCHOLOGICAL EFFECTS	1
+30	their	HEALTH/PSYCHOLOGICAL EFFECTS	1
+31	perception	HEALTH/PSYCHOLOGICAL EFFECTS	1
+32	while	O	1
+33	under	O	1
+34	influence	O	1
+35	.	O	0
+
+1	Other	COMMUNITY/SOCIATAL EFFECTS	1
+2	harder	COMMUNITY/SOCIATAL EFFECTS	1
+3	crimes	COMMUNITY/SOCIATAL EFFECTS	1
+4	,	COMMUNITY/SOCIATAL EFFECTS	1
+5	such	COMMUNITY/SOCIATAL EFFECTS	1
+6	as	COMMUNITY/SOCIATAL EFFECTS	1
+7	robbery	COMMUNITY/SOCIATAL EFFECTS	1
+8	and	COMMUNITY/SOCIATAL EFFECTS	1
+9	rape	COMMUNITY/SOCIATAL EFFECTS	1
+10	,	O	1
+11	can	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	also	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	be	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	caused	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	by	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+17	lapse	HEALTH/PSYCHOLOGICAL EFFECTS	1
+18	in	HEALTH/PSYCHOLOGICAL EFFECTS	1
+19	judgment	HEALTH/PSYCHOLOGICAL EFFECTS	1
+20	due	HEALTH/PSYCHOLOGICAL EFFECTS	1
+21	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+22	smoking	HEALTH/PSYCHOLOGICAL EFFECTS	1
+23	weed	HEALTH/PSYCHOLOGICAL EFFECTS	1
+24	.	O	0
+
+1	While	O	1
+2	politicians	O	1
+3	blame	O	1
+4	drug	O	1
+5	users	O	1
+6	for	O	1
+7	being	O	1
+8	a	O	1
+9	major	O	1
+10	source	O	1
+11	of	O	1
+12	financing	ILLEGAL TRADE	1
+13	terrorists	ILLEGAL TRADE	1
+14	,	O	1
+15	no	O	1
+16	clear	O	1
+17	evidence	O	1
+18	of	O	1
+19	this	O	1
+20	link	O	1
+21	has	O	1
+22	been	O	1
+23	provided	O	1
+24	.	O	0
+
+1	It	O	1
+2	'	O	0
+3	s	O	1
+4	certainly	O	1
+5	less	HARM	1
+6	harmful	HARM	1
+7	than	O	1
+8	alcohol	LEGAL DRUGS	1
+9	and	LEGAL DRUGS	1
+10	tobacco	LEGAL DRUGS	1
+11	,	O	1
+12	which	O	1
+13	are	O	1
+14	perfectly	O	1
+15	legal	O	1
+16	.	O	0
+
+1	Currently	O	1
+2	,	O	1
+3	if	O	1
+4	someone	O	1
+5	in	O	1
+6	the	ILLEGAL TRADE	1
+7	drug	ILLEGAL TRADE	1
+8	trade	ILLEGAL TRADE	1
+9	screws	ILLEGAL TRADE	1
+10	you	ILLEGAL TRADE	1
+11	over	ILLEGAL TRADE	1
+12	,	O	1
+13	there	O	1
+14	'	O	0
+15	s	O	1
+16	no	O	1
+17	police	O	1
+18	to	O	1
+19	call	O	1
+20	or	O	1
+21	lawyers	O	1
+22	to	O	1
+23	litigate	O	1
+24	.	O	0
+
+1	Finally	O	1
+2	,	O	1
+3	the	O	1
+4	act	O	1
+5	authorizes	O	1
+6	the	NATIONAL BUDGET	1
+7	imposition	NATIONAL BUDGET	1
+8	and	NATIONAL BUDGET	1
+9	collection	NATIONAL BUDGET	1
+10	of	NATIONAL BUDGET	1
+11	taxes	NATIONAL BUDGET	1
+12	and	NATIONAL BUDGET	1
+13	fees	NATIONAL BUDGET	1
+14	associated	O	1
+15	with	O	1
+16	legalization	O	1
+17	of	O	1
+18	marijuana	O	1
+19	.	O	0
+
+1	Others	O	1
+2	claim	O	1
+3	that	O	1
+4	marijuana	O	1
+5	was	O	1
+6	initially	O	1
+7	demonized	O	1
+8	partly	O	1
+9	due	O	1
+10	to	O	1
+11	fears	COMMUNITY/SOCIATAL EFFECTS	1
+12	of	COMMUNITY/SOCIATAL EFFECTS	1
+13	the	COMMUNITY/SOCIATAL EFFECTS	1
+14	Mexican	COMMUNITY/SOCIATAL EFFECTS	1
+15	immigrants	COMMUNITY/SOCIATAL EFFECTS	1
+16	associated	COMMUNITY/SOCIATAL EFFECTS	1
+17	with	COMMUNITY/SOCIATAL EFFECTS	1
+18	the	COMMUNITY/SOCIATAL EFFECTS	1
+19	drug	COMMUNITY/SOCIATAL EFFECTS	1
+20	.	O	0
+
+1	Smoking	O	1
+2	weed	O	1
+3	is	O	1
+4	generally	O	1
+5	considered	O	1
+6	as	O	1
+7	a	PERSONAL FREEDOM	1
+8	“	PERSONAL FREEDOM	1
+9	victimless	PERSONAL FREEDOM	1
+10	crime	PERSONAL FREEDOM	1
+11	”	PERSONAL FREEDOM	1
+12	,	O	1
+13	where	O	1
+14	only	PERSONAL FREEDOM	1
+15	the	PERSONAL FREEDOM	1
+16	user	PERSONAL FREEDOM	1
+17	is	PERSONAL FREEDOM	1
+18	at	PERSONAL FREEDOM	1
+19	risk	PERSONAL FREEDOM	1
+20	of	PERSONAL FREEDOM	1
+21	experiencing	PERSONAL FREEDOM	1
+22	the	PERSONAL FREEDOM	1
+23	effects	PERSONAL FREEDOM	1
+24	.	O	0
+
+1	Proponents	O	1
+2	cite	O	1
+3	studies	O	1
+4	such	O	1
+5	as	O	1
+6	that	O	1
+7	of	O	1
+8	311	O	1
+9	same	O	1
+10	sex	O	1
+11	twins	O	1
+12	,	O	1
+13	where	O	1
+14	only	O	1
+15	one	O	1
+16	twin	O	1
+17	smoked	O	1
+18	cannabis	O	1
+19	before	O	1
+20	age	O	1
+21	17	O	1
+22	,	O	1
+23	and	O	1
+24	where	O	1
+25	such	O	1
+26	early	O	1
+27	cannabis	O	1
+28	smokers	O	1
+29	were	O	1
+30	five	O	1
+31	times	O	1
+32	more	O	1
+33	likely	O	1
+34	than	O	1
+35	their	O	1
+36	twin	O	1
+37	to	GATEWAY DRUG	1
+38	move	GATEWAY DRUG	1
+39	on	GATEWAY DRUG	1
+40	to	GATEWAY DRUG	1
+41	harder	GATEWAY DRUG	1
+42	drugs	GATEWAY DRUG	1
+43	.	O	0
+
+1	But	O	1
+2	private	PERSONAL FREEDOM	1
+3	spaces	PERSONAL FREEDOM	1
+4	are	PERSONAL FREEDOM	1
+5	another	PERSONAL FREEDOM	1
+6	matter	PERSONAL FREEDOM	1
+7	.	O	0
+
+1	In	O	1
+2	a	O	1
+3	blog	O	1
+4	entry	O	1
+5	on	O	1
+6	SFGate	O	1
+7	,	O	1
+8	writer	O	1
+9	David	O	1
+10	Downs	O	1
+11	explores	O	1
+12	the	O	1
+13	best	O	1
+14	strains	O	1
+15	of	O	1
+16	marijuana	MEDICAL MARIJUANA	1
+17	to	MEDICAL MARIJUANA	1
+18	help	MEDICAL MARIJUANA	1
+19	with	MEDICAL MARIJUANA	1
+20	insomnia	MEDICAL MARIJUANA	1
+21	.	O	0
+
+1	It	O	1
+2	'	O	0
+3	s	O	1
+4	bad	O	1
+5	enough	O	1
+6	that	O	1
+7	we	O	1
+8	already	O	1
+9	lose	O	1
+10	so	O	1
+11	many	O	1
+12	Americans	O	1
+13	to	O	1
+14	cigarettes	LEGAL DRUGS	1
+15	,	O	1
+16	alcoholism	LEGAL DRUGS	1
+17	,	O	1
+18	and	O	1
+19	drunken	LEGAL DRUGS	1
+20	driving	LEGAL DRUGS	1
+21	.	O	0
+
+1	Police	NATIONAL BUDGET	1
+2	and	NATIONAL BUDGET	1
+3	court	NATIONAL BUDGET	1
+4	resources	NATIONAL BUDGET	1
+5	would	NATIONAL BUDGET	1
+6	be	NATIONAL BUDGET	1
+7	freed	NATIONAL BUDGET	1
+8	up	NATIONAL BUDGET	1
+9	for	O	1
+10	more	O	1
+11	serious	O	1
+12	crimes	O	1
+13	.	O	0
+
+1	He	O	1
+2	said	O	1
+3	any	NATIONAL BUDGET	1
+4	new	NATIONAL BUDGET	1
+5	tax	NATIONAL BUDGET	1
+6	revenue	NATIONAL BUDGET	1
+7	from	O	1
+8	marijuana	O	1
+9	would	O	1
+10	be	O	1
+11	offset	O	1
+12	by	O	1
+13	higher	NATIONAL BUDGET	1
+14	public	NATIONAL BUDGET	1
+15	health	NATIONAL BUDGET	1
+16	costs	NATIONAL BUDGET	1
+17	.	O	0
+
+1	They	O	1
+2	simply	O	1
+3	do	HEALTH/PSYCHOLOGICAL EFFECTS	1
+4	not	HEALTH/PSYCHOLOGICAL EFFECTS	1
+5	have	HEALTH/PSYCHOLOGICAL EFFECTS	1
+6	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+7	same	HEALTH/PSYCHOLOGICAL EFFECTS	1
+8	abilities	HEALTH/PSYCHOLOGICAL EFFECTS	1
+9	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	remember	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	and	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	organize	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	information	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	compared	O	1
+15	to	O	1
+16	those	O	1
+17	who	O	1
+18	do	O	1
+19	not	O	1
+20	use	O	1
+21	these	O	1
+22	substances	O	1
+23	.	O	0
+
+1	So	O	1
+2	as	O	1
+3	the	COMMUNITY/SOCIATAL EFFECTS	1
+4	amount	COMMUNITY/SOCIATAL EFFECTS	1
+5	of	COMMUNITY/SOCIATAL EFFECTS	1
+6	users	COMMUNITY/SOCIATAL EFFECTS	1
+7	increases	COMMUNITY/SOCIATAL EFFECTS	1
+8	,	O	1
+9	as	O	1
+10	it	O	1
+11	is	O	1
+12	here	O	1
+13	,	O	1
+14	that	O	1
+15	ratio	O	1
+16	of	O	1
+17	addicts	ADDICTION	1
+18	is	O	1
+19	going	O	1
+20	to	O	1
+21	get	O	1
+22	larger	O	1
+23	.	O	0
+
+1	Up-to-date	O	1
+2	estimates	O	1
+3	of	O	1
+4	the	O	1
+5	number	O	1
+6	of	O	1
+7	children	CHILD AND TEEN SAFETY	1
+8	living	CHILD AND TEEN SAFETY	1
+9	with	O	1
+10	substance-dependent	ADDICTION	1
+11	or	ADDICTION	1
+12	substance-abusing	ADDICTION	1
+13	parents	ADDICTION	1
+14	are	O	1
+15	needed	O	1
+16	for	O	1
+17	planning	O	1
+18	both	O	1
+19	adult	O	1
+20	treatment	O	1
+21	and	O	1
+22	prevention	O	1
+23	efforts	O	1
+24	and	O	1
+25	programs	O	1
+26	that	O	1
+27	support	O	1
+28	and	O	1
+29	protect	O	1
+30	affected	CHILD AND TEEN SAFETY	1
+31	children	CHILD AND TEEN SAFETY	1
+32	.	O	0
+
+1	Also	O	1
+2	set	CHILD AND TEEN SAFETY	1
+3	a	CHILD AND TEEN SAFETY	1
+4	age	CHILD AND TEEN SAFETY	1
+5	limit	CHILD AND TEEN SAFETY	1
+6	on	O	1
+7	buying	O	1
+8	or	O	1
+9	use	O	1
+10	of	O	1
+11	it	O	1
+12	just	O	1
+13	as	O	1
+14	cigarettes	LEGAL DRUGS	1
+15	.	O	0
+
+1	The	MEDICAL MARIJUANA	1
+2	health	MEDICAL MARIJUANA	1
+3	and	MEDICAL MARIJUANA	1
+4	good	MEDICAL MARIJUANA	1
+5	benefits	MEDICAL MARIJUANA	1
+6	includes	O	1
+7	,	O	1
+8	treating	MEDICAL MARIJUANA	1
+9	Alzheimer	MEDICAL MARIJUANA	1
+10	’s	MEDICAL MARIJUANA	1
+11	,	MEDICAL MARIJUANA	1
+12	Glaucoma	MEDICAL MARIJUANA	1
+13	,	MEDICAL MARIJUANA	1
+14	and	MEDICAL MARIJUANA	1
+15	cancer	MEDICAL MARIJUANA	1
+16	.	O	0
+
+1	Criminals	COMMUNITY/SOCIATAL EFFECTS	1
+2	from	COMMUNITY/SOCIATAL EFFECTS	1
+3	everywhere	COMMUNITY/SOCIATAL EFFECTS	1
+4	,	COMMUNITY/SOCIATAL EFFECTS	1
+5	he	COMMUNITY/SOCIATAL EFFECTS	1
+6	said	COMMUNITY/SOCIATAL EFFECTS	1
+7	,	COMMUNITY/SOCIATAL EFFECTS	1
+8	are	COMMUNITY/SOCIATAL EFFECTS	1
+9	attracted	COMMUNITY/SOCIATAL EFFECTS	1
+10	to	COMMUNITY/SOCIATAL EFFECTS	1
+11	Pueblo	COMMUNITY/SOCIATAL EFFECTS	1
+12	because	O	1
+13	they	O	1
+14	think	O	1
+15	it	O	1
+16	is	O	1
+17	a	O	1
+18	good	O	1
+19	place	O	1
+20	to	O	1
+21	grow	O	1
+22	cannabis	O	1
+23	.	O	0
+
+1	The	O	1
+2	study	O	1
+3	noted	O	1
+4	that	O	1
+5	some	O	1
+6	of	O	1
+7	the	DRUG ABUSE	1
+8	drivers	DRUG ABUSE	1
+9	who	DRUG ABUSE	1
+10	tested	DRUG ABUSE	1
+11	positive	DRUG ABUSE	1
+12	may	DRUG ABUSE	1
+13	have	DRUG ABUSE	1
+14	last	DRUG ABUSE	1
+15	used	DRUG ABUSE	1
+16	marijuana	DRUG ABUSE	1
+17	“	DRUG ABUSE	1
+18	several	DRUG ABUSE	1
+19	hours	DRUG ABUSE	1
+20	or	DRUG ABUSE	1
+21	even	DRUG ABUSE	1
+22	days	DRUG ABUSE	1
+23	prior	DRUG ABUSE	1
+24	to	DRUG ABUSE	1
+25	the	DRUG ABUSE	1
+26	crash	DRUG ABUSE	1
+27	.	O	1
+28	”	O	0
+
+1	Congress	DRUG POLICY	1
+2	has	DRUG POLICY	1
+3	enacted	DRUG POLICY	1
+4	a	DRUG POLICY	1
+5	comprehensive	DRUG POLICY	1
+6	regulatory	DRUG POLICY	1
+7	scheme	DRUG POLICY	1
+8	for	O	1
+9	restricting	O	1
+10	access	O	1
+11	to	O	1
+12	illicit	O	1
+13	drugs	O	1
+14	and	O	1
+15	other	O	1
+16	controlled	O	1
+17	substances	O	1
+18	.	O	0
+
+1	Ironically	O	1
+2	,	O	1
+3	the	O	1
+4	legalization	O	1
+5	of	O	1
+6	marijuana	O	1
+7	might	O	1
+8	actually	O	1
+9	hurt	O	1
+10	most	O	1
+11	those	O	1
+12	who	O	1
+13	depend	ILLEGAL TRADE	1
+14	on	ILLEGAL TRADE	1
+15	it	ILLEGAL TRADE	1
+16	for	ILLEGAL TRADE	1
+17	their	ILLEGAL TRADE	1
+18	current	ILLEGAL TRADE	1
+19	livelihood	ILLEGAL TRADE	1
+20	and	ILLEGAL TRADE	1
+21	espouse	ILLEGAL TRADE	1
+22	its	ILLEGAL TRADE	1
+23	consumption	ILLEGAL TRADE	1
+24	.	O	0
+
+1	Marijuana	O	1
+2	advocates	O	1
+3	claim	O	1
+4	that	O	1
+5	federal	DRUG POLICY	1
+6	enforcement	DRUG POLICY	1
+7	of	DRUG POLICY	1
+8	drug	DRUG POLICY	1
+9	laws	DRUG POLICY	1
+10	,	O	1
+11	particularly	O	1
+12	in	O	1
+13	jurisdictions	O	1
+14	that	O	1
+15	allow	O	1
+16	the	O	1
+17	use	O	1
+18	of	O	1
+19	medical	MEDICAL MARIJUANA	1
+20	marijuana	MEDICAL MARIJUANA	1
+21	,	O	1
+22	violates	DRUG POLICY	1
+23	states	DRUG POLICY	1
+24	’	DRUG POLICY	1
+25	rights	DRUG POLICY	1
+26	.	O	0
+
+1	We	O	1
+2	have	O	1
+3	enough	O	1
+4	problems	O	1
+5	with	O	1
+6	alcohol	LEGAL DRUGS	1
+7	and	LEGAL DRUGS	1
+8	abuse	LEGAL DRUGS	1
+9	of	O	1
+10	pharmaceutical	LEGAL DRUGS	1
+11	products	LEGAL DRUGS	1
+12	.	O	0
+
+1	It	MEDICAL MARIJUANA	1
+2	can	MEDICAL MARIJUANA	1
+3	be	MEDICAL MARIJUANA	1
+4	a	MEDICAL MARIJUANA	1
+5	blessing	MEDICAL MARIJUANA	1
+6	for	MEDICAL MARIJUANA	1
+7	someone	MEDICAL MARIJUANA	1
+8	suffering	MEDICAL MARIJUANA	1
+9	from	MEDICAL MARIJUANA	1
+10	nightmares	MEDICAL MARIJUANA	1
+11	associated	MEDICAL MARIJUANA	1
+12	with	MEDICAL MARIJUANA	1
+13	PTSD	MEDICAL MARIJUANA	1
+14	.	O	0
+
+1	Another	O	1
+2	study	O	1
+3	finds	O	1
+4	that	O	1
+5	the	O	1
+6	hippocampus	O	1
+7	—	O	1
+8	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+9	part	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	of	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	brain	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	responsible	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	for	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	long-term	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	memory	HEALTH/PSYCHOLOGICAL EFFECTS	1
+17	—	HEALTH/PSYCHOLOGICAL EFFECTS	1
+18	is	HEALTH/PSYCHOLOGICAL EFFECTS	1
+19	abnormally	HEALTH/PSYCHOLOGICAL EFFECTS	1
+20	shaped	HEALTH/PSYCHOLOGICAL EFFECTS	1
+21	in	O	1
+22	daily	O	1
+23	marijuana	O	1
+24	users	O	1
+25	.	O	0
+
+1	The	DRUG POLICY	1
+2	war	DRUG POLICY	1
+3	on	DRUG POLICY	1
+4	drugs	DRUG POLICY	1
+5	and	O	1
+6	prohibitionist	DRUG POLICY	1
+7	policies	DRUG POLICY	1
+8	only	O	1
+9	serve	O	1
+10	to	O	1
+11	aggravate	O	1
+12	the	O	1
+13	already	O	1
+14	detrimental	O	1
+15	impacts	O	1
+16	of	O	1
+17	narco-trafficking	ILLEGAL TRADE	1
+18	on	O	1
+19	Central	O	1
+20	American	O	1
+21	forests	O	1
+22	.	O	0
+
+1	Loss	ILLEGAL TRADE	1
+2	of	ILLEGAL TRADE	1
+3	Business	ILLEGAL TRADE	1
+4	for	ILLEGAL TRADE	1
+5	Drug	ILLEGAL TRADE	1
+6	Dealers	ILLEGAL TRADE	1
+7	(	O	1
+8	Including	ILLEGAL TRADE	1
+9	Terrorists	ILLEGAL TRADE	1
+10	)	O	1
+11	.	O	0
+
+1	The	NATIONAL BUDGET	1
+2	costs	NATIONAL BUDGET	1
+3	from	NATIONAL BUDGET	1
+4	health	NATIONAL BUDGET	1
+5	and	NATIONAL BUDGET	1
+6	mental	NATIONAL BUDGET	1
+7	wellness	NATIONAL BUDGET	1
+8	problems	NATIONAL BUDGET	1
+9	,	NATIONAL BUDGET	1
+10	accidents	NATIONAL BUDGET	1
+11	,	NATIONAL BUDGET	1
+12	and	NATIONAL BUDGET	1
+13	damage	NATIONAL BUDGET	1
+14	to	NATIONAL BUDGET	1
+15	our	NATIONAL BUDGET	1
+16	economic	NATIONAL BUDGET	1
+17	productivity	NATIONAL BUDGET	1
+18	will	NATIONAL BUDGET	1
+19	far	NATIONAL BUDGET	1
+20	out	NATIONAL BUDGET	1
+21	strip	NATIONAL BUDGET	1
+22	any	NATIONAL BUDGET	1
+23	tax	NATIONAL BUDGET	1
+24	obtained	NATIONAL BUDGET	1
+25	.	O	0
+
+1	They	O	1
+2	argue	O	1
+3	that	O	1
+4	the	O	1
+5	Dutch	O	1
+6	idea	O	1
+7	of	O	1
+8	going	O	1
+9	soft	O	1
+10	on	O	1
+11	cannabis	O	1
+12	dealers	O	1
+13	,	O	1
+14	thereby	O	1
+15	creating	O	1
+16	a	O	1
+17	"	O	1
+18	separation	O	1
+19	of	O	1
+20	markets	O	1
+21	"	O	1
+22	from	O	1
+23	hard	O	1
+24	drug	O	1
+25	dealers	O	1
+26	has	GATEWAY DRUG	1
+27	failed	GATEWAY DRUG	1
+28	to	GATEWAY DRUG	1
+29	stem	GATEWAY DRUG	1
+30	the	GATEWAY DRUG	1
+31	initiation	GATEWAY DRUG	1
+32	to	GATEWAY DRUG	1
+33	drugs	GATEWAY DRUG	1
+34	such	GATEWAY DRUG	1
+35	as	GATEWAY DRUG	1
+36	heroin	GATEWAY DRUG	1
+37	,	GATEWAY DRUG	1
+38	cocaine	GATEWAY DRUG	1
+39	,	GATEWAY DRUG	1
+40	and	GATEWAY DRUG	1
+41	amphetamines	GATEWAY DRUG	1
+42	,	O	1
+43	saying	O	1
+44	that	O	1
+45	,	O	1
+46	in	O	1
+47	1998	O	1
+48	,	O	1
+49	the	O	1
+50	Netherlands	O	1
+51	had	O	1
+52	the	O	1
+53	third	O	1
+54	highest	O	1
+55	cannabis	O	1
+56	and	O	1
+57	cocaine	O	1
+58	use	O	1
+59	in	O	1
+60	Europe	O	1
+61	.	O	0
+
+1	In	O	1
+2	a	O	1
+3	display	O	1
+4	window	O	1
+5	,	O	1
+6	scrumptious-looking	CHILD AND TEEN SAFETY	1
+7	,	CHILD AND TEEN SAFETY	1
+8	pink	CHILD AND TEEN SAFETY	1
+9	pot	CHILD AND TEEN SAFETY	1
+10	candies	CHILD AND TEEN SAFETY	1
+11	entice	CHILD AND TEEN SAFETY	1
+12	a	CHILD AND TEEN SAFETY	1
+13	little	CHILD AND TEEN SAFETY	1
+14	girl	CHILD AND TEEN SAFETY	1
+15	on	O	1
+16	her	O	1
+17	way	O	1
+18	to	O	1
+19	the	O	1
+20	toy	O	1
+21	store	O	1
+22	next	O	1
+23	door	O	1
+24	,	O	1
+25	mortifying	O	1
+26	her	O	1
+27	mother	O	1
+28	.	O	0
+
+1	As	O	1
+2	detailed	O	1
+3	in	O	1
+4	the	O	1
+5	related	O	1
+6	links	O	1
+7	section	O	1
+8	,	O	1
+9	there	O	1
+10	are	O	1
+11	a	O	1
+12	number	O	1
+13	of	O	1
+14	medical	MEDICAL MARIJUANA	1
+15	benefits	MEDICAL MARIJUANA	1
+16	of	O	1
+17	marijuana	O	1
+18	,	O	1
+19	most	O	1
+20	notably	O	1
+21	in	O	1
+22	the	MEDICAL MARIJUANA	1
+23	treatment	MEDICAL MARIJUANA	1
+24	of	MEDICAL MARIJUANA	1
+25	patients	MEDICAL MARIJUANA	1
+26	undergoing	MEDICAL MARIJUANA	1
+27	chemotherapy	MEDICAL MARIJUANA	1
+28	.	O	0
+
+1	Even	O	1
+2	if	O	1
+3	the	O	1
+4	drug	O	1
+5	is	O	1
+6	shown	O	1
+7	to	O	1
+8	be	O	1
+9	harmful	O	1
+10	,	O	1
+11	is	PERSONAL FREEDOM	1
+12	n't	PERSONAL FREEDOM	1
+13	it	PERSONAL FREEDOM	1
+14	the	PERSONAL FREEDOM	1
+15	right	PERSONAL FREEDOM	1
+16	of	PERSONAL FREEDOM	1
+17	every	PERSONAL FREEDOM	1
+18	person	PERSONAL FREEDOM	1
+19	to	PERSONAL FREEDOM	1
+20	choose	PERSONAL FREEDOM	1
+21	what	PERSONAL FREEDOM	1
+22	harms	PERSONAL FREEDOM	1
+23	him	PERSONAL FREEDOM	1
+24	or	PERSONAL FREEDOM	1
+25	her	PERSONAL FREEDOM	1
+26	?	O	0
+
+1	Libertarians	O	1
+2	may	O	1
+3	ask	O	1
+4	why	O	1
+5	cannabis	O	1
+6	,	O	1
+7	which	O	1
+8	has	O	1
+9	no	O	1
+10	known	O	1
+11	lethal	O	1
+12	dose	O	1
+13	,	O	1
+14	should	O	1
+15	be	O	1
+16	regulated	O	1
+17	at	O	1
+18	all	O	1
+19	for	O	1
+20	adults	PERSONAL FREEDOM	1
+21	who	PERSONAL FREEDOM	1
+22	can	PERSONAL FREEDOM	1
+23	make	PERSONAL FREEDOM	1
+24	free	PERSONAL FREEDOM	1
+25	,	PERSONAL FREEDOM	1
+26	informed	PERSONAL FREEDOM	1
+27	decisions	PERSONAL FREEDOM	1
+28	.	O	0
+
+1	As	O	1
+2	previously	O	1
+3	mentioned	O	1
+4	,	O	1
+5	marijuana	O	1
+6	brings	O	1
+7	about	O	1
+8	a	O	1
+9	number	O	1
+10	of	O	1
+11	medical	MEDICAL MARIJUANA	1
+12	benefits	MEDICAL MARIJUANA	1
+13	.	O	0
+
+1	The	HEALTH/PSYCHOLOGICAL EFFECTS	1
+2	brain	HEALTH/PSYCHOLOGICAL EFFECTS	1
+3	damage	HEALTH/PSYCHOLOGICAL EFFECTS	1
+4	has	O	1
+5	been	O	1
+6	shown	O	1
+7	to	O	1
+8	cause	O	1
+9	memory	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	loss	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	and	O	1
+12	difficulty	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	in	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	problem	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	solving	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	.	O	0
+
+1	Marijuana	O	1
+2	has	O	1
+3	a	DRUG ABUSE	1
+4	very	DRUG ABUSE	1
+5	low	DRUG ABUSE	1
+6	risk	DRUG ABUSE	1
+7	of	DRUG ABUSE	1
+8	abuse	DRUG ABUSE	1
+9	.	O	0
+
+1	While	O	1
+2	tobacco	LEGAL DRUGS	1
+3	and	LEGAL DRUGS	1
+4	cigarettes	LEGAL DRUGS	1
+5	have	O	1
+6	a	O	1
+7	nasty	O	1
+8	reputation	O	1
+9	for	O	1
+10	pumping	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	carcinogens	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	into	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	lungs	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	,	O	1
+16	marijuana	O	1
+17	is	O	1
+18	estimated	O	1
+19	to	O	1
+20	have	O	1
+21	levels	HEALTH/PSYCHOLOGICAL EFFECTS	1
+22	of	HEALTH/PSYCHOLOGICAL EFFECTS	1
+23	carcinogens	HEALTH/PSYCHOLOGICAL EFFECTS	1
+24	that	O	1
+25	are	O	1
+26	almost	O	1
+27	double	O	1
+28	of	O	1
+29	that	O	1
+30	from	O	1
+31	tobacco	LEGAL DRUGS	1
+32	smoke	LEGAL DRUGS	1
+33	.	O	0
+
+1	Addiction	O	1
+2	treatment	O	1
+3	specialists	O	1
+4	believe	O	1
+5	that	O	1
+6	weed	O	1
+7	is	O	1
+8	a	GATEWAY DRUG	1
+9	gateway	GATEWAY DRUG	1
+10	drug	GATEWAY DRUG	1
+11	that	O	1
+12	potentially	O	1
+13	introduces	GATEWAY DRUG	1
+14	users	GATEWAY DRUG	1
+15	to	GATEWAY DRUG	1
+16	more	GATEWAY DRUG	1
+17	serious	GATEWAY DRUG	1
+18	illegal	GATEWAY DRUG	1
+19	substances	GATEWAY DRUG	1
+20	of	O	1
+21	abuse	O	1
+22	.	O	0
+
+1	MASON	O	1
+2	TVERT	O	1
+3	:	O	1
+4	There	O	1
+5	'	O	0
+6	s	O	1
+7	also	O	1
+8	been	O	1
+9	research	O	1
+10	done	O	1
+11	on	O	1
+12	secondhand	PERSONAL FREEDOM	1
+13	smoke	PERSONAL FREEDOM	1
+14	that	O	1
+15	shows	O	1
+16	that	O	1
+17	marijuana	O	1
+18	smoke	O	1
+19	does	O	1
+20	not	O	1
+21	get	O	1
+22	other	O	1
+23	people	O	1
+24	high	O	1
+25	.	O	0
+
+1	5	O	1
+2	)	O	1
+3	The	HARM	1
+4	drug	HARM	1
+5	decimates	HARM	1
+6	many	HARM	1
+7	people	HARM	1
+8	'	HARM	0
+9	s	HARM	1
+10	lives	HARM	1
+11	:	O	1
+12	Movies	O	1
+13	portray	HARM	1
+14	potheads	HARM	1
+15	as	HARM	1
+16	harmless	HARM	1
+17	,	HARM	1
+18	fun-loving	HARM	1
+19	people	HARM	1
+20	who	O	1
+21	spend	O	1
+22	their	O	1
+23	time	O	1
+24	giggling	O	1
+25	and	O	1
+26	munching	O	1
+27	Cheetos	O	1
+28	,	O	1
+29	but	O	1
+30	they	O	1
+31	do	O	1
+32	n't	O	1
+33	show	O	1
+34	these	O	1
+35	people	O	1
+36	when	O	1
+37	they	O	1
+38	'	O	0
+39	re	O	1
+40	flunking	O	1
+41	out	O	1
+42	of	O	1
+43	school	O	1
+44	,	O	1
+45	losing	O	1
+46	their	O	1
+47	jobs	O	1
+48	,	O	1
+49	frustrated	O	1
+50	because	O	1
+51	they	O	1
+52	ca	O	1
+53	n't	O	1
+54	concentrate	O	1
+55	or	O	1
+56	losing	O	1
+57	the	O	1
+58	love	O	1
+59	of	O	1
+60	their	O	1
+61	lives	O	1
+62	because	O	1
+63	they	O	1
+64	just	O	1
+65	do	O	1
+66	n't	O	1
+67	want	O	1
+68	to	O	1
+69	be	O	1
+70	with	O	1
+71	a	O	1
+72	pot	O	1
+73	smoking	O	1
+74	loser	O	1
+75	anymore	O	1
+76	.	O	0
+
+1	For	O	1
+2	instance	O	1
+3	,	O	1
+4	in	O	1
+5	Colorado	O	1
+6	,	O	1
+7	analysts	O	1
+8	recommend	O	1
+9	that	O	1
+10	taxing	NATIONAL BUDGET	1
+11	the	NATIONAL BUDGET	1
+12	drug	NATIONAL BUDGET	1
+13	could	NATIONAL BUDGET	1
+14	raise	NATIONAL BUDGET	1
+15	millions	NATIONAL BUDGET	1
+16	of	NATIONAL BUDGET	1
+17	dollars	NATIONAL BUDGET	1
+18	each	NATIONAL BUDGET	1
+19	year	NATIONAL BUDGET	1
+20	.	O	0
+
+1	It	O	1
+2	would	COMMUNITY/SOCIATAL EFFECTS	1
+3	put	COMMUNITY/SOCIATAL EFFECTS	1
+4	too	COMMUNITY/SOCIATAL EFFECTS	1
+5	many	COMMUNITY/SOCIATAL EFFECTS	1
+6	drugs	COMMUNITY/SOCIATAL EFFECTS	1
+7	on	COMMUNITY/SOCIATAL EFFECTS	1
+8	the	COMMUNITY/SOCIATAL EFFECTS	1
+9	street	COMMUNITY/SOCIATAL EFFECTS	1
+10	,	O	1
+11	we	O	1
+12	do	O	1
+13	n’t	O	1
+14	need	O	1
+15	that	O	1
+16	.	O	1
+17	”	O	0
+
+1	The	O	1
+2	effect	O	1
+3	is	O	1
+4	amplified	O	1
+5	by	O	1
+6	the	O	1
+7	fact	O	1
+8	that	O	1
+9	many	O	1
+10	pot	O	1
+11	smokers	O	1
+12	inhale	O	1
+13	more	O	1
+14	deeply	O	1
+15	than	O	1
+16	cigarette	O	1
+17	smokers	O	1
+18	,	O	1
+19	increasing	O	1
+20	the	O	1
+21	amount	O	1
+22	of	O	1
+23	time	O	1
+24	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+25	lungs	HEALTH/PSYCHOLOGICAL EFFECTS	1
+26	are	HEALTH/PSYCHOLOGICAL EFFECTS	1
+27	exposed	HEALTH/PSYCHOLOGICAL EFFECTS	1
+28	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+29	cancer-causing	HEALTH/PSYCHOLOGICAL EFFECTS	1
+30	chemicals	HEALTH/PSYCHOLOGICAL EFFECTS	1
+31	.	O	0
+
+1	Research	O	1
+2	shows	O	1
+3	that	O	1
+4	use	O	1
+5	of	O	1
+6	any	O	1
+7	of	O	1
+8	these	CHILD AND TEEN SAFETY	1
+9	drugs	CHILD AND TEEN SAFETY	1
+10	in	CHILD AND TEEN SAFETY	1
+11	adolescence	CHILD AND TEEN SAFETY	1
+12	—	O	1
+13	especially	O	1
+14	early	CHILD AND TEEN SAFETY	1
+15	adolescence	CHILD AND TEEN SAFETY	1
+16	—	O	1
+17	significantly	O	1
+18	heightens	O	1
+19	risks	O	1
+20	of	O	1
+21	substance	O	1
+22	use	O	1
+23	disorders	O	1
+24	in	O	1
+25	later	O	1
+26	life	O	1
+27	.	O	0
+
+1	In	O	1
+2	fact	O	1
+3	,	O	1
+4	high-dose	O	1
+5	THC	O	1
+6	–	O	1
+7	one	O	1
+8	of	O	1
+9	the	O	1
+10	most	O	1
+11	widely	O	1
+12	studied	O	1
+13	molecules	O	1
+14	in	O	1
+15	the	O	1
+16	marijuana	O	1
+17	plant	O	1
+18	–	O	1
+19	has	HEALTH/PSYCHOLOGICAL EFFECTS	1
+20	been	HEALTH/PSYCHOLOGICAL EFFECTS	1
+21	found	HEALTH/PSYCHOLOGICAL EFFECTS	1
+22	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+23	cause	HEALTH/PSYCHOLOGICAL EFFECTS	1
+24	acute	HEALTH/PSYCHOLOGICAL EFFECTS	0
+25	/	HEALTH/PSYCHOLOGICAL EFFECTS	0
+26	transient	HEALTH/PSYCHOLOGICAL EFFECTS	1
+27	psychosis	HEALTH/PSYCHOLOGICAL EFFECTS	1
+28	.	O	0
+
+1	Sembler	O	1
+2	and	O	1
+3	his	O	1
+4	wife	O	1
+5	,	O	1
+6	Betty	O	1
+7	,	O	1
+8	are	O	1
+9	cofounders	O	1
+10	of	O	1
+11	the	O	1
+12	Drug	O	1
+13	Free	O	1
+14	America	O	1
+15	Foundation	O	1
+16	,	O	1
+17	a	O	1
+18	group	O	1
+19	that	O	1
+20	supports	O	1
+21	drug-testing	O	1
+22	students	O	1
+23	,	O	1
+24	opposes	O	1
+25	taking	O	1
+26	a	O	1
+27	harm-reduction	O	1
+28	approach	O	1
+29	to	O	1
+30	drug	ADDICTION	1
+31	addiction	ADDICTION	1
+32	,	O	1
+33	and	O	1
+34	claims	O	1
+35	that	O	1
+36	“	O	1
+37	crude	MEDICAL MARIJUANA	1
+38	”	MEDICAL MARIJUANA	1
+39	marijuana	MEDICAL MARIJUANA	1
+40	is	MEDICAL MARIJUANA	1
+41	not	MEDICAL MARIJUANA	1
+42	medicine	MEDICAL MARIJUANA	1
+43	.	O	0
+
+1	"	O	1
+2	Seventy-five	O	1
+3	dollars	O	1
+4	is	O	1
+5	n't	O	1
+6	anything	O	1
+7	compared	O	1
+8	to	O	1
+9	the	O	1
+10	cost	O	1
+11	of	O	1
+12	a	CHILD AND TEEN SAFETY	1
+13	child	CHILD AND TEEN SAFETY	1
+14	becoming	CHILD AND TEEN SAFETY	1
+15	addicted	CHILD AND TEEN SAFETY	1
+16	to	CHILD AND TEEN SAFETY	1
+17	any	CHILD AND TEEN SAFETY	1
+18	substance	CHILD AND TEEN SAFETY	1
+19	,	O	1
+20	including	O	1
+21	marijuana	O	1
+22	,	O	1
+23	"	O	1
+24	she	O	1
+25	told	O	1
+26	New	O	1
+27	Times	O	1
+28	.	O	0
+
+1	Developing	HEALTH/PSYCHOLOGICAL EFFECTS	1
+2	brains	HEALTH/PSYCHOLOGICAL EFFECTS	1
+3	and	HEALTH/PSYCHOLOGICAL EFFECTS	1
+4	bodies	HEALTH/PSYCHOLOGICAL EFFECTS	1
+5	can	HEALTH/PSYCHOLOGICAL EFFECTS	1
+6	be	HEALTH/PSYCHOLOGICAL EFFECTS	1
+7	dealt	HEALTH/PSYCHOLOGICAL EFFECTS	1
+8	serious	HEALTH/PSYCHOLOGICAL EFFECTS	1
+9	blows	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	by	O	1
+11	the	O	1
+12	use	O	1
+13	of	O	1
+14	marijuana	O	1
+15	.	O	0
+
+1	Marijuana	O	1
+2	use	O	1
+3	can	HEALTH/PSYCHOLOGICAL EFFECTS	1
+4	permanently	HEALTH/PSYCHOLOGICAL EFFECTS	1
+5	impair	HEALTH/PSYCHOLOGICAL EFFECTS	1
+6	brain	HEALTH/PSYCHOLOGICAL EFFECTS	1
+7	development	HEALTH/PSYCHOLOGICAL EFFECTS	1
+8	.	O	0
+
+1	Policies	O	1
+2	aimed	O	1
+3	at	O	1
+4	legalizing	O	1
+5	marijuana	O	1
+6	will	O	1
+7	result	O	1
+8	in	O	1
+9	a	O	1
+10	myriad	O	1
+11	of	O	1
+12	unintended	O	1
+13	but	O	1
+14	predictable	O	1
+15	consequences	O	1
+16	,	O	1
+17	including	O	1
+18	increased	CHILD AND TEEN SAFETY	1
+19	usage	CHILD AND TEEN SAFETY	1
+20	by	CHILD AND TEEN SAFETY	1
+21	minors	CHILD AND TEEN SAFETY	1
+22	,	O	1
+23	additional	ILLEGAL TRADE	1
+24	drug	ILLEGAL TRADE	1
+25	trafficking	ILLEGAL TRADE	1
+26	by	ILLEGAL TRADE	1
+27	criminal	ILLEGAL TRADE	1
+28	syndicates	ILLEGAL TRADE	1
+29	,	O	1
+30	and	O	1
+31	an	COMMUNITY/SOCIATAL EFFECTS	1
+32	increase	COMMUNITY/SOCIATAL EFFECTS	1
+33	in	COMMUNITY/SOCIATAL EFFECTS	1
+34	crime	COMMUNITY/SOCIATAL EFFECTS	1
+35	.	O	0
+
+1	He	O	1
+2	became	O	1
+3	an	O	1
+4	advocate	O	1
+5	for	O	1
+6	medical	MEDICAL MARIJUANA	1
+7	marijuana	MEDICAL MARIJUANA	1
+8	when	O	1
+9	he	MEDICAL MARIJUANA	1
+10	used	MEDICAL MARIJUANA	1
+11	the	MEDICAL MARIJUANA	1
+12	drug	MEDICAL MARIJUANA	1
+13	to	MEDICAL MARIJUANA	1
+14	ease	MEDICAL MARIJUANA	1
+15	pain	MEDICAL MARIJUANA	1
+16	following	MEDICAL MARIJUANA	1
+17	the	MEDICAL MARIJUANA	1
+18	amputation	MEDICAL MARIJUANA	1
+19	of	MEDICAL MARIJUANA	1
+20	his	MEDICAL MARIJUANA	1
+21	leg	MEDICAL MARIJUANA	1
+22	in	O	1
+23	1998	O	1
+24	.	O	0
+
+1	The	O	1
+2	first	O	1
+3	step	O	1
+4	in	O	1
+5	any	O	1
+6	plan	O	1
+7	to	O	1
+8	alleviate	O	1
+9	this	O	1
+10	dreadful	O	1
+11	affliction	O	1
+12	should	O	1
+13	be	O	1
+14	the	DRUG POLICY	1
+15	establishment	DRUG POLICY	1
+16	of	DRUG POLICY	1
+17	Federal	DRUG POLICY	1
+18	control	DRUG POLICY	1
+19	and	DRUG POLICY	1
+20	dispensation	DRUG POLICY	1
+21	–	O	1
+22	at	O	1
+23	cost	O	1
+24	–	O	1
+25	of	O	1
+26	habit-forming	ADDICTION	1
+27	drugs	ADDICTION	1
+28	.	O	0
+
+1	Marijuana	O	1
+2	is	O	1
+3	less	ADDICTION	1
+4	addictive	ADDICTION	1
+5	than	O	1
+6	tobacco	LEGAL DRUGS	1
+7	or	LEGAL DRUGS	1
+8	alcohol	LEGAL DRUGS	1
+9	,	O	1
+10	and	O	1
+11	compares	O	1
+12	favorably	O	1
+13	to	O	1
+14	those	O	1
+15	drugs	O	1
+16	on	O	1
+17	nearly	O	1
+18	every	O	1
+19	health	O	1
+20	metric	O	1
+21	.	O	0
+
+1	“	O	1
+2	As	O	1
+3	a	O	1
+4	father	O	1
+5	and	O	1
+6	grandfather	O	1
+7	,	O	1
+8	I	O	1
+9	’ve	O	1
+10	always	O	1
+11	been	O	1
+12	fearful	O	1
+13	of	O	1
+14	both	O	1
+15	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	immediate	HEALTH/PSYCHOLOGICAL EFFECTS	1
+17	and	HEALTH/PSYCHOLOGICAL EFFECTS	1
+18	long-term	HEALTH/PSYCHOLOGICAL EFFECTS	1
+19	effects	HEALTH/PSYCHOLOGICAL EFFECTS	1
+20	of	HEALTH/PSYCHOLOGICAL EFFECTS	1
+21	recreational	HEALTH/PSYCHOLOGICAL EFFECTS	1
+22	marijuana	HEALTH/PSYCHOLOGICAL EFFECTS	1
+23	usage	HEALTH/PSYCHOLOGICAL EFFECTS	1
+24	,	O	1
+25	”	O	1
+26	Heller	O	1
+27	said	O	1
+28	.	O	0
+
+1	But	O	1
+2	the	O	1
+3	act	O	1
+4	does	O	1
+5	not	O	1
+6	even	O	1
+7	purport	O	1
+8	to	O	1
+9	address	O	1
+10	the	DRUG POLICY	1
+11	fundamental	DRUG POLICY	1
+12	constitutional	DRUG POLICY	1
+13	infirmity	DRUG POLICY	1
+14	that	O	1
+15	it	O	1
+16	would	O	1
+17	be	O	1
+18	in	O	1
+19	direct	DRUG POLICY	1
+20	conflict	DRUG POLICY	1
+21	with	DRUG POLICY	1
+22	federal	DRUG POLICY	1
+23	law	DRUG POLICY	1
+24	.	O	0
+
+1	As	O	1
+2	the	O	1
+3	recent	O	1
+4	black	O	1
+5	helicopter	O	1
+6	raids	O	1
+7	show	O	1
+8	,	O	1
+9	hundreds	O	1
+10	of	O	1
+11	thousands	O	1
+12	of	O	1
+13	taxpayer	NATIONAL BUDGET	1
+14	dollars	NATIONAL BUDGET	1
+15	are	NATIONAL BUDGET	1
+16	being	NATIONAL BUDGET	1
+17	wasted	NATIONAL BUDGET	1
+18	on	O	1
+19	enforcing	O	1
+20	unworkable	O	1
+21	laws	O	1
+22	on	O	1
+23	a	O	1
+24	substance	O	1
+25	that	O	1
+26	is	O	1
+27	less	HARM	1
+28	dangerous	HARM	1
+29	than	O	1
+30	alcohol	LEGAL DRUGS	1
+31	.	O	0
+
+1	This	O	1
+2	has	O	1
+3	created	O	1
+4	a	ILLEGAL TRADE	1
+5	new	ILLEGAL TRADE	1
+6	black	ILLEGAL TRADE	1
+7	market	ILLEGAL TRADE	1
+8	and	O	1
+9	decreased	O	1
+10	property	O	1
+11	values	O	1
+12	.	O	0
+
+1	Our	O	1
+2	concern	O	1
+3	about	O	1
+4	legalization	O	1
+5	is	O	1
+6	its	CHILD AND TEEN SAFETY	1
+7	effect	CHILD AND TEEN SAFETY	1
+8	on	CHILD AND TEEN SAFETY	1
+9	kids	CHILD AND TEEN SAFETY	1
+10	.	O	0
+
+1	A	O	1
+2	common	O	1
+3	argument	O	1
+4	for	O	1
+5	legalization	O	1
+6	is	O	1
+7	that	O	1
+8	smoking	O	1
+9	marijuana	O	1
+10	is	O	1
+11	no	O	1
+12	more	O	1
+13	dangerous	O	1
+14	than	O	1
+15	drinking	LEGAL DRUGS	1
+16	alcohol	LEGAL DRUGS	1
+17	and	O	1
+18	that	O	1
+19	prohibiting	O	1
+20	the	O	1
+21	use	O	1
+22	of	O	1
+23	marijuana	O	1
+24	is	O	1
+25	therefore	O	1
+26	no	O	1
+27	more	O	1
+28	justified	O	1
+29	than	O	1
+30	the	O	1
+31	prohibition	O	1
+32	of	O	1
+33	alcohol	LEGAL DRUGS	1
+34	.	O	0
+
+1	Might	O	1
+2	medical	MEDICAL MARIJUANA	1
+3	use	MEDICAL MARIJUANA	1
+4	inevitably	O	1
+5	lead	O	1
+6	to	O	1
+7	recreational	O	1
+8	use	O	1
+9	?	O	0
+
+1	Currently	O	1
+2	,	O	1
+3	you	O	1
+4	can	O	1
+5	not	O	1
+6	call	O	1
+7	the	O	1
+8	police	O	1
+9	or	O	1
+10	any	O	1
+11	lawyer	O	1
+12	to	O	1
+13	litigate	O	1
+14	if	O	1
+15	someone	O	1
+16	in	O	1
+17	the	ILLEGAL TRADE	1
+18	drug	ILLEGAL TRADE	1
+19	trade	ILLEGAL TRADE	1
+20	screws	ILLEGAL TRADE	1
+21	you	ILLEGAL TRADE	1
+22	over	ILLEGAL TRADE	1
+23	.	O	0
+
+1	Marijuana	O	1
+2	can	MEDICAL MARIJUANA	1
+3	help	MEDICAL MARIJUANA	1
+4	treat	MEDICAL MARIJUANA	1
+5	Alzheimer	MEDICAL MARIJUANA	1
+6	’s	MEDICAL MARIJUANA	1
+7	by	O	1
+8	one	O	1
+9	of	O	1
+10	the	O	1
+11	major	O	1
+12	components	O	1
+13	called	O	1
+14	cannabidiol	O	1
+15	(	O	1
+16	CBD	O	1
+17	)	O	1
+18	.	O	0
+
+1	Though	O	1
+2	more	O	1
+3	adults	O	1
+4	are	O	1
+5	smoking	O	1
+6	pot	O	1
+7	,	O	1
+8	the	O	1
+9	MTF	O	1
+10	data	O	1
+11	suggests	O	1
+12	that	O	1
+13	teens	CHILD AND TEEN SAFETY	1
+14	are	CHILD AND TEEN SAFETY	1
+15	n't	CHILD AND TEEN SAFETY	1
+16	following	CHILD AND TEEN SAFETY	1
+17	suit	CHILD AND TEEN SAFETY	1
+18	.	O	0
+
+1	Moderate	O	1
+2	use	O	1
+3	of	O	1
+4	marijuana	O	1
+5	does	HEALTH/PSYCHOLOGICAL EFFECTS	1
+6	not	HEALTH/PSYCHOLOGICAL EFFECTS	1
+7	appear	HEALTH/PSYCHOLOGICAL EFFECTS	1
+8	to	HEALTH/PSYCHOLOGICAL EFFECTS	1
+9	pose	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	a	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	risk	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	for	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	otherwise	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	healthy	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	adults	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	.	O	0
+
+1	It	O	1
+2	affects	HEALTH/PSYCHOLOGICAL EFFECTS	1
+3	your	HEALTH/PSYCHOLOGICAL EFFECTS	1
+4	judgment	HEALTH/PSYCHOLOGICAL EFFECTS	1
+5	and	HEALTH/PSYCHOLOGICAL EFFECTS	1
+6	motor	HEALTH/PSYCHOLOGICAL EFFECTS	1
+7	skills	HEALTH/PSYCHOLOGICAL EFFECTS	1
+8	and	O	1
+9	in	O	1
+10	the	O	1
+11	long	O	1
+12	term	O	1
+13	it	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	makes	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	you	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	lazy	HEALTH/PSYCHOLOGICAL EFFECTS	1
+17	.	O	1
+18	”	O	0
+
+1	But	O	1
+2	it	O	1
+3	is	O	1
+4	long	O	1
+5	past	O	1
+6	time	O	1
+7	to	DRUG POLICY	1
+8	repeal	DRUG POLICY	1
+9	this	DRUG POLICY	1
+10	version	DRUG POLICY	1
+11	of	DRUG POLICY	1
+12	Prohibition	DRUG POLICY	1
+13	.	O	0
+
+1	The	O	1
+2	benefits	O	1
+3	of	O	1
+4	criminalization	COMMUNITY/SOCIATAL EFFECTS	1
+5	are	O	1
+6	minuscule	O	1
+7	to	O	1
+8	nonexistent	O	1
+9	.	O	0
+
+1	You	O	1
+2	really	O	1
+3	want	CHILD AND TEEN SAFETY	1
+4	your	CHILD AND TEEN SAFETY	1
+5	kids	CHILD AND TEEN SAFETY	1
+6	on	CHILD AND TEEN SAFETY	1
+7	that	CHILD AND TEEN SAFETY	1
+8	?	O	0
+
+1	The	O	1
+2	culprits	O	1
+3	are	O	1
+4	often	O	1
+5	from	O	1
+6	other	O	1
+7	states	O	1
+8	or	O	1
+9	countries	O	1
+10	and	O	1
+11	sometimes	O	1
+12	affiliated	O	1
+13	with	O	1
+14	cartels	ILLEGAL TRADE	1
+15	.	O	0
+
+1	I	O	1
+2	fear	O	1
+3	that	O	1
+4	the	O	1
+5	only	O	1
+6	message	O	1
+7	that	O	1
+8	will	O	1
+9	be	O	1
+10	sent	O	1
+11	by	O	1
+12	the	O	1
+13	hasty	O	1
+14	decision	O	1
+15	on	O	1
+16	mephedrone	O	1
+17	is	O	1
+18	that	O	1
+19	the	DRUG POLICY	1
+20	drug	DRUG POLICY	1
+21	laws	DRUG POLICY	1
+22	deserve	DRUG POLICY	1
+23	no	DRUG POLICY	1
+24	respect	DRUG POLICY	1
+25	.	O	0
+
+1	Colin	O	1
+2	Souney	O	1
+3	,	O	1
+4	a	O	1
+5	cannabis	O	1
+6	activist	O	1
+7	from	O	1
+8	Guilford	O	1
+9	who	O	1
+10	was	O	1
+11	scheduled	O	1
+12	to	O	1
+13	be	O	1
+14	part	O	1
+15	of	O	1
+16	a	O	1
+17	panel	O	1
+18	discussion	O	1
+19	,	O	1
+20	said	O	1
+21	legalization	O	1
+22	would	NATIONAL BUDGET	1
+23	reduce	NATIONAL BUDGET	1
+24	a	NATIONAL BUDGET	1
+25	burden	NATIONAL BUDGET	1
+26	on	NATIONAL BUDGET	1
+27	the	NATIONAL BUDGET	1
+28	state	NATIONAL BUDGET	1
+29	'	NATIONAL BUDGET	0
+30	s	NATIONAL BUDGET	1
+31	criminal	NATIONAL BUDGET	1
+32	justice	NATIONAL BUDGET	1
+33	system	NATIONAL BUDGET	1
+34	.	O	0
+
+1	The	O	1
+2	use	O	1
+3	of	O	1
+4	illicit	O	1
+5	drugs	O	1
+6	has	O	1
+7	been	O	1
+8	prohibited	O	1
+9	internationally	O	1
+10	since	O	1
+11	1912	O	1
+12	,	O	1
+13	an	O	1
+14	entire	O	1
+15	century	O	1
+16	,	O	1
+17	because	O	1
+18	of	O	1
+19	international	O	1
+20	agreement	O	1
+21	that	O	1
+22	the	O	1
+23	general	O	1
+24	community	O	1
+25	has	O	1
+26	a	O	1
+27	greater	O	1
+28	right	O	1
+29	to	O	1
+30	protect	O	1
+31	itself	O	1
+32	from	O	1
+33	the	HARM	1
+34	harms	HARM	1
+35	of	HARM	1
+36	illicit	HARM	1
+37	drug	HARM	1
+38	use	HARM	1
+39	than	O	1
+40	does	O	1
+41	an	O	1
+42	individual	O	1
+43	user	O	1
+44	to	O	1
+45	use	O	1
+46	a	HARM	1
+47	harmful	HARM	1
+48	substance	HARM	1
+49	recreationally	O	1
+50	.	O	0
+
+1	I	MEDICAL MARIJUANA	1
+2	want	MEDICAL MARIJUANA	1
+3	a	MEDICAL MARIJUANA	1
+4	good	MEDICAL MARIJUANA	1
+5	night	MEDICAL MARIJUANA	1
+6	’s	MEDICAL MARIJUANA	1
+7	sleep	MEDICAL MARIJUANA	1
+8	.	O	0
+
+1	Three	O	1
+2	of	O	1
+3	the	O	1
+4	commission	O	1
+5	members	O	1
+6	would	O	1
+7	be	O	1
+8	representatives	O	1
+9	of	O	1
+10	current	MEDICAL MARIJUANA	1
+11	,	MEDICAL MARIJUANA	1
+12	nonprofit	MEDICAL MARIJUANA	1
+13	medical-marijuana	MEDICAL MARIJUANA	1
+14	dispensary	MEDICAL MARIJUANA	1
+15	companies	MEDICAL MARIJUANA	1
+16	;	O	1
+17	presumably	O	1
+18	,	O	1
+19	they	O	1
+20	would	O	1
+21	not	O	1
+22	be	O	1
+23	in	O	1
+24	a	O	1
+25	rush	O	1
+26	to	O	1
+27	create	O	1
+28	a	O	1
+29	whole	O	1
+30	bunch	O	1
+31	of	O	1
+32	new	O	1
+33	competition	O	1
+34	for	O	1
+35	themselves	O	1
+36	.	O	0
+
+1	It	O	1
+2	is	CHILD AND TEEN SAFETY	1
+3	going	CHILD AND TEEN SAFETY	1
+4	to	CHILD AND TEEN SAFETY	1
+5	be	CHILD AND TEEN SAFETY	1
+6	allowed	CHILD AND TEEN SAFETY	1
+7	for	CHILD AND TEEN SAFETY	1
+8	an	CHILD AND TEEN SAFETY	1
+9	18-year-old	CHILD AND TEEN SAFETY	1
+10	,	O	1
+11	so	O	1
+12	that	O	1
+13	could	O	1
+14	be	O	1
+15	a	CHILD AND TEEN SAFETY	1
+16	high	CHILD AND TEEN SAFETY	1
+17	school	CHILD AND TEEN SAFETY	1
+18	senior	CHILD AND TEEN SAFETY	1
+19	.	O	0
+
+1	It	O	1
+2	was	O	1
+3	remarkably	O	1
+4	successful	O	1
+5	:	O	1
+6	Illegal	CHILD AND TEEN SAFETY	1
+7	drug	CHILD AND TEEN SAFETY	1
+8	use	CHILD AND TEEN SAFETY	1
+9	by	CHILD AND TEEN SAFETY	1
+10	young	CHILD AND TEEN SAFETY	1
+11	adults	CHILD AND TEEN SAFETY	1
+12	dropped	CHILD AND TEEN SAFETY	1
+13	more	O	1
+14	than	O	1
+15	50	O	1
+16	percent	O	1
+17	.	O	0
+
+1	And	O	1
+2	it	O	1
+3	does	O	1
+4	not	O	1
+5	have	O	1
+6	any	O	1
+7	sort	O	1
+8	of	O	1
+9	negative	HEALTH/PSYCHOLOGICAL EFFECTS	1
+10	implications	HEALTH/PSYCHOLOGICAL EFFECTS	1
+11	on	HEALTH/PSYCHOLOGICAL EFFECTS	1
+12	it	HEALTH/PSYCHOLOGICAL EFFECTS	1
+13	for	HEALTH/PSYCHOLOGICAL EFFECTS	1
+14	their	HEALTH/PSYCHOLOGICAL EFFECTS	1
+15	health	HEALTH/PSYCHOLOGICAL EFFECTS	1
+16	.	O	0
+
+1	Even	O	1
+2	if	O	1
+3	critical	O	1
+4	workers	O	1
+5	—	O	1
+6	for	O	1
+7	example	O	1
+8	,	O	1
+9	police	O	1
+10	officers	O	1
+11	,	O	1
+12	airline	O	1
+13	pilots	O	1
+14	,	O	1
+15	and	O	1
+16	machine	O	1
+17	operators	O	1
+18	—	O	1
+19	used	O	1
+20	marijuana	O	1
+21	recreationally	O	1
+22	but	O	1
+23	remained	O	1
+24	sober	O	1
+25	on	O	1
+26	the	O	1
+27	job	O	1
+28	,	O	1
+29	the	HEALTH/PSYCHOLOGICAL EFFECTS	1
+30	long-term	HEALTH/PSYCHOLOGICAL EFFECTS	1
+31	cognitive	HEALTH/PSYCHOLOGICAL EFFECTS	1
+32	deficiency	HEALTH/PSYCHOLOGICAL EFFECTS	1
+33	that	O	1
+34	remained	O	1
+35	from	O	1
+36	regular	O	1
+37	drug	O	1
+38	use	O	1
+39	would	O	1
+40	sap	O	1
+41	productivity	O	1
+42	and	O	1
+43	place	O	1
+44	countless	O	1
+45	people	O	1
+46	in	O	1
+47	danger	O	1
+48	.	O	0
+

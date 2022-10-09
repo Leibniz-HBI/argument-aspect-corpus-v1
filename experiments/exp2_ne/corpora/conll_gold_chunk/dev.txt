@@ -1,0 +1,2927 @@
+1	The	O	True
+2	support	O	True
+3	of	O	True
+4	nuclear	O	True
+5	power	O	True
+6	by	O	True
+7	government	ENERGY POLICY	True
+8	results	ENERGY POLICY	True
+9	from	O	True
+10	special	ENERGY POLICY	True
+11	pleading	ENERGY POLICY	True
+12	lobbying	ENERGY POLICY	True
+13	by	O	True
+14	the	O	True
+15	industry	O	True
+16	.	O	False
+
+1	There	O	True
+2	are	O	True
+3	no	TECHNOLOGICAL INNOVATION	True
+4	operating	TECHNOLOGICAL INNOVATION	True
+5	“	TECHNOLOGICAL INNOVATION	True
+6	next	TECHNOLOGICAL INNOVATION	True
+7	generation	TECHNOLOGICAL INNOVATION	True
+8	”	TECHNOLOGICAL INNOVATION	True
+9	reactors	TECHNOLOGICAL INNOVATION	True
+10	,	O	True
+11	such	O	True
+12	as	O	True
+13	high-temperature	O	True
+14	breeder	O	True
+15	reactors	O	True
+16	and	O	True
+17	particle-beam	O	True
+18	activated	O	True
+19	reactors	O	True
+20	,	O	True
+21	that	O	True
+22	are	TECHNOLOGICAL INNOVATION	True
+23	reported	TECHNOLOGICAL INNOVATION	True
+24	to	TECHNOLOGICAL INNOVATION	True
+25	produce	TECHNOLOGICAL INNOVATION	True
+26	less	TECHNOLOGICAL INNOVATION	True
+27	waste	TECHNOLOGICAL INNOVATION	True
+28	and	O	True
+29	have	O	True
+30	reduced	O	True
+31	safety	ACCIDENTS/SECURITY	True
+32	concerns	ACCIDENTS/SECURITY	True
+33	.	O	False
+
+1	The	O	True
+2	Cleaning	O	True
+3	power	O	True
+4	of	O	True
+5	Ionizing	O	True
+6	radiation	O	True
+7	will	O	True
+8	even	O	True
+9	help	O	True
+10	remove	O	True
+11	DNA	O	True
+12	damaged	O	True
+13	by	O	True
+14	the	HEALTH EFFECTS	True
+15	“	HEALTH EFFECTS	True
+16	free	HEALTH EFFECTS	True
+17	”	HEALTH EFFECTS	True
+18	radicals	HEALTH EFFECTS	True
+19	that	O	True
+20	may	O	True
+21	have	O	True
+22	caused	O	True
+23	the	HEALTH EFFECTS	True
+24	genetic	HEALTH EFFECTS	True
+25	damage	HEALTH EFFECTS	True
+26	in	O	True
+27	the	O	True
+28	first	O	True
+29	place	O	True
+30	and	O	True
+31	still	O	True
+32	be	O	True
+33	in	O	True
+34	place	O	True
+35	in	O	True
+36	the	O	True
+37	DNA	O	True
+38	molecule	O	True
+39	.	O	False
+
+1	It	O	True
+2	is	O	True
+3	a	ENVIRONMENTAL IMPACT	True
+4	clean	ENVIRONMENTAL IMPACT	True
+5	source	ENVIRONMENTAL IMPACT	True
+6	of	O	True
+7	energy	O	True
+8	and	O	True
+9	would	O	True
+10	be	O	True
+11	cost	COSTS	True
+12	effective	COSTS	True
+13	.	O	False
+
+1	Radioactive	WASTE	True
+2	Waste	WASTE	True
+3	:	O	True
+4	The	O	True
+5	entire	O	True
+6	nuclear	O	True
+7	fuel	O	True
+8	chain	O	True
+9	,	O	True
+10	from	O	True
+11	mining	O	True
+12	to	O	True
+13	milling	O	True
+14	,	O	True
+15	processing	O	True
+16	,	O	True
+17	enrichment	O	True
+18	,	O	True
+19	fuel	O	True
+20	fabrication	O	True
+21	,	O	True
+22	and	O	True
+23	fuel	O	True
+24	irradiation	O	True
+25	in	O	True
+26	reactors	O	True
+27	,	O	True
+28	generates	O	True
+29	radioactive	WASTE	True
+30	waste	WASTE	True
+31	.	O	False
+
+1	With	O	True
+2	new	TECHNOLOGICAL INNOVATION	True
+3	generations	TECHNOLOGICAL INNOVATION	True
+4	of	TECHNOLOGICAL INNOVATION	True
+5	reactors	TECHNOLOGICAL INNOVATION	True
+6	,	O	True
+7	potential	O	True
+8	major	O	True
+9	breakthroughs	O	True
+10	such	O	True
+11	as	O	True
+12	nuclear	TECHNOLOGICAL INNOVATION	True
+13	fusion	TECHNOLOGICAL INNOVATION	True
+14	,	O	True
+15	the	O	True
+16	methods	O	True
+17	we	O	True
+18	use	O	True
+19	to	O	True
+20	harness	O	True
+21	nuclear	O	True
+22	energy	O	True
+23	will	O	True
+24	get	O	True
+25	better	O	True
+26	in	O	True
+27	the	O	True
+28	next	O	True
+29	coming	O	True
+30	years	O	True
+31	.	O	False
+
+1	This	WASTE	True
+2	waste	WASTE	True
+3	has	O	True
+4	to	O	True
+5	be	O	True
+6	maintained	O	True
+7	,	O	True
+8	monitored	O	True
+9	and	O	True
+10	guarded	O	True
+11	to	O	True
+12	prevent	O	True
+13	the	O	True
+14	materials	O	True
+15	from	O	True
+16	falling	O	True
+17	into	O	True
+18	the	O	True
+19	wrong	O	True
+20	hands	O	True
+21	.	O	False
+
+1	With	O	True
+2	the	O	True
+3	nuclear	O	True
+4	industry	O	True
+5	’s	O	True
+6	litany	O	True
+7	of	O	True
+8	smaller	O	True
+9	radioactive	O	True
+10	leaks	O	True
+11	,	O	True
+12	accidents	ACCIDENTS/SECURITY	True
+13	,	O	True
+14	opaque	O	True
+15	safety	O	True
+16	plans	O	True
+17	,	O	True
+18	and	O	True
+19	a	O	True
+20	history	O	True
+21	of	O	True
+22	cover-ups	O	True
+23	,	O	True
+24	people	O	True
+25	have	O	True
+26	every	O	True
+27	right	O	True
+28	to	O	True
+29	be	O	True
+30	very	O	True
+31	alarmed	O	True
+32	at	O	True
+33	the	O	True
+34	potential	O	True
+35	for	O	True
+36	a	ACCIDENTS/SECURITY	True
+37	devastating	ACCIDENTS/SECURITY	True
+38	nuclear	ACCIDENTS/SECURITY	True
+39	accident	ACCIDENTS/SECURITY	True
+40	coming	O	True
+41	to	O	True
+42	a	O	True
+43	plant	O	True
+44	near	O	True
+45	them	O	True
+46	.	O	False
+
+1	Without	O	True
+2	an	O	True
+3	increase	O	True
+4	in	O	True
+5	the	O	True
+6	rate	O	True
+7	of	O	True
+8	new-plant	O	True
+9	construction	O	True
+10	that	O	True
+11	surpasses	O	True
+12	that	O	True
+13	of	O	True
+14	the	O	True
+15	global	O	True
+16	construction	O	True
+17	programs	O	True
+18	of	O	True
+19	the	O	True
+20	1970s	O	True
+21	and	O	True
+22	1980s	O	True
+23	,	O	True
+24	nuclear	O	True
+25	power	O	True
+26	can	O	True
+27	not	O	True
+28	make	O	True
+29	a	O	True
+30	meaningful	O	True
+31	contribution	O	True
+32	to	O	True
+33	climate	ENVIRONMENTAL IMPACT	True
+34	change	ENVIRONMENTAL IMPACT	True
+35	risk	ENVIRONMENTAL IMPACT	True
+36	mitigation	ENVIRONMENTAL IMPACT	True
+37	.	O	False
+
+1	Despite	O	True
+2	what	O	True
+3	the	O	True
+4	nuclear	O	True
+5	industry	O	True
+6	tells	O	True
+7	us	O	True
+8	,	O	True
+9	building	O	True
+10	enough	O	True
+11	nuclear	O	True
+12	power	O	True
+13	stations	O	True
+14	to	O	True
+15	make	O	True
+16	a	O	True
+17	meaningful	O	True
+18	reduction	O	True
+19	in	O	True
+20	greenhouse	ENVIRONMENTAL IMPACT	True
+21	gas	ENVIRONMENTAL IMPACT	True
+22	emissions	ENVIRONMENTAL IMPACT	True
+23	would	COSTS	True
+24	cost	COSTS	True
+25	trillions	O	True
+26	of	O	True
+27	dollars	O	True
+28	,	O	True
+29	create	O	True
+30	tens	O	True
+31	of	O	True
+32	thousands	O	True
+33	of	O	True
+34	tons	O	True
+35	of	O	True
+36	lethal	WASTE	True
+37	high-level	WASTE	True
+38	radioactive	WASTE	True
+39	waste	WASTE	True
+40	,	O	True
+41	contribute	O	True
+42	to	O	True
+43	further	O	True
+44	proliferation	O	True
+45	of	O	True
+46	nuclear	WEAPONS	True
+47	weapons	WEAPONS	True
+48	materials	WEAPONS	True
+49	,	O	True
+50	and	O	True
+51	result	O	True
+52	in	O	True
+53	a	ACCIDENTS/SECURITY	True
+54	Chernobyl-scale	ACCIDENTS/SECURITY	True
+55	accident	ACCIDENTS/SECURITY	True
+56	once	O	True
+57	every	O	True
+58	decade	O	True
+59	.	O	False
+
+1	Both	O	True
+2	were	O	True
+3	members	O	True
+4	of	O	True
+5	David	O	True
+6	Rockefeller	O	True
+7	’s	O	True
+8	Trilateral	O	True
+9	Commission	O	True
+10	and	O	True
+11	both	O	True
+12	favored	O	True
+13	fossil	FOSSIL FUELS	True
+14	fuel	FOSSIL FUELS	True
+15	interests	FOSSIL FUELS	True
+16	over	O	True
+17	increased	O	True
+18	use	O	True
+19	of	O	True
+20	nuclear	O	True
+21	energy	O	True
+22	.	O	False
+
+1	In	O	True
+2	addition	O	True
+3	,	O	True
+4	nuclear	O	True
+5	fission	O	True
+6	differs	O	True
+7	from	O	True
+8	the	O	True
+9	burning	O	True
+10	of	O	True
+11	fossil	O	True
+12	fuel	O	True
+13	in	O	True
+14	that	O	True
+15	it	O	True
+16	produces	ENVIRONMENTAL IMPACT	True
+17	neither	ENVIRONMENTAL IMPACT	True
+18	sulfur	ENVIRONMENTAL IMPACT	True
+19	dioxide	ENVIRONMENTAL IMPACT	True
+20	nor	O	True
+21	nitrogen	O	True
+22	oxides	O	True
+23	,	O	True
+24	the	ENVIRONMENTAL IMPACT	True
+25	pollutants	ENVIRONMENTAL IMPACT	True
+26	that	O	True
+27	cause	O	True
+28	acid	ENVIRONMENTAL IMPACT	True
+29	rain	ENVIRONMENTAL IMPACT	True
+30	.	O	False
+
+1	Construction	COSTS	True
+2	cost	COSTS	True
+3	overruns	COSTS	True
+4	notwithstanding	O	True
+5	,	O	True
+6	most	O	True
+7	nuclear	O	True
+8	power	O	True
+9	plants	O	True
+10	produce	O	True
+11	electricity	O	True
+12	at	O	True
+13	competitive	COSTS	True
+14	costs	COSTS	True
+15	.	O	False
+
+1	Adding	O	True
+2	more	O	True
+3	nuclear	O	True
+4	reactors	O	True
+5	to	O	True
+6	a	O	True
+7	site	O	True
+8	simply	O	True
+9	makes	O	True
+10	it	O	True
+11	more	ACCIDENTS/SECURITY	True
+12	vulnerable	ACCIDENTS/SECURITY	True
+13	to	ACCIDENTS/SECURITY	True
+14	attacks	ACCIDENTS/SECURITY	True
+15	by	O	True
+16	increasing	O	True
+17	the	O	True
+18	number	O	True
+19	of	O	True
+20	targets	O	True
+21	or	O	True
+22	making	O	True
+23	the	O	True
+24	target	O	True
+25	bigger	O	True
+26	.	O	False
+
+1	Public	PUBLIC DEBATE	True
+2	ignorance	PUBLIC DEBATE	True
+3	of	O	True
+4	general	O	True
+5	industrial	O	True
+6	standards	O	True
+7	of	O	True
+8	performance	O	True
+9	means	O	True
+10	that	O	True
+11	trivial	O	True
+12	incidents	O	True
+13	can	O	True
+14	acquire	O	True
+15	high	PUBLIC DEBATE	True
+16	profile	PUBLIC DEBATE	True
+17	in	PUBLIC DEBATE	True
+18	media	PUBLIC DEBATE	True
+19	.	O	False
+
+1	Perhaps	O	True
+2	most	O	True
+3	significantly	O	True
+4	,	O	True
+5	it	O	True
+6	will	O	True
+7	squander	O	True
+8	the	O	True
+9	resources	O	True
+10	necessary	O	True
+11	to	O	True
+12	implement	O	True
+13	meaningful	ENVIRONMENTAL IMPACT	True
+14	climate	ENVIRONMENTAL IMPACT	True
+15	change	ENVIRONMENTAL IMPACT	True
+16	solutions	ENVIRONMENTAL IMPACT	True
+17	.	O	False
+
+1	Fusion	O	True
+2	,	O	True
+3	of	O	True
+4	course	O	True
+5	,	O	True
+6	is	O	True
+7	the	O	True
+8	ultimate	O	True
+9	dream	O	True
+10	:	O	True
+11	virtually	ENVIRONMENTAL IMPACT	True
+12	unlimited	ENVIRONMENTAL IMPACT	True
+13	,	ENVIRONMENTAL IMPACT	True
+14	radiation-free	ENVIRONMENTAL IMPACT	True
+15	clean	ENVIRONMENTAL IMPACT	True
+16	energy	ENVIRONMENTAL IMPACT	True
+17	powered	O	True
+18	by	O	True
+19	the	RELIABILITY	True
+20	most	RELIABILITY	True
+21	abundant	RELIABILITY	True
+22	element	RELIABILITY	True
+23	in	O	True
+24	the	O	True
+25	universe	O	True
+26	and	O	True
+27	with	O	True
+28	no	ENVIRONMENTAL IMPACT	True
+29	carbon	ENVIRONMENTAL IMPACT	True
+30	emissions	ENVIRONMENTAL IMPACT	True
+31	.	O	False
+
+1	Switzerland	O	True
+2	has	O	True
+3	a	O	True
+4	2050	O	True
+5	energy	O	True
+6	strategy	O	True
+7	in	O	True
+8	which	O	True
+9	it	O	True
+10	would	O	True
+11	gradually	O	True
+12	replace	O	True
+13	nuclear	O	True
+14	power	O	True
+15	that	O	True
+16	now	O	True
+17	supplies	O	True
+18	about	O	True
+19	a	O	True
+20	third	O	True
+21	of	O	True
+22	the	O	True
+23	country	O	True
+24	’s	O	True
+25	electricity	O	True
+26	with	O	True
+27	renewables	RENEWABLES	True
+28	,	O	True
+29	including	O	True
+30	wind	RENEWABLES	True
+31	and	RENEWABLES	True
+32	solar	RENEWABLES	True
+33	.	O	False
+
+1	[	O	True
+2	And	O	True
+3	,	O	True
+4	why	O	True
+5	would	O	True
+6	nuclear	O	True
+7	energy	O	True
+8	be	O	True
+9	expanding	O	True
+10	internationally	O	True
+11	if	COSTS	True
+12	it	COSTS	True
+13	was	COSTS	True
+14	n't	COSTS	True
+15	inherently	COSTS	True
+16	economical	COSTS	True
+17	?	O	True
+18	]	O	False
+
+1	Having	O	True
+2	studied	O	True
+3	many	O	True
+4	reports	O	True
+5	and	O	True
+6	original	O	True
+7	ORNL	O	True
+8	documents	O	True
+9	regarding	O	True
+10	LFTR	TECHNOLOGICAL INNOVATION	True
+11	,	O	True
+12	it	O	True
+13	turns	O	True
+14	out	O	True
+15	that	O	True
+16	LFTR	TECHNOLOGICAL INNOVATION	True
+17	is	O	True
+18	truly	O	True
+19	dreadful	O	True
+20	technology	O	True
+21	.	O	False
+
+1	Abandoned	O	True
+2	mines	O	True
+3	from	O	True
+4	the	O	True
+5	Cold	O	True
+6	War	O	True
+7	era	O	True
+8	continue	O	True
+9	to	O	True
+10	pose	O	True
+11	contamination	ENVIRONMENTAL IMPACT	True
+12	problems	ENVIRONMENTAL IMPACT	True
+13	in	O	True
+14	the	O	True
+15	Navajo	O	True
+16	Nation.Â	O	True
+17	(	O	True
+18	Today	O	True
+19	,	O	True
+20	most	O	True
+21	of	O	True
+22	the	O	True
+23	uranium	O	True
+24	used	O	True
+25	in	O	True
+26	American	O	True
+27	reactors	O	True
+28	comes	O	True
+29	from	O	True
+30	Canada	O	True
+31	,	O	True
+32	Australia	O	True
+33	,	O	True
+34	and	O	True
+35	Russia	O	True
+36	.	O	True
+37	)	O	False
+
+1	Nuclear	O	True
+2	energy	O	True
+3	relies	O	True
+4	too	O	True
+5	heavily	O	True
+6	on	O	True
+7	subsidies	ENERGY POLICY	False
+8	/	ENERGY POLICY	False
+9	taxpayers	ENERGY POLICY	True
+10	"	O	True
+11	The	O	True
+12	Case	O	True
+13	Against	O	True
+14	Nuclear	O	True
+15	Power	O	True
+16	"	O	True
+17	.	O	False
+
+1	This	O	True
+2	presents	O	True
+3	risks	O	True
+4	to	O	True
+5	the	O	True
+6	populations	O	True
+7	that	O	True
+8	exist	O	True
+9	on	O	True
+10	the	O	True
+11	route	O	True
+12	to	O	True
+13	these	WASTE	True
+14	waste	WASTE	True
+15	areas	WASTE	True
+16	.	O	False
+
+1	It	O	True
+2	'	O	False
+3	s	O	True
+4	precisely	O	True
+5	the	O	True
+6	memories	O	True
+7	of	O	True
+8	Fukushima	O	True
+9	and	O	True
+10	the	O	True
+11	1986	O	True
+12	Chernobyl	O	True
+13	disaster	O	True
+14	that	O	True
+15	make	O	True
+16	thorium	TECHNOLOGICAL INNOVATION	True
+17	reactors	TECHNOLOGICAL INNOVATION	True
+18	seem	O	True
+19	appealing	O	True
+20	to	O	True
+21	some	O	True
+22	.	O	False
+
+1	Decommissioning	O	True
+2	nuclear	O	True
+3	power	O	True
+4	plants	O	True
+5	is	O	True
+6	expensive	COSTS	True
+7	"	O	True
+8	The	O	True
+9	case	O	True
+10	against	O	True
+11	nuclear	O	True
+12	power	O	True
+13	"	O	True
+14	.	O	False
+
+1	When	O	True
+2	necessary	O	True
+3	,	O	True
+4	design	O	True
+5	changes	O	True
+6	followed	O	True
+7	and	O	True
+8	extra	ACCIDENTS/SECURITY	True
+9	safety	ACCIDENTS/SECURITY	True
+10	protocols	ACCIDENTS/SECURITY	True
+11	and	ACCIDENTS/SECURITY	True
+12	features	ACCIDENTS/SECURITY	True
+13	had	O	True
+14	to	O	True
+15	be	O	True
+16	put	O	True
+17	in	O	True
+18	place	O	True
+19	,	O	True
+20	this	O	True
+21	was	O	True
+22	perceived	O	True
+23	as	O	True
+24	unexpected	COSTS	True
+25	cost	COSTS	True
+26	increases	COSTS	True
+27	.	O	False
+
+1	I	O	True
+2	strongly	O	True
+3	disagree	O	True
+4	that	O	True
+5	wind	RENEWABLES	True
+6	and	RENEWABLES	True
+7	solar	RENEWABLES	True
+8	have	O	True
+9	a	O	True
+10	higher	O	True
+11	chance	O	True
+12	at	O	True
+13	being	O	True
+14	able	O	True
+15	to	RELIABILITY	True
+16	meet	RELIABILITY	True
+17	our	RELIABILITY	True
+18	needs	RELIABILITY	True
+19	over	O	True
+20	nuclear	O	True
+21	energy	O	True
+22	.	O	False
+
+1	You	O	True
+2	Can	O	True
+3	Put	O	True
+4	Neucler	WASTE	True
+5	Waste	WASTE	True
+6	In	O	True
+7	Less	O	True
+8	Populated	O	True
+9	Areas	O	True
+10	.	O	False
+
+1	During	O	True
+2	this	O	True
+3	time	O	True
+4	,	O	True
+5	no	HEALTH EFFECTS	True
+6	one	HEALTH EFFECTS	True
+7	in	HEALTH EFFECTS	True
+8	the	HEALTH EFFECTS	True
+9	U.S.	HEALTH EFFECTS	True
+10	has	HEALTH EFFECTS	True
+11	died	HEALTH EFFECTS	True
+12	or	HEALTH EFFECTS	True
+13	been	HEALTH EFFECTS	True
+14	injured	HEALTH EFFECTS	True
+15	as	O	True
+16	a	O	True
+17	result	O	True
+18	of	O	True
+19	operations	O	True
+20	at	O	True
+21	a	O	True
+22	commercial	O	True
+23	nuclear	O	True
+24	power	O	True
+25	plant	O	True
+26	.	O	False
+
+1	The	O	True
+2	thinking	O	True
+3	is	O	True
+4	that	O	True
+5	big	PUBLIC DEBATE	True
+6	corporations	PUBLIC DEBATE	True
+7	are	PUBLIC DEBATE	True
+8	motivated	PUBLIC DEBATE	True
+9	only	PUBLIC DEBATE	True
+10	to	PUBLIC DEBATE	True
+11	distort	PUBLIC DEBATE	True
+12	the	PUBLIC DEBATE	True
+13	truth	PUBLIC DEBATE	True
+14	,	O	True
+15	minimize	O	True
+16	legal	O	True
+17	exposure	O	True
+18	,	O	True
+19	withhold	PUBLIC DEBATE	True
+20	information	PUBLIC DEBATE	True
+21	,	O	True
+22	and	O	True
+23	to	O	True
+24	make	O	True
+25	money	PUBLIC DEBATE	True
+26	at	PUBLIC DEBATE	True
+27	the	PUBLIC DEBATE	True
+28	expense	PUBLIC DEBATE	True
+29	of	PUBLIC DEBATE	True
+30	the	PUBLIC DEBATE	True
+31	public	PUBLIC DEBATE	True
+32	good	PUBLIC DEBATE	True
+33	if	O	True
+34	necessary	O	True
+35	.	O	False
+
+1	Coal	FOSSIL FUELS	True
+2	and	FOSSIL FUELS	True
+3	natural	FOSSIL FUELS	True
+4	gas	FOSSIL FUELS	True
+5	power	FOSSIL FUELS	True
+6	plants	FOSSIL FUELS	True
+7	discharge	O	True
+8	carbon	O	True
+9	dioxide	O	True
+10	into	O	True
+11	the	O	True
+12	air	O	True
+13	,	O	True
+14	which	O	True
+15	causes	O	True
+16	a	O	True
+17	number	O	True
+18	of	O	True
+19	environmental	O	True
+20	issues	O	True
+21	.	O	False
+
+1	On	O	True
+2	average	O	True
+3	,	O	True
+4	a	O	True
+5	nuclear	O	True
+6	power	O	True
+7	plant	O	True
+8	annually	O	True
+9	generates	O	True
+10	20	O	True
+11	metric	O	True
+12	tons	O	True
+13	of	O	True
+14	used	O	True
+15	nuclear	O	True
+16	fuel	O	True
+17	,	O	True
+18	classified	O	True
+19	as	O	True
+20	high-level	WASTE	True
+21	radioactive	WASTE	True
+22	waste	WASTE	True
+23	.	O	False
+
+1	Serious	ENVIRONMENTAL IMPACT	True
+2	radioactive	ENVIRONMENTAL IMPACT	True
+3	contamination	ENVIRONMENTAL IMPACT	True
+4	spread	O	True
+5	over	O	True
+6	150,000	O	True
+7	square	O	True
+8	kilometers	O	True
+9	in	O	True
+10	Byelorussia	O	True
+11	,	O	True
+12	Ukraine	O	True
+13	and	O	True
+14	Russia	O	True
+15	.	O	False
+
+1	Water	O	True
+2	discharged	O	True
+3	from	O	True
+4	a	O	True
+5	nuclear	O	True
+6	power	O	True
+7	plant	O	True
+8	contains	O	True
+9	no	ENVIRONMENTAL IMPACT	True
+10	harmful	ENVIRONMENTAL IMPACT	True
+11	pollutants	ENVIRONMENTAL IMPACT	True
+12	and	O	True
+13	meets	O	True
+14	regulatory	O	True
+15	standards	O	True
+16	for	O	True
+17	temperature	O	True
+18	designed	O	True
+19	to	ENVIRONMENTAL IMPACT	True
+20	protect	ENVIRONMENTAL IMPACT	True
+21	aquatic	ENVIRONMENTAL IMPACT	True
+22	life	ENVIRONMENTAL IMPACT	True
+23	.	O	False
+
+1	Its	HEALTH EFFECTS	True
+2	harmful	HEALTH EFFECTS	True
+3	effects	HEALTH EFFECTS	True
+4	on	HEALTH EFFECTS	True
+5	humans	ENVIRONMENTAL IMPACT	True
+6	and	ENVIRONMENTAL IMPACT	True
+7	ecology	ENVIRONMENTAL IMPACT	True
+8	can	O	True
+9	still	O	True
+10	be	O	True
+11	seen	O	True
+12	today	O	True
+13	.	O	False
+
+1	It	O	True
+2	is	O	True
+3	the	ENVIRONMENTAL IMPACT	True
+4	only	ENVIRONMENTAL IMPACT	True
+5	nonpolluting	ENVIRONMENTAL IMPACT	True
+6	energy	ENVIRONMENTAL IMPACT	True
+7	source	ENVIRONMENTAL IMPACT	True
+8	that	O	True
+9	can	O	True
+10	provide	O	True
+11	the	RELIABILITY	True
+12	steady	RELIABILITY	True
+13	base	RELIABILITY	True
+14	needs	RELIABILITY	True
+15	of	RELIABILITY	True
+16	the	RELIABILITY	True
+17	power	RELIABILITY	True
+18	grid	RELIABILITY	True
+19	into	O	True
+20	the	O	True
+21	future	O	True
+22	.	O	False
+
+1	According	O	True
+2	to	O	True
+3	this	O	True
+4	twisted	O	True
+5	logic	O	True
+6	,	O	True
+7	environmental	ENVIRONMENTAL IMPACT	True
+8	benefits	ENVIRONMENTAL IMPACT	True
+9	from	O	True
+10	new	O	True
+11	nuclear	O	True
+12	power	O	True
+13	plants	O	True
+14	do	O	True
+15	receive	O	True
+16	proper	O	True
+17	credit	O	True
+18	under	O	True
+19	the	O	True
+20	Obama	O	True
+21	administration	O	True
+22	’s	O	True
+23	Clean	O	True
+24	Power	O	True
+25	Plan	O	True
+26	.	O	False
+
+1	This	O	True
+2	is	O	True
+3	because	O	True
+4	it	O	True
+5	’s	O	True
+6	now	O	True
+7	being	O	True
+8	touted	O	True
+9	as	O	True
+10	a	ENVIRONMENTAL IMPACT	True
+11	more	ENVIRONMENTAL IMPACT	True
+12	environmentally	ENVIRONMENTAL IMPACT	True
+13	beneficial	ENVIRONMENTAL IMPACT	True
+14	solution	ENVIRONMENTAL IMPACT	True
+15	since	O	True
+16	it	O	True
+17	emits	ENVIRONMENTAL IMPACT	True
+18	far	ENVIRONMENTAL IMPACT	True
+19	fewer	ENVIRONMENTAL IMPACT	True
+20	greenhouse	ENVIRONMENTAL IMPACT	True
+21	gases	ENVIRONMENTAL IMPACT	True
+22	during	O	True
+23	electricity	O	True
+24	generation	O	True
+25	than	O	True
+26	coal	FOSSIL FUELS	True
+27	or	O	True
+28	other	O	True
+29	traditional	O	True
+30	power	O	True
+31	plants	O	True
+32	.	O	False
+
+1	If	O	True
+2	SA	O	True
+3	could	O	True
+4	find	O	True
+5	a	O	True
+6	place	O	True
+7	away	HEALTH EFFECTS	True
+8	from	HEALTH EFFECTS	True
+9	human	HEALTH EFFECTS	True
+10	cities	HEALTH EFFECTS	True
+11	and	HEALTH EFFECTS	True
+12	towns	HEALTH EFFECTS	True
+13	that	O	True
+14	could	O	True
+15	be	O	True
+16	used	O	True
+17	for	O	True
+18	a	O	True
+19	nuclear	O	True
+20	power	O	True
+21	plant	O	True
+22	,	O	True
+23	I	O	True
+24	think	O	True
+25	it	O	True
+26	could	O	True
+27	work	O	True
+28	.	O	False
+
+1	Wall	O	True
+2	Street	O	True
+3	wo	O	True
+4	n’t	O	True
+5	finance	O	True
+6	one	O	True
+7	unless	O	True
+8	taxpayers	O	True
+9	co-sign	O	True
+10	,	O	True
+11	and	O	True
+12	the	O	True
+13	nuclear	O	True
+14	industry	O	True
+15	tried	O	True
+16	and	O	True
+17	failed	O	True
+18	to	O	True
+19	obtain	O	True
+20	more	O	True
+21	than	O	True
+22	$	O	True
+23	100	O	True
+24	billion	O	True
+25	in	O	True
+26	federal	ENERGY POLICY	True
+27	loan	ENERGY POLICY	True
+28	guarantees	ENERGY POLICY	True
+29	.	O	False
+
+1	Studies	O	True
+2	by	O	True
+3	numerous	O	True
+4	health	O	True
+5	entities	O	True
+6	,	O	True
+7	including	O	True
+8	the	O	True
+9	National	O	True
+10	Cancer	O	True
+11	Institute	O	True
+12	and	O	True
+13	the	O	True
+14	United	O	True
+15	Nations	O	True
+16	Scientific	O	True
+17	Committee	O	True
+18	on	O	True
+19	the	O	True
+20	Effects	O	True
+21	of	O	True
+22	Atomic	O	True
+23	Radiation	O	True
+24	,	O	True
+25	show	O	True
+26	that	O	True
+27	US	O	True
+28	nuclear	O	True
+29	power	O	True
+30	plants	O	True
+31	effectively	O	True
+32	protect	O	True
+33	the	HEALTH EFFECTS	True
+34	public	HEALTH EFFECTS	True
+35	'	HEALTH EFFECTS	False
+36	s	HEALTH EFFECTS	True
+37	health	HEALTH EFFECTS	True
+38	and	HEALTH EFFECTS	True
+39	safety	HEALTH EFFECTS	True
+40	.	O	False
+
+1	In	O	True
+2	all	O	True
+3	countries	O	True
+4	using	O	True
+5	nuclear	O	True
+6	energy	O	True
+7	there	O	True
+8	are	O	True
+9	well	O	True
+10	established	O	True
+11	procedures	O	True
+12	for	O	True
+13	storing	O	True
+14	,	O	True
+15	managing	O	True
+16	and	O	True
+17	transporting	O	True
+18	such	WASTE	True
+19	wastes	WASTE	True
+20	,	O	True
+21	funded	O	True
+22	from	O	True
+23	electricity	O	True
+24	users	O	True
+25	.	O	False
+
+1	While	O	True
+2	the	O	True
+3	casualties	O	True
+4	were	O	True
+5	not	O	True
+6	as	O	True
+7	high	O	True
+8	as	O	True
+9	with	O	True
+10	the	ACCIDENTS/SECURITY	True
+11	Chernobyl	ACCIDENTS/SECURITY	True
+12	accident	ACCIDENTS/SECURITY	True
+13	,	O	True
+14	the	ENVIRONMENTAL IMPACT	True
+15	environmental	ENVIRONMENTAL IMPACT	True
+16	effects	ENVIRONMENTAL IMPACT	True
+17	were	O	True
+18	disasterous	O	True
+19	.	O	False
+
+1	After	O	True
+2	the	ACCIDENTS/SECURITY	True
+3	accident	ACCIDENTS/SECURITY	True
+4	at	O	True
+5	Three	O	True
+6	Mile	O	True
+7	Island	O	True
+8	,	O	True
+9	building	O	True
+10	of	O	True
+11	nuclear	O	True
+12	power	O	True
+13	generation	O	True
+14	stopped	O	True
+15	.	O	False
+
+1	They	O	True
+2	are	O	True
+3	part	O	True
+4	of	O	True
+5	a	O	True
+6	vanguard	O	True
+7	of	O	True
+8	next-generation	O	True
+9	plants	O	True
+10	that	O	True
+11	include	O	True
+12	so-called	TECHNOLOGICAL INNOVATION	True
+13	small	TECHNOLOGICAL INNOVATION	True
+14	modular	TECHNOLOGICAL INNOVATION	True
+15	reactors	TECHNOLOGICAL INNOVATION	True
+16	(	TECHNOLOGICAL INNOVATION	True
+17	SMRs	TECHNOLOGICAL INNOVATION	True
+18	)	TECHNOLOGICAL INNOVATION	True
+19	,	O	True
+20	seen	O	True
+21	as	O	True
+22	safer	ACCIDENTS/SECURITY	True
+23	and	ACCIDENTS/SECURITY	True
+24	less	ACCIDENTS/SECURITY	True
+25	costly	ACCIDENTS/SECURITY	True
+26	.	O	False
+
+1	Advocates	O	True
+2	are	O	True
+3	fond	O	True
+4	of	O	True
+5	noting	O	True
+6	that	O	True
+7	nuclear	O	True
+8	power	O	True
+9	now	O	True
+10	provides	O	True
+11	70	O	True
+12	percent	O	True
+13	of	O	True
+14	the	O	True
+15	country	O	True
+16	'	ENVIRONMENTAL IMPACT	False
+17	s	ENVIRONMENTAL IMPACT	True
+18	"	ENVIRONMENTAL IMPACT	True
+19	carbon-free	ENVIRONMENTAL IMPACT	True
+20	"	ENVIRONMENTAL IMPACT	True
+21	energy	ENVIRONMENTAL IMPACT	True
+22	.	O	False
+
+1	There	O	True
+2	’s	O	True
+3	a	O	True
+4	subtext	O	True
+5	that	O	True
+6	a	ACCIDENTS/SECURITY	True
+7	nuclear	ACCIDENTS/SECURITY	True
+8	disaster	ACCIDENTS/SECURITY	True
+9	(	O	True
+10	like	O	True
+11	Deepwater	O	True
+12	Horizon	O	True
+13	)	O	True
+14	will	ACCIDENTS/SECURITY	True
+15	devastate	ACCIDENTS/SECURITY	True
+16	the	O	True
+17	arctic	O	True
+18	.	O	False
+
+1	One	O	True
+2	problem	O	True
+3	with	O	True
+4	nuclear	O	True
+5	reactors	O	True
+6	is	O	True
+7	what	O	True
+8	to	O	True
+9	do	O	True
+10	with	O	True
+11	the	WASTE	True
+12	high	WASTE	True
+13	level	WASTE	True
+14	waste	WASTE	True
+15	they	O	True
+16	produce	O	True
+17	.	O	False
+
+1	Declaring	O	True
+2	that	O	True
+3	renewables	RENEWABLES	True
+4	can	O	True
+5	not	O	True
+6	do	O	True
+7	the	O	True
+8	job	O	True
+9	is	O	True
+10	downright	O	True
+11	stupid	O	True
+12	.	O	False
+
+1	Currently	O	True
+2	nuclear	O	True
+3	energy	O	True
+4	saves	O	True
+5	the	ENVIRONMENTAL IMPACT	True
+6	emission	ENVIRONMENTAL IMPACT	True
+7	of	O	True
+8	2.5	O	True
+9	billion	O	True
+10	tonnes	O	True
+11	of	O	True
+12	CO2	ENVIRONMENTAL IMPACT	True
+13	relative	O	True
+14	to	O	True
+15	coal	FOSSIL FUELS	True
+16	.	O	False
+
+1	The	O	True
+2	local	O	True
+3	fuel	O	True
+4	processing	O	True
+5	of	O	True
+6	the	O	True
+7	breeder	O	True
+8	and	O	True
+9	burner	O	True
+10	configurations	O	True
+11	eliminates	O	True
+12	the	WEAPONS	True
+13	possibility	WEAPONS	True
+14	of	WEAPONS	True
+15	diversion	WEAPONS	True
+16	during	WEAPONS	True
+17	transport	WEAPONS	True
+18	.	O	False
+
+1	With	O	True
+2	a	O	True
+3	portion	O	True
+4	of	O	True
+5	the	O	True
+6	initial	O	True
+7	nuclear	O	True
+8	power	O	True
+9	plants	O	True
+10	closing	O	True
+11	or	O	True
+12	requiring	O	True
+13	significant	O	True
+14	upgrade	O	True
+15	after	O	True
+16	just	O	True
+17	a	O	True
+18	few	O	True
+19	decades	O	True
+20	(	O	True
+21	in	O	True
+22	some	O	True
+23	cases	O	True
+24	less	O	True
+25	than	O	True
+26	sixty	O	True
+27	years	O	True
+28	)	O	True
+29	,	O	True
+30	it	O	True
+31	seems	O	True
+32	that	O	True
+33	the	O	True
+34	life	O	True
+35	cycle	O	True
+36	of	O	True
+37	some	O	True
+38	plants	O	True
+39	is	O	True
+40	much	O	True
+41	shorter	O	True
+42	than	O	True
+43	perhaps	O	True
+44	the	COSTS	True
+45	outward	COSTS	True
+46	cost	COSTS	True
+47	might	O	True
+48	warrant	O	True
+49	(	O	True
+50	14	O	True
+51	)	O	True
+52	.	O	False
+
+1	Nuclear	O	True
+2	energy	O	True
+3	is	O	True
+4	too	COSTS	True
+5	expensive	COSTS	True
+6	,	O	True
+7	energy	O	True
+8	efficiency	O	True
+9	is	O	True
+10	all	O	True
+11	that	O	True
+12	'	O	False
+13	s	O	True
+14	needed	O	True
+15	,	O	True
+16	with	O	True
+17	more	O	True
+18	use	O	True
+19	of	O	True
+20	renewables	RENEWABLES	True
+21	.	O	False
+
+1	Nuclear	O	True
+2	power	O	True
+3	has	ENERGY POLICY	True
+4	already	ENERGY POLICY	True
+5	been	ENERGY POLICY	True
+6	subsidized	ENERGY POLICY	True
+7	to	O	True
+8	the	O	True
+9	tune	O	True
+10	of	O	True
+11	hundreds	O	True
+12	of	O	True
+13	billions	O	True
+14	of	O	True
+15	dollars	O	True
+16	over	O	True
+17	the	O	True
+18	past	O	True
+19	50	O	True
+20	years	O	True
+21	.	O	False
+
+1	Nuclear	O	True
+2	energy	O	True
+3	is	O	True
+4	safe	ACCIDENTS/SECURITY	True
+5	and	ACCIDENTS/SECURITY	True
+6	secure	ACCIDENTS/SECURITY	True
+7	.	O	False
+
+1	Exorbitant	COSTS	True
+2	Cost	COSTS	True
+3	:	O	True
+4	Cost	COSTS	True
+5	estimates	COSTS	True
+6	for	O	True
+7	new	O	True
+8	reactor	O	True
+9	construction	O	True
+10	continue	COSTS	True
+11	to	COSTS	True
+12	soar	COSTS	True
+13	and	O	True
+14	are	O	True
+15	unpredictable	COSTS	True
+16	.	O	False
+
+1	Uranium	O	True
+2	mining	O	True
+3	is	O	True
+4	highly	O	True
+5	regulated	O	True
+6	in	O	True
+7	most	O	True
+8	countries	O	True
+9	and	O	True
+10	standards	O	True
+11	ensure	O	True
+12	that	O	True
+13	no	HEALTH EFFECTS	True
+14	adverse	HEALTH EFFECTS	True
+15	health	HEALTH EFFECTS	True
+16	effects	HEALTH EFFECTS	True
+17	are	O	True
+18	likely	O	True
+19	.	O	False
+
+1	Secondly	O	True
+2	It	O	True
+3	would	O	True
+4	not	O	True
+5	hurt	O	True
+6	anyone	O	True
+7	because	O	True
+8	it	O	True
+9	stops	ENVIRONMENTAL IMPACT	True
+10	pollution	ENVIRONMENTAL IMPACT	True
+11	and	O	True
+12	the	O	True
+13	more	O	True
+14	pollution	ENVIRONMENTAL IMPACT	True
+15	there	O	True
+16	is	O	True
+17	the	O	True
+18	easier	O	True
+19	people	O	True
+20	get	O	True
+21	sicker	O	True
+22	and	O	True
+23	they	O	True
+24	can	O	True
+25	even	O	True
+26	die	O	True
+27	.	O	False
+
+1	Moreover	O	True
+2	,	O	True
+3	power	O	True
+4	reactors	O	True
+5	themselves	O	True
+6	produce	O	True
+7	plutonium	O	True
+8	,	O	True
+9	which	O	True
+10	may	O	True
+11	be	O	True
+12	used	O	True
+13	in	O	True
+14	bombs	WEAPONS	True
+15	.	O	False
+
+1	Hydro	FOSSIL FUELS	True
+2	and	FOSSIL FUELS	True
+3	liquefied	FOSSIL FUELS	True
+4	gas	FOSSIL FUELS	True
+5	are	O	True
+6	the	O	True
+7	greatest	O	True
+8	killers	O	True
+9	,	O	True
+10	even	O	True
+11	before	O	True
+12	coal	FOSSIL FUELS	True
+13	,	O	True
+14	but	O	True
+15	do	O	True
+16	environmentalists	O	True
+17	care	O	True
+18	?	O	False
+
+1	Nuclear	O	True
+2	power	O	True
+3	provides	O	True
+4	other	O	True
+5	benefits	O	True
+6	in	O	True
+7	addition	O	True
+8	to	O	True
+9	clean	ENVIRONMENTAL IMPACT	True
+10	air	ENVIRONMENTAL IMPACT	True
+11	.	O	False
+
+1	In	O	True
+2	addition	O	True
+3	,	O	True
+4	nuclear	O	True
+5	power	O	True
+6	takes	O	True
+7	up	O	True
+8	much	O	True
+9	less	O	True
+10	real	O	True
+11	estate	O	True
+12	to	O	True
+13	generate	O	True
+14	the	O	True
+15	same	O	True
+16	amount	O	True
+17	of	O	True
+18	power	O	True
+19	that	O	True
+20	wind	RENEWABLES	True
+21	or	RENEWABLES	True
+22	solar	RENEWABLES	True
+23	would	O	True
+24	.	O	False
+
+1	Japan	O	True
+2	turned	O	True
+3	off	O	True
+4	its	O	True
+5	50	O	True
+6	nuclear	O	True
+7	power	O	True
+8	reactors	O	True
+9	in	O	True
+10	the	O	True
+11	wake	O	True
+12	of	O	True
+13	Fukushima	ACCIDENTS/SECURITY	True
+14	,	O	True
+15	but	O	True
+16	the	ENERGY POLICY	True
+17	government	ENERGY POLICY	True
+18	decided	ENERGY POLICY	True
+19	in	O	True
+20	2014	O	True
+21	to	O	True
+22	start	O	True
+23	operating	O	True
+24	reactors	O	True
+25	again	O	True
+26	after	O	True
+27	a	ACCIDENTS/SECURITY	True
+28	security	ACCIDENTS/SECURITY	True
+29	check	ACCIDENTS/SECURITY	True
+30	.	O	False
+
+1	Studies	O	True
+2	have	O	True
+3	shown	O	True
+4	that	O	True
+5	what	O	True
+6	life-cycle	ENVIRONMENTAL IMPACT	True
+7	emissions	ENVIRONMENTAL IMPACT	True
+8	that	O	True
+9	the	O	True
+10	plants	O	True
+11	do	O	True
+12	give	O	True
+13	off	O	True
+14	are	O	True
+15	on	O	True
+16	par	O	True
+17	with	O	True
+18	renewable	RENEWABLES	True
+19	energy	RENEWABLES	True
+20	sources	RENEWABLES	True
+21	such	O	True
+22	as	O	True
+23	wind	RENEWABLES	True
+24	power	RENEWABLES	True
+25	.	O	False
+
+1	These	O	True
+2	plants	O	True
+3	are	O	True
+4	designed	O	True
+5	,	O	True
+6	licensed	O	True
+7	,	O	True
+8	constructed	O	True
+9	,	O	True
+10	and	O	True
+11	operated	O	True
+12	to	O	True
+13	rigorous	ACCIDENTS/SECURITY	True
+14	requirements	ACCIDENTS/SECURITY	True
+15	established	ACCIDENTS/SECURITY	True
+16	by	ACCIDENTS/SECURITY	True
+17	the	ACCIDENTS/SECURITY	True
+18	NRC	ACCIDENTS/SECURITY	True
+19	.	O	False
+
+1	If	O	True
+2	terrorist	ACCIDENTS/SECURITY	True
+3	came	O	True
+4	they	O	True
+5	could	O	True
+6	target	O	True
+7	a	O	True
+8	nuclear	O	True
+9	plant	O	True
+10	then	O	True
+11	hundreds	O	True
+12	of	O	True
+13	people	ACCIDENTS/SECURITY	True
+14	will	ACCIDENTS/SECURITY	True
+15	die	ACCIDENTS/SECURITY	True
+16	.	O	False
+
+1	Like	O	True
+2	coal	FOSSIL FUELS	True
+3	or	FOSSIL FUELS	True
+4	oil	FOSSIL FUELS	True
+5	,	O	True
+6	it	O	True
+7	was	O	True
+8	a	O	True
+9	way	O	True
+10	of	O	True
+11	producing	O	True
+12	electricity	O	True
+13	at	O	True
+14	a	ENERGY POLICY	True
+15	central	ENERGY POLICY	True
+16	location	ENERGY POLICY	True
+17	for	ENERGY POLICY	True
+18	distribution	ENERGY POLICY	True
+19	through	O	True
+20	the	O	True
+21	established	O	True
+22	grid	O	True
+23	.	O	False
+
+1	No	O	True
+2	safe	O	True
+3	solution	O	True
+4	has	O	True
+5	yet	O	True
+6	been	O	True
+7	devised	O	True
+8	to	WASTE	True
+9	store	WASTE	True
+10	it	WASTE	True
+11	.	O	False
+
+1	To	O	True
+2	the	O	True
+3	editor	O	True
+4	:	O	True
+5	Bryce	O	True
+6	wants	O	True
+7	us	O	True
+8	to	O	True
+9	build	O	True
+10	new	O	True
+11	nuclear	O	True
+12	power	O	True
+13	plants	O	True
+14	as	O	True
+15	a	O	True
+16	partial	O	True
+17	solution	O	True
+18	to	O	True
+19	global	ENVIRONMENTAL IMPACT	True
+20	warming	ENVIRONMENTAL IMPACT	True
+21	.	O	False
+
+1	And	O	True
+2	how	O	True
+3	can	O	True
+4	the	O	True
+5	world	O	True
+6	monitor	O	True
+7	the	O	True
+8	enrichment	O	True
+9	of	O	True
+10	uranium	O	True
+11	to	O	True
+12	the	O	True
+13	level	O	True
+14	needed	O	True
+15	for	O	True
+16	power	O	True
+17	plants	O	True
+18	,	O	True
+19	but	O	True
+20	insufficient	O	True
+21	for	O	True
+22	nuclear	WEAPONS	True
+23	weapons	WEAPONS	True
+24	?	O	False
+
+1	Nuclear	O	True
+2	power	O	True
+3	plants	O	True
+4	can	O	True
+5	not	O	True
+6	be	O	True
+7	brought	O	True
+8	on	O	True
+9	line	O	True
+10	fast	O	True
+11	enough	O	True
+12	to	O	True
+13	prevent	O	True
+14	the	ENVIRONMENTAL IMPACT	True
+15	rapid	ENVIRONMENTAL IMPACT	True
+16	climate	ENVIRONMENTAL IMPACT	True
+17	change	ENVIRONMENTAL IMPACT	True
+18	disaster	ENVIRONMENTAL IMPACT	True
+19	coming	O	True
+20	in	O	True
+21	less	O	True
+22	than	O	True
+23	10	O	True
+24	years	O	True
+25	(	O	True
+26	See	O	True
+27	Shootout	O	True
+28	:	O	True
+29	Do	O	True
+30	We	O	True
+31	Need	O	True
+32	To	O	True
+33	Restrict	O	True
+34	CO2	ENVIRONMENTAL IMPACT	True
+35	Emissions	ENVIRONMENTAL IMPACT	True
+36	?	O	True
+37	)	O	False
+
+1	While	O	True
+2	we	O	True
+3	burn	O	True
+4	fossil	FOSSIL FUELS	True
+5	fuels	FOSSIL FUELS	True
+6	,	O	True
+7	use	O	True
+8	hydroelectric	RENEWABLES	True
+9	wind	RENEWABLES	True
+10	power	RENEWABLES	True
+11	,	O	True
+12	harness	RENEWABLES	True
+13	tidal	RENEWABLES	True
+14	and	RENEWABLES	True
+15	solar	RENEWABLES	True
+16	power	RENEWABLES	True
+17	,	O	True
+18	and	O	True
+19	look	O	True
+20	for	O	True
+21	other	O	True
+22	ways	O	True
+23	to	O	True
+24	meet	O	True
+25	our	O	True
+26	energy	O	True
+27	needs	O	True
+28	-	O	True
+29	we	O	True
+30	simply	O	True
+31	have	O	True
+32	to	O	True
+33	use	O	True
+34	nuclear	O	True
+35	energy	O	True
+36	as	O	True
+37	one	O	True
+38	method	O	True
+39	in	O	True
+40	achieving	O	True
+41	that	O	True
+42	.	O	False
+
+1	The	O	True
+2	Court	O	True
+3	of	O	True
+4	Appeals	O	True
+5	for	O	True
+6	the	O	True
+7	District	O	True
+8	of	O	True
+9	Columbia	O	True
+10	Circuit	O	True
+11	held	O	True
+12	that	O	True
+13	the	O	True
+14	NRC	O	True
+15	improperly	O	True
+16	failed	O	True
+17	to	O	True
+18	consider	O	True
+19	whether	O	True
+20	the	O	True
+21	risk	O	True
+22	of	O	True
+23	an	ACCIDENTS/SECURITY	True
+24	accident	ACCIDENTS/SECURITY	True
+25	at	O	True
+26	TMI-1	O	True
+27	might	O	True
+28	cause	O	True
+29	harm	O	True
+30	to	O	True
+31	the	HEALTH EFFECTS	True
+32	psychological	HEALTH EFFECTS	True
+33	health	HEALTH EFFECTS	True
+34	and	HEALTH EFFECTS	True
+35	community	HEALTH EFFECTS	True
+36	well-being	HEALTH EFFECTS	True
+37	of	HEALTH EFFECTS	True
+38	residents	HEALTH EFFECTS	True
+39	of	O	True
+40	the	O	True
+41	surrounding	O	True
+42	area	O	True
+43	.	O	False
+
+1	The	O	True
+2	nuclear	O	True
+3	industry	O	True
+4	is	O	True
+5	responsible	O	True
+6	for	O	True
+7	horrific	WASTE	True
+8	wastes	WASTE	True
+9	which	O	True
+10	will	O	True
+11	endure	O	True
+12	as	O	True
+13	a	O	True
+14	nightmare	O	True
+15	for	O	True
+16	our	O	True
+17	grandchildren	O	True
+18	.	O	False
+
+1	Radiation	O	True
+2	is	O	True
+3	n’t	O	True
+4	easily	O	True
+5	dealt	O	True
+6	with	O	True
+7	,	O	True
+8	especially	O	True
+9	in	O	True
+10	nuclear	WASTE	True
+11	waste	WASTE	True
+12	and	O	True
+13	maintenance	O	True
+14	materials	O	True
+15	,	O	True
+16	and	O	True
+17	expensive	O	True
+18	solutions	O	True
+19	are	O	True
+20	needed	O	True
+21	to	O	True
+22	contain	O	True
+23	,	O	True
+24	control	O	True
+25	,	O	True
+26	and	O	True
+27	shield	HEALTH EFFECTS	True
+28	both	HEALTH EFFECTS	True
+29	people	HEALTH EFFECTS	True
+30	and	O	True
+31	the	ENVIRONMENTAL IMPACT	True
+32	environment	ENVIRONMENTAL IMPACT	True
+33	from	O	True
+34	its	O	True
+35	harm	O	True
+36	.	O	False
+
+1	Secondly	O	True
+2	there	O	True
+3	are	O	True
+4	some	O	True
+5	downs	O	True
+6	the	O	True
+7	downs	O	True
+8	are	O	True
+9	if	O	True
+10	a	O	True
+11	earthquake	O	True
+12	happens	O	True
+13	or	O	True
+14	tsunami	O	True
+15	happens	O	True
+16	the	O	True
+17	power	O	True
+18	plant	O	True
+19	will	O	True
+20	have	O	True
+21	a	ACCIDENTS/SECURITY	True
+22	explosion	ACCIDENTS/SECURITY	True
+23	and	O	True
+24	if	O	True
+25	we	O	True
+26	have	O	True
+27	a	ACCIDENTS/SECURITY	True
+28	meltdown	ACCIDENTS/SECURITY	True
+29	which	O	True
+30	radiation	O	True
+31	zone	O	True
+32	.	O	False
+
+1	Quite	O	True
+2	to	O	True
+3	the	O	True
+4	contrary	O	True
+5	especially	O	True
+6	wind	RENEWABLES	True
+7	power	RENEWABLES	True
+8	and	RENEWABLES	True
+9	solar	RENEWABLES	True
+10	power	RENEWABLES	True
+11	is	O	True
+12	reducing	O	True
+13	cost	O	True
+14	so	O	True
+15	fast	O	True
+16	that	O	True
+17	the	O	True
+18	window	O	True
+19	of	O	True
+20	opportunity	O	True
+21	for	O	True
+22	MSR	TECHNOLOGICAL INNOVATION	True
+23	is	O	True
+24	closing	O	True
+25	fast	O	True
+26	simply	O	True
+27	because	O	True
+28	being	O	True
+29	able	O	True
+30	to	O	True
+31	produce	O	True
+32	energy	O	True
+33	with	O	True
+34	MSR	TECHNOLOGICAL INNOVATION	True
+35	’s	O	True
+36	is	O	True
+37	not	O	True
+38	enough	O	True
+39	you	O	True
+40	also	O	True
+41	have	O	True
+42	to	O	True
+43	be	O	True
+44	competitive	O	True
+45	in	O	True
+46	the	O	True
+47	market	O	True
+48	place	O	True
+49	.	O	False
+
+1	To	O	True
+2	meet	O	True
+3	the	O	True
+4	short-term	O	True
+5	demand	O	True
+6	,	O	True
+7	the	O	True
+8	use	O	True
+9	of	O	True
+10	coal	FOSSIL FUELS	True
+11	and	FOSSIL FUELS	True
+12	other	FOSSIL FUELS	True
+13	fossil	FOSSIL FUELS	True
+14	fuels	FOSSIL FUELS	True
+15	will	O	True
+16	increase	O	True
+17	.	O	False
+
+1	Some	O	True
+2	of	O	True
+3	the	O	True
+4	lifetime	O	True
+5	use	O	True
+6	will	O	True
+7	be	O	True
+8	lower	O	True
+9	than	O	True
+10	other	O	True
+11	kinds	O	True
+12	of	O	True
+13	reactors	O	True
+14	but	O	True
+15	for	O	True
+16	example	O	True
+17	replacing	O	True
+18	the	O	True
+19	container	O	True
+20	every	O	True
+21	seven	O	True
+22	years	O	True
+23	is	O	True
+24	not	COSTS	True
+25	too	COSTS	True
+26	expensive	COSTS	True
+27	and	O	True
+28	solves	O	True
+29	the	O	True
+30	problem	O	True
+31	.	O	False
+
+1	Germany	O	True
+2	plans	O	True
+3	to	O	True
+4	shutter	O	True
+5	its	O	True
+6	remaining	O	True
+7	nuclear	O	True
+8	plants	O	True
+9	by	O	True
+10	2022	O	True
+11	,	O	True
+12	a	O	True
+13	response	O	True
+14	to	O	True
+15	the	ACCIDENTS/SECURITY	True
+16	2011	ACCIDENTS/SECURITY	True
+17	disaster	ACCIDENTS/SECURITY	True
+18	in	O	True
+19	Japan	O	True
+20	that	O	True
+21	also	O	True
+22	prompted	O	True
+23	the	O	True
+24	Swiss	O	True
+25	initiative	O	True
+26	.	O	False
+
+1	1	PUBLIC DEBATE	True
+2	million	PUBLIC DEBATE	True
+3	Europeans	PUBLIC DEBATE	True
+4	against	PUBLIC DEBATE	True
+5	nuclear	PUBLIC DEBATE	True
+6	power	PUBLIC DEBATE	True
+7	:	O	True
+8	"	O	True
+9	Although	O	True
+10	nuclear	O	True
+11	power	O	True
+12	is	O	True
+13	a	O	True
+14	hazardous	O	True
+15	business	O	True
+16	,	O	True
+17	the	O	True
+18	nuclear	O	True
+19	industry	O	True
+20	hardly	O	True
+21	has	O	True
+22	any	O	True
+23	financial	O	True
+24	liability	O	True
+25	.	O	False
+
+1	Firstly	O	True
+2	,	O	True
+3	nuclear	O	True
+4	energy	O	True
+5	does	O	True
+6	not	O	True
+7	produce	O	True
+8	green	ENVIRONMENTAL IMPACT	True
+9	house	ENVIRONMENTAL IMPACT	True
+10	gas	ENVIRONMENTAL IMPACT	True
+11	and	O	True
+12	that	O	True
+13	means	O	True
+14	that	O	True
+15	our	ENVIRONMENTAL IMPACT	True
+16	atmosphere	ENVIRONMENTAL IMPACT	True
+17	will	ENVIRONMENTAL IMPACT	True
+18	be	ENVIRONMENTAL IMPACT	True
+19	safe	ENVIRONMENTAL IMPACT	True
+20	and	ENVIRONMENTAL IMPACT	True
+21	more	ENVIRONMENTAL IMPACT	True
+22	efficient	ENVIRONMENTAL IMPACT	True
+23	.	O	False
+
+1	Swiss	O	True
+2	utility	O	True
+3	BKW	O	True
+4	AG	O	True
+5	already	O	True
+6	plans	O	True
+7	to	O	True
+8	shutter	O	True
+9	Muehleberg	O	True
+10	in	O	True
+11	2019	O	True
+12	,	O	True
+13	citing	O	True
+14	the	COSTS	True
+15	high	COSTS	True
+16	costs	COSTS	True
+17	of	O	True
+18	maintenance	O	True
+19	and	O	True
+20	operations	O	True
+21	.	O	False
+
+1	Critics	O	True
+2	also	O	True
+3	say	O	True
+4	that	O	True
+5	it	O	True
+6	can	COSTS	True
+7	take	COSTS	True
+8	decades	COSTS	True
+9	to	O	True
+10	put	O	True
+11	an	O	True
+12	effective	O	True
+13	nuclear	O	True
+14	program	O	True
+15	into	O	True
+16	action	O	True
+17	(	O	True
+18	12	O	True
+19	)	O	True
+20	.	O	False
+
+1	A	ACCIDENTS/SECURITY	True
+2	similar	ACCIDENTS/SECURITY	True
+3	accident	ACCIDENTS/SECURITY	True
+4	happened	O	True
+5	in	O	True
+6	Japan	O	True
+7	in	O	True
+8	2011	O	True
+9	after	O	True
+10	a	O	True
+11	tsunami	O	True
+12	hit	O	True
+13	the	O	True
+14	Fukushima	O	True
+15	Nuclear	O	True
+16	Power	O	True
+17	Plant	O	True
+18	.	O	False
+
+1	If	O	True
+2	the	O	True
+3	government	O	True
+4	opened	O	True
+5	the	O	True
+6	long-term	O	True
+7	nuclear	O	True
+8	repository	O	True
+9	that	O	True
+10	was	O	True
+11	supposed	O	True
+12	to	O	True
+13	be	O	True
+14	beneath	O	True
+15	Yucca	O	True
+16	Mountain	O	True
+17	in	O	True
+18	Nevada	O	True
+19	today	O	True
+20	,	O	True
+21	it	O	True
+22	would	O	True
+23	be	O	True
+24	immediately	O	True
+25	filled	O	True
+26	with	O	True
+27	already	WASTE	True
+28	existing	WASTE	True
+29	nuclear	WASTE	True
+30	waste	WASTE	True
+31	.	O	False
+
+1	For	O	True
+2	all	O	True
+3	this	O	True
+4	,	O	True
+5	it	O	True
+6	'	O	False
+7	s	O	True
+8	worth	O	True
+9	noting	O	True
+10	that	O	True
+11	uranium	O	True
+12	is	O	True
+13	a	RELIABILITY	True
+14	very	RELIABILITY	True
+15	efficient	RELIABILITY	True
+16	energy	RELIABILITY	True
+17	source	RELIABILITY	True
+18	:	O	True
+19	One	O	True
+20	ton	O	True
+21	of	O	True
+22	natural	RELIABILITY	True
+23	uranium	RELIABILITY	True
+24	can	O	True
+25	produce	O	True
+26	the	O	True
+27	same	O	True
+28	number	O	True
+29	of	O	True
+30	kilowatt-hours	O	True
+31	as	O	True
+32	16,000	O	True
+33	tons	O	True
+34	of	O	True
+35	coal	FOSSIL FUELS	True
+36	or	O	True
+37	80,000	O	True
+38	barrels	O	True
+39	of	O	True
+40	oil	FOSSIL FUELS	True
+41	.	O	False
+
+1	In	O	True
+2	sum	O	True
+3	,	O	True
+4	if	O	True
+5	we	O	True
+6	invest	O	True
+7	in	O	True
+8	nuclear	O	True
+9	versus	O	True
+10	true	RENEWABLES	True
+11	renewables	RENEWABLES	True
+12	,	O	True
+13	you	O	True
+14	can	O	True
+15	bet	O	True
+16	that	O	True
+17	the	ENVIRONMENTAL IMPACT	True
+18	glaciers	ENVIRONMENTAL IMPACT	True
+19	and	ENVIRONMENTAL IMPACT	True
+20	polar	ENVIRONMENTAL IMPACT	True
+21	ice	ENVIRONMENTAL IMPACT	True
+22	caps	ENVIRONMENTAL IMPACT	True
+23	will	ENVIRONMENTAL IMPACT	True
+24	keep	ENVIRONMENTAL IMPACT	True
+25	melting	ENVIRONMENTAL IMPACT	True
+26	while	O	True
+27	we	O	True
+28	wait	O	True
+29	,	O	True
+30	and	O	True
+31	wait	O	True
+32	,	O	True
+33	for	O	True
+34	the	O	True
+35	nuclear	O	True
+36	age	O	True
+37	to	O	True
+38	arrive	O	True
+39	.	O	False
+
+1	People	O	True
+2	dont	O	True
+3	know	O	True
+4	that	O	True
+5	radioactive	O	True
+6	tailings	O	True
+7	are	O	True
+8	produced	O	True
+9	in	O	True
+10	the	O	True
+11	production	O	True
+12	process	O	True
+13	of	O	True
+14	neodynium	O	True
+15	for	O	True
+16	windmills	RENEWABLES	True
+17	,	O	True
+18	and	O	True
+19	that	O	True
+20	neodynium	O	True
+21	is	O	True
+22	therefore	O	True
+23	no	O	True
+24	longer	O	True
+25	produced	O	True
+26	in	O	True
+27	the	O	True
+28	USA	O	True
+29	.	O	False
+
+1	Moreover	O	True
+2	,	O	True
+3	the	HEALTH EFFECTS	True
+4	cancer	HEALTH EFFECTS	True
+5	rate	HEALTH EFFECTS	True
+6	in	O	True
+7	the	O	True
+8	Chernobyl	O	True
+9	region	O	True
+10	is	O	True
+11	well	O	True
+12	below	O	True
+13	that	O	True
+14	of	O	True
+15	Australia	O	True
+16	,	O	True
+17	which	O	True
+18	is	O	True
+19	to	O	True
+20	say	O	True
+21	that	O	True
+22	radiation	O	True
+23	is	O	True
+24	,	O	True
+25	at	O	True
+26	worst	O	True
+27	,	O	True
+28	a	HEALTH EFFECTS	True
+29	very	HEALTH EFFECTS	True
+30	weak	HEALTH EFFECTS	True
+31	carcinogen	HEALTH EFFECTS	True
+32	.	O	False
+
+1	The	O	True
+2	construction	O	True
+3	of	O	True
+4	a	O	True
+5	nuclear	O	True
+6	power	O	True
+7	plant	O	True
+8	requires	O	True
+9	much	COSTS	True
+10	less	COSTS	True
+11	investment	COSTS	True
+12	than	O	True
+13	a	RENEWABLES	True
+14	hydroelectric	RENEWABLES	True
+15	one	RENEWABLES	True
+16	.	O	False
+
+1	If	O	True
+2	a	ACCIDENTS/SECURITY	True
+3	containment	ACCIDENTS/SECURITY	True
+4	field	ACCIDENTS/SECURITY	True
+5	were	ACCIDENTS/SECURITY	True
+6	to	ACCIDENTS/SECURITY	True
+7	rupture	ACCIDENTS/SECURITY	True
+8	suddenly	ACCIDENTS/SECURITY	True
+9	,	O	True
+10	the	O	True
+11	resulting	O	True
+12	leak	O	True
+13	of	O	True
+14	radiation	ENVIRONMENTAL IMPACT	True
+15	could	O	True
+16	be	O	True
+17	catastrophic	O	True
+18	.	O	False
+
+1	January	O	True
+2	24	O	True
+3	,	O	True
+4	2008	O	True
+5	:	O	True
+6	"	O	True
+7	Despite	O	True
+8	its	O	True
+9	promise	O	True
+10	more	O	True
+11	than	O	True
+12	50	O	True
+13	years	O	True
+14	ago	O	True
+15	of	O	True
+16	energy	O	True
+17	“	O	True
+18	too	COSTS	True
+19	cheap	COSTS	True
+20	to	O	True
+21	meter	O	True
+22	,	O	True
+23	”	O	True
+24	the	O	True
+25	nuclear	O	True
+26	power	O	True
+27	industry	O	True
+28	continues	O	True
+29	to	O	True
+30	be	O	True
+31	dependent	ENERGY POLICY	True
+32	on	ENERGY POLICY	True
+33	taxpayer	ENERGY POLICY	True
+34	handouts	ENERGY POLICY	True
+35	to	O	True
+36	survive	O	True
+37	.	O	False
+
+1	The	ENERGY POLICY	True
+2	Premier	ENERGY POLICY	True
+3	,	ENERGY POLICY	True
+4	Mr	ENERGY POLICY	True
+5	Brian	ENERGY POLICY	True
+6	Burke	ENERGY POLICY	True
+7	,	ENERGY POLICY	True
+8	said	ENERGY POLICY	True
+9	that	ENERGY POLICY	True
+10	the	ENERGY POLICY	True
+11	Cabinet	ENERGY POLICY	True
+12	had	ENERGY POLICY	True
+13	reaffirmed	ENERGY POLICY	True
+14	that	O	True
+15	in	O	True
+16	no	O	True
+17	circumstances	O	True
+18	would	O	True
+19	a	O	True
+20	nuclear	O	True
+21	power	O	True
+22	station	O	True
+23	be	O	True
+24	built	O	True
+25	in	O	True
+26	WA	O	True
+27	.	O	False
+
+1	Today	O	True
+2	,	O	True
+3	nuclear	O	True
+4	energy	O	True
+5	is	O	True
+6	used	O	True
+7	to	WEAPONS	True
+8	make	WEAPONS	True
+9	weapons	WEAPONS	True
+10	.	O	False
+
+1	Instead	O	True
+2	,	O	True
+3	Jacobson	O	True
+4	proposes	O	True
+5	that	O	True
+6	the	O	True
+7	world	O	True
+8	overcome	O	True
+9	its	O	True
+10	sociopolitical	O	True
+11	barriers	O	True
+12	and	O	True
+13	install	O	True
+14	80	RENEWABLES	True
+15	percent	RENEWABLES	True
+16	renewables	RENEWABLES	True
+17	by	O	True
+18	2030	O	True
+19	and	O	True
+20	100	O	True
+21	percent	O	True
+22	by	O	True
+23	2050	O	True
+24	.	O	False
+
+1	This	O	True
+2	lack	O	True
+3	of	O	True
+4	greenhouse	ENVIRONMENTAL IMPACT	True
+5	gases	ENVIRONMENTAL IMPACT	True
+6	can	O	True
+7	be	O	True
+8	very	O	True
+9	attractive	O	True
+10	to	O	True
+11	some	O	True
+12	consumers	O	True
+13	.	O	False
+
+1	Nuclear	O	True
+2	power	O	True
+3	,	O	True
+4	by	O	True
+5	virtue	O	True
+6	of	O	True
+7	its	O	True
+8	large	O	True
+9	size	O	True
+10	,	O	True
+11	centralised	ENERGY POLICY	True
+12	production	ENERGY POLICY	True
+13	of	O	True
+14	electricity	O	True
+15	and	O	True
+16	dependence	O	True
+17	on	O	True
+18	experts	O	True
+19	,	O	True
+20	was	O	True
+21	suitable	O	True
+22	for	O	True
+23	control	ENERGY POLICY	True
+24	by	ENERGY POLICY	True
+25	state	ENERGY POLICY	True
+26	bureaucracies	ENERGY POLICY	True
+27	.	O	False
+
+1	The	O	True
+2	rise	O	True
+3	of	O	True
+4	environmental	ENVIRONMENTAL IMPACT	True
+5	consciousness	ENVIRONMENTAL IMPACT	True
+6	and	O	True
+7	the	O	True
+8	fears	O	True
+9	of	O	True
+10	nuclear	O	True
+11	fallout	O	True
+12	have	O	True
+13	done	O	True
+14	much	O	True
+15	to	O	True
+16	militate	O	True
+17	against	O	True
+18	widespread	O	True
+19	enthusiasm	O	True
+20	for	O	True
+21	nuclear	O	True
+22	energy	O	True
+23	.	O	False
+
+1	In	O	True
+2	2001	O	True
+3	the	O	True
+4	Economist	O	True
+5	,	O	True
+6	a	O	True
+7	publication	O	True
+8	with	O	True
+9	its	O	True
+10	heart	O	True
+11	firmly	O	True
+12	in	O	True
+13	the	O	True
+14	camp	O	True
+15	of	O	True
+16	“	O	True
+17	free-market	O	True
+18	”	O	True
+19	capitalism	O	True
+20	wrote	O	True
+21	:	O	True
+22	“	O	True
+23	Nuclear	O	True
+24	Power	O	True
+25	,	O	True
+26	once	O	True
+27	claimed	O	True
+28	to	O	True
+29	be	O	True
+30	too	O	True
+31	cheap	O	True
+32	to	O	True
+33	meter	O	True
+34	,	O	True
+35	is	O	True
+36	now	O	True
+37	too	COSTS	True
+38	costly	COSTS	True
+39	to	O	True
+40	matter	O	True
+41	.	O	True
+42	”	O	False
+
+1	Generated	O	True
+2	throughout	O	True
+3	all	O	True
+4	parts	O	True
+5	of	O	True
+6	the	O	True
+7	fuel	O	True
+8	cycle	O	True
+9	,	O	True
+10	this	WASTE	True
+11	waste	WASTE	True
+12	poses	O	True
+13	a	O	True
+14	serious	O	True
+15	danger	O	True
+16	to	O	True
+17	human	HEALTH EFFECTS	True
+18	health	HEALTH EFFECTS	True
+19	.	O	False
+
+1	Nuclear	O	True
+2	power	O	True
+3	plants	O	True
+4	do	O	True
+5	not	O	True
+6	produce	O	True
+7	greenhouse	ENVIRONMENTAL IMPACT	True
+8	gases	ENVIRONMENTAL IMPACT	True
+9	as	O	True
+10	do	O	True
+11	those	O	True
+12	powered	O	True
+13	by	O	True
+14	coal	FOSSIL FUELS	True
+15	or	FOSSIL FUELS	True
+16	natural	FOSSIL FUELS	True
+17	gas	FOSSIL FUELS	True
+18	.	O	False
+
+1	The	O	True
+2	Department	O	True
+3	of	O	True
+4	Energy	O	True
+5	(	O	True
+6	DOE	O	True
+7	)	O	True
+8	is	O	True
+9	expanding	O	True
+10	its	TECHNOLOGICAL INNOVATION	True
+11	development	TECHNOLOGICAL INNOVATION	True
+12	of	TECHNOLOGICAL INNOVATION	True
+13	nuclear	TECHNOLOGICAL INNOVATION	True
+14	reactors	TECHNOLOGICAL INNOVATION	True
+15	that	O	True
+16	churn	O	True
+17	out	O	True
+18	large	O	True
+19	amounts	O	True
+20	of	O	True
+21	waste	O	True
+22	heat	O	True
+23	,	O	True
+24	which	O	True
+25	could	O	True
+26	be	O	True
+27	used	O	True
+28	in	O	True
+29	a	O	True
+30	number	O	True
+31	of	O	True
+32	other	O	True
+33	industries	O	True
+34	.	O	False
+
+1	If	O	True
+2	a	ACCIDENTS/SECURITY	True
+3	meltdown	ACCIDENTS/SECURITY	True
+4	were	O	True
+5	to	O	True
+6	occur	O	True
+7	in	O	True
+8	either	O	True
+9	the	O	True
+10	reactor	O	True
+11	or	O	True
+12	the	O	True
+13	spent	O	True
+14	fuel	O	True
+15	pool	O	True
+16	,	O	True
+17	the	ACCIDENTS/SECURITY	True
+18	accident	ACCIDENTS/SECURITY	True
+19	could	ACCIDENTS/SECURITY	True
+20	kill	ACCIDENTS/SECURITY	True
+21	and	ACCIDENTS/SECURITY	True
+22	injure	ACCIDENTS/SECURITY	True
+23	tens	O	True
+24	of	O	True
+25	thousands	O	True
+26	of	O	True
+27	people	O	True
+28	,	O	True
+29	cost	COSTS	True
+30	billions	O	True
+31	of	O	True
+32	dollars	O	True
+33	in	O	True
+34	damages	O	True
+35	and	O	True
+36	leave	O	True
+37	large	ENVIRONMENTAL IMPACT	True
+38	regions	ENVIRONMENTAL IMPACT	True
+39	uninhabitable	ENVIRONMENTAL IMPACT	True
+40	.	O	False
+
+1	If	O	True
+2	the	ENERGY POLICY	True
+3	United	ENERGY POLICY	True
+4	States	ENERGY POLICY	True
+5	is	ENERGY POLICY	True
+6	to	ENERGY POLICY	True
+7	be	ENERGY POLICY	True
+8	a	ENERGY POLICY	True
+9	major	ENERGY POLICY	True
+10	player	ENERGY POLICY	True
+11	in	O	True
+12	the	O	True
+13	world	O	True
+14	’s	O	True
+15	energy	O	True
+16	future	O	True
+17	,	O	True
+18	we	O	True
+19	must	O	True
+20	advance	O	True
+21	our	O	True
+22	nuclear	O	True
+23	power	O	True
+24	programs	O	True
+25	as	O	True
+26	quickly	O	True
+27	as	O	True
+28	possible	O	True
+29	.	O	False
+
+1	Efforts	O	True
+2	to	O	True
+3	ensure	O	True
+4	that	O	True
+5	nuclear	O	True
+6	power	O	True
+7	plants	O	True
+8	maintain	O	True
+9	this	ACCIDENTS/SECURITY	True
+10	safety	ACCIDENTS/SECURITY	True
+11	record	ACCIDENTS/SECURITY	True
+12	are	O	True
+13	constantly	O	True
+14	emphasized	O	True
+15	,	O	True
+16	and	O	True
+17	the	O	True
+18	record	O	True
+19	compares	O	True
+20	favorably	O	True
+21	with	O	True
+22	all	O	True
+23	other	O	True
+24	ways	O	True
+25	of	O	True
+26	making	O	True
+27	electricity	O	True
+28	.	O	True
+29	”	O	False
+
+1	Fossil	FOSSIL FUELS	True
+2	fuel	FOSSIL FUELS	True
+3	burning	FOSSIL FUELS	True
+4	produces	O	True
+5	twenty	O	True
+6	seven	O	True
+7	thousand	O	True
+8	million	O	True
+9	tons	O	True
+10	of	O	True
+11	carbon	O	True
+12	dioxide	O	True
+13	yearly	O	True
+14	.	O	False
+
+1	The	O	True
+2	result	O	True
+3	is	O	True
+4	not	O	True
+5	just	O	True
+6	energy	O	True
+7	,	O	True
+8	but	O	True
+9	also	O	True
+10	radiation	O	True
+11	that	O	True
+12	is	O	True
+13	the	ACCIDENTS/SECURITY	True
+14	major	ACCIDENTS/SECURITY	True
+15	safety	ACCIDENTS/SECURITY	True
+16	concern	ACCIDENTS/SECURITY	True
+17	of	O	True
+18	all	O	True
+19	present	O	True
+20	nuclear	O	True
+21	energy	O	True
+22	processes	O	True
+23	.	O	False
+
+1	Another	O	True
+2	effect	O	True
+3	of	O	True
+4	renewed	O	True
+5	operation	O	True
+6	is	O	True
+7	a	O	True
+8	risk	O	True
+9	of	O	True
+10	a	ACCIDENTS/SECURITY	True
+11	nuclear	ACCIDENTS/SECURITY	True
+12	accident	ACCIDENTS/SECURITY	True
+13	.	O	False
+
+1	Murray	O	True
+2	E.	O	True
+3	Jennex	O	True
+4	,	O	True
+5	an	O	True
+6	associate	O	True
+7	professor	O	True
+8	at	O	True
+9	San	O	True
+10	Diego	O	True
+11	State	O	True
+12	University	O	True
+13	with	O	True
+14	20	O	True
+15	years	O	True
+16	of	O	True
+17	experience	O	True
+18	in	O	True
+19	examining	O	True
+20	nuclear	O	True
+21	containment	O	True
+22	structures	O	True
+23	,	O	True
+24	believes	O	True
+25	that	O	True
+26	because	O	True
+27	these	O	True
+28	ad	O	True
+29	hoc	O	True
+30	measures	O	True
+31	are	O	True
+32	untested	O	True
+33	,	O	True
+34	they	O	True
+35	could	O	True
+36	be	O	True
+37	leading	O	True
+38	to	O	True
+39	greater	O	True
+40	problems	O	True
+41	,	O	True
+42	as	O	True
+43	spraying	O	True
+44	water	O	True
+45	everywhere	O	True
+46	wrecks	O	True
+47	delicate	O	True
+48	electrical	O	True
+49	equipment	O	True
+50	;	O	True
+51	“	O	True
+52	They	O	True
+53	dumped	O	True
+54	water	O	True
+55	all	O	True
+56	over	O	True
+57	the	O	True
+58	place	O	True
+59	…	O	True
+60	They	O	True
+61	keep	O	True
+62	on	O	True
+63	generating	O	True
+64	more	ENVIRONMENTAL IMPACT	True
+65	contamination	ENVIRONMENTAL IMPACT	True
+66	.	O	False
+
+1	IT	O	True
+2	IS	O	True
+3	PROPAGANDA	PUBLIC DEBATE	True
+4	for	O	True
+5	the	PUBLIC DEBATE	True
+6	low	PUBLIC DEBATE	True
+7	information	PUBLIC DEBATE	True
+8	audience	PUBLIC DEBATE	True
+9	and	O	True
+10	the	O	True
+11	green	O	True
+12	zealots	O	True
+13	.	O	False
+
+1	There	O	True
+2	are	O	True
+3	many	O	True
+4	types	O	True
+5	of	O	True
+6	facilities	O	True
+7	that	O	True
+8	are	O	True
+9	far	O	True
+10	more	O	True
+11	vulnerable	O	True
+12	,	O	True
+13	including	O	True
+14	liquid	FOSSIL FUELS	True
+15	natural	FOSSIL FUELS	True
+16	gas	FOSSIL FUELS	True
+17	plants	FOSSIL FUELS	True
+18	,	O	True
+19	chemical	FOSSIL FUELS	True
+20	plants	FOSSIL FUELS	True
+21	and	O	True
+22	numerous	O	True
+23	political	O	True
+24	targets	O	True
+25	.	O	True
+26	"	O	False
+

@@ -1,0 +1,43 @@
+# The corpus for multi-topic testing was created from train,test,dev files from
+# other corpora. Therefore all non training related parameters are pretty much
+# not relevant
+
+dataset: mw  # name of a sub folder of the results directory
+seed: default  # default seed is used for every rng use, you can also provide a number
+
+# test cases are token/chunk
+conll_tests:
+  - chunk
+
+# sentence_tests
+sentence_tests:
+  - chunk_pair
+  - sentence_labels
+
+split_sentences: True
+
+# BIOES tagging can be true, false or both if both tests should be run
+bioes:
+  - False
+
+# Intersection of labeled tokens can be true, false or both if both tests should be run
+intersection:
+  - False
+
+# Training set paramers: This is the size of the training set and the dev set,
+# test is sized accordingly
+# Remove other: removes all sentences from training which are classified as
+# OTHER. This is done because there is no learning benefit, might even be
+# detrimental. Does accept both, but probably just set it to True
+train_size: 0.7
+dev_size: 0.1
+remove_other: True
+
+
+# Machine learning parameters, you can specify more than one model
+models :
+  - roberta-large
+learning_rate: 5.0e-6
+max_epochs: 50
+number_of_runs: 5
+

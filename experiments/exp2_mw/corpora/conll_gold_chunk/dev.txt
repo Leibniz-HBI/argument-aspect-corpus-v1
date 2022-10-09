@@ -1,0 +1,3045 @@
+1	“	O	True
+2	The	UN/EMPLOYMENT RATE	True
+3	loss	UN/EMPLOYMENT RATE	True
+4	of	UN/EMPLOYMENT RATE	True
+5	jobs	UN/EMPLOYMENT RATE	True
+6	and	O	True
+7	the	PRICES	True
+8	cost	PRICES	True
+9	of	PRICES	True
+10	living	PRICES	True
+11	increase	PRICES	True
+12	will	ECONOMIC IMPACT	True
+13	only	ECONOMIC IMPACT	True
+14	hurt	ECONOMIC IMPACT	True
+15	our	ECONOMIC IMPACT	True
+16	economy	ECONOMIC IMPACT	True
+17	,	O	True
+18	not	O	True
+19	help	O	True
+20	it	O	True
+21	,	O	True
+22	”	O	True
+23	he	O	True
+24	says	O	True
+25	.	O	False
+
+1	That	O	True
+2	way	O	True
+3	the	SOCIAL JUSTICE/INJUSTICE	True
+4	costs	SOCIAL JUSTICE/INJUSTICE	True
+5	in	SOCIAL JUSTICE/INJUSTICE	True
+6	NY	SOCIAL JUSTICE/INJUSTICE	True
+7	have	SOCIAL JUSTICE/INJUSTICE	True
+8	little	SOCIAL JUSTICE/INJUSTICE	True
+9	to	SOCIAL JUSTICE/INJUSTICE	True
+10	no	SOCIAL JUSTICE/INJUSTICE	True
+11	effect	SOCIAL JUSTICE/INJUSTICE	True
+12	on	SOCIAL JUSTICE/INJUSTICE	True
+13	someone	SOCIAL JUSTICE/INJUSTICE	True
+14	in	SOCIAL JUSTICE/INJUSTICE	True
+15	KY	SOCIAL JUSTICE/INJUSTICE	True
+16	.	O	False
+
+1	A	O	True
+2	much	O	True
+3	better	O	True
+4	idea	O	True
+5	would	O	True
+6	be	O	True
+7	local	SOCIAL JUSTICE/INJUSTICE	True
+8	“	SOCIAL JUSTICE/INJUSTICE	True
+9	living	SOCIAL JUSTICE/INJUSTICE	True
+10	wage	SOCIAL JUSTICE/INJUSTICE	True
+11	”	SOCIAL JUSTICE/INJUSTICE	True
+12	campaigns	SOCIAL JUSTICE/INJUSTICE	True
+13	,	O	True
+14	each	O	True
+15	one	O	True
+16	pushing	O	True
+17	for	O	True
+18	a	O	True
+19	number	O	True
+20	that	O	True
+21	is	O	True
+22	appropriate	O	True
+23	to	O	True
+24	specific	O	True
+25	job	O	True
+26	markets	O	True
+27	.	O	False
+
+1	The	O	True
+2	cost	O	True
+3	of	O	True
+4	a	O	True
+5	higher	O	True
+6	wage	O	True
+7	is	COMPETITION/BUSINESS CHALLENGES	True
+8	borne	COMPETITION/BUSINESS CHALLENGES	True
+9	by	COMPETITION/BUSINESS CHALLENGES	True
+10	employers	COMPETITION/BUSINESS CHALLENGES	True
+11	and	COMPETITION/BUSINESS CHALLENGES	True
+12	consumers	COMPETITION/BUSINESS CHALLENGES	True
+13	–	O	True
+14	and	O	True
+15	by	O	True
+16	the	O	True
+17	unfortunate	O	True
+18	people	O	True
+19	who	O	True
+20	end	UN/EMPLOYMENT RATE	True
+21	up	UN/EMPLOYMENT RATE	True
+22	not	UN/EMPLOYMENT RATE	True
+23	working	UN/EMPLOYMENT RATE	True
+24	because	UN/EMPLOYMENT RATE	True
+25	of	UN/EMPLOYMENT RATE	True
+26	it	UN/EMPLOYMENT RATE	True
+27	.	O	False
+
+1	Perhaps	O	True
+2	the	O	True
+3	most	O	True
+4	common	O	True
+5	word	O	True
+6	you	O	True
+7	'	O	False
+8	ll	O	True
+9	hear	O	True
+10	from	O	True
+11	people	O	True
+12	who	O	True
+13	support	O	True
+14	boosting	O	True
+15	the	O	True
+16	minimum	O	True
+17	wage	O	True
+18	is	O	True
+19	"	SOCIAL JUSTICE/INJUSTICE	True
+20	fairness	SOCIAL JUSTICE/INJUSTICE	True
+21	.	O	True
+22	"	O	False
+
+1	According	O	True
+2	to	O	True
+3	James	O	True
+4	Sherk	O	True
+5	,	O	True
+6	MA	O	True
+7	,	O	True
+8	Senior	O	True
+9	Policy	O	True
+10	Analyst	O	True
+11	at	O	True
+12	the	O	True
+13	Heritage	O	True
+14	Foundation	O	True
+15	,	O	True
+16	a	O	True
+17	single	O	True
+18	mother	O	True
+19	working	O	True
+20	full	O	True
+21	time	O	True
+22	and	O	True
+23	earning	O	True
+24	the	O	True
+25	federal	O	True
+26	minimum	O	True
+27	wage	O	True
+28	of	O	True
+29	$	O	True
+30	7.25	O	True
+31	an	O	True
+32	hour	O	True
+33	would	O	True
+34	be	O	True
+35	over	O	True
+36	$	O	True
+37	260	O	True
+38	a	O	True
+39	month	O	True
+40	worse	SOCIAL JUSTICE/INJUSTICE	True
+41	off	SOCIAL JUSTICE/INJUSTICE	True
+42	if	SOCIAL JUSTICE/INJUSTICE	True
+43	the	SOCIAL JUSTICE/INJUSTICE	True
+44	minimum	SOCIAL JUSTICE/INJUSTICE	True
+45	wage	SOCIAL JUSTICE/INJUSTICE	True
+46	were	SOCIAL JUSTICE/INJUSTICE	True
+47	raised	SOCIAL JUSTICE/INJUSTICE	True
+48	to	O	True
+49	$	O	True
+50	10.10	O	True
+51	:	O	True
+52	"	O	True
+53	While	O	True
+54	her	SOCIAL JUSTICE/INJUSTICE	True
+55	market	SOCIAL JUSTICE/INJUSTICE	True
+56	income	SOCIAL JUSTICE/INJUSTICE	True
+57	rises	SOCIAL JUSTICE/INJUSTICE	True
+58	by	O	True
+59	$	O	True
+60	494	O	True
+61	,	O	True
+62	she	O	True
+63	loses	WELFARE	True
+64	$	WELFARE	True
+65	71	WELFARE	True
+66	in	WELFARE	True
+67	EITC	WELFARE	True
+68	[	WELFARE	True
+69	earned	WELFARE	True
+70	income	WELFARE	True
+71	tax	WELFARE	True
+72	credit	WELFARE	True
+73	]	WELFARE	True
+74	refunds	WELFARE	True
+75	,	O	True
+76	pays	O	True
+77	$	O	True
+78	37	O	True
+79	more	O	True
+80	in	O	True
+81	payroll	O	True
+82	taxes	O	True
+83	and	O	True
+84	$	O	True
+85	45	O	True
+86	more	O	True
+87	in	O	True
+88	state	O	True
+89	income	O	True
+90	taxes	O	True
+91	.	O	False
+
+1	That	O	True
+2	is	O	True
+3	why	O	True
+4	Dube	O	True
+5	recommends	O	True
+6	that	O	True
+7	state	O	True
+8	and	O	True
+9	local	O	True
+10	governments	O	True
+11	set	O	True
+12	minimum	O	True
+13	wages	O	True
+14	that	O	True
+15	take	O	True
+16	into	O	True
+17	account	O	True
+18	local	SOCIAL JUSTICE/INJUSTICE	True
+19	wages	SOCIAL JUSTICE/INJUSTICE	True
+20	and	SOCIAL JUSTICE/INJUSTICE	True
+21	local	SOCIAL JUSTICE/INJUSTICE	True
+22	price	SOCIAL JUSTICE/INJUSTICE	True
+23	levels	SOCIAL JUSTICE/INJUSTICE	True
+24	.	O	False
+
+1	Inflation	O	True
+2	:	O	True
+3	The	O	True
+4	federal	O	True
+5	minimum	O	True
+6	wage	O	True
+7	needs	O	True
+8	to	O	True
+9	be	O	True
+10	raised	O	True
+11	in	O	True
+12	order	O	True
+13	to	SOCIAL JUSTICE/INJUSTICE	True
+14	account	SOCIAL JUSTICE/INJUSTICE	True
+15	for	SOCIAL JUSTICE/INJUSTICE	True
+16	inflation	SOCIAL JUSTICE/INJUSTICE	True
+17	,	O	True
+18	which	O	True
+19	raises	O	True
+20	every	O	True
+21	year	O	True
+22	and	O	True
+23	the	O	True
+24	minimum	O	True
+25	wage	O	True
+26	has	O	True
+27	only	O	True
+28	been	O	True
+29	risen	O	True
+30	three	O	True
+31	times	O	True
+32	in	O	True
+33	the	O	True
+34	past	O	True
+35	three	O	True
+36	decades	O	True
+37	.	O	False
+
+1	While	O	True
+2	the	O	True
+3	law	O	True
+4	was	O	True
+5	not	O	True
+6	written	O	True
+7	in	O	True
+8	the	O	True
+9	spirit	O	True
+10	that	O	True
+11	this	O	True
+12	should	O	True
+13	be	O	True
+14	THE	O	True
+15	RULE	O	True
+16	when	O	True
+17	it	O	True
+18	came	O	True
+19	to	O	True
+20	salary	O	True
+21	most	CAPITAL VS LABOR	True
+22	big	CAPITAL VS LABOR	True
+23	businesses	CAPITAL VS LABOR	True
+24	have	CAPITAL VS LABOR	True
+25	taken	CAPITAL VS LABOR	True
+26	full	CAPITAL VS LABOR	True
+27	advantage	CAPITAL VS LABOR	True
+28	of	CAPITAL VS LABOR	True
+29	paying	CAPITAL VS LABOR	True
+30	this	CAPITAL VS LABOR	True
+31	sub	CAPITAL VS LABOR	True
+32	par	CAPITAL VS LABOR	True
+33	wage	CAPITAL VS LABOR	True
+34	.	O	False
+
+1	Another	O	True
+2	reason	O	True
+3	that	O	True
+4	employment	O	True
+5	may	O	True
+6	not	O	True
+7	fall	O	True
+8	is	O	True
+9	that	O	True
+10	businesses	O	True
+11	pass	PRICES	True
+12	along	PRICES	True
+13	some	PRICES	True
+14	of	PRICES	True
+15	the	PRICES	True
+16	cost	PRICES	True
+17	of	O	True
+18	a	O	True
+19	higher	O	True
+20	minimum	O	True
+21	wage	O	True
+22	to	O	True
+23	consumers	O	True
+24	through	O	True
+25	higher	PRICES	True
+26	prices	PRICES	True
+27	.	O	False
+
+1	According	O	True
+2	to	O	True
+3	the	O	True
+4	Congressional	O	True
+5	Budget	O	True
+6	Office	O	True
+7	report	O	True
+8	on	O	True
+9	The	O	True
+10	Effects	O	True
+11	of	O	True
+12	a	O	True
+13	Minimum-Wage	O	True
+14	Increase	O	True
+15	on	O	True
+16	Employment	SOCIAL JUSTICE/INJUSTICE	True
+17	and	SOCIAL JUSTICE/INJUSTICE	True
+18	Family	SOCIAL JUSTICE/INJUSTICE	True
+19	Income	SOCIAL JUSTICE/INJUSTICE	True
+20	,	O	True
+21	increasing	O	True
+22	the	O	True
+23	minimum	O	True
+24	wage	O	True
+25	from	O	True
+26	$	O	True
+27	7.25	O	True
+28	to	O	True
+29	$	O	True
+30	10.10	O	True
+31	per	O	True
+32	hour	O	True
+33	will	O	True
+34	only	O	True
+35	reduce	O	True
+36	the	O	True
+37	number	O	True
+38	of	O	True
+39	people	O	True
+40	in	O	True
+41	poverty	SOCIAL JUSTICE/INJUSTICE	True
+42	by	O	True
+43	900,000	O	True
+44	,	O	True
+45	a	O	True
+46	relatively	O	True
+47	few	O	True
+48	portion	O	True
+49	of	O	True
+50	the	O	True
+51	16.5	O	True
+52	million	O	True
+53	people	O	True
+54	that	O	True
+55	would	O	True
+56	supposedly	O	True
+57	benefit	O	True
+58	from	O	True
+59	the	O	True
+60	raise	O	True
+61	.	O	False
+
+1	James	O	True
+2	Dorn	O	True
+3	,	O	True
+4	PhD	O	True
+5	,	O	True
+6	Senior	O	True
+7	Fellow	O	True
+8	at	O	True
+9	the	O	True
+10	Cato	O	True
+11	Institute	O	True
+12	,	O	True
+13	stated	O	True
+14	that	O	True
+15	a	O	True
+16	10	O	True
+17	%	O	True
+18	increase	O	True
+19	in	O	True
+20	the	O	True
+21	minimum	O	True
+22	wage	O	True
+23	"	O	True
+24	leads	O	True
+25	to	O	True
+26	a	O	True
+27	1	O	True
+28	to	O	True
+29	3	O	True
+30	percent	O	True
+31	decrease	O	True
+32	in	O	True
+33	employment	LOW-SKILLED	True
+34	of	LOW-SKILLED	True
+35	low-skilled	LOW-SKILLED	True
+36	workers	LOW-SKILLED	True
+37	"	O	True
+38	in	O	True
+39	the	O	True
+40	short	O	True
+41	term	O	True
+42	,	O	True
+43	and	O	True
+44	"	O	True
+45	to	O	True
+46	a	O	True
+47	larger	O	True
+48	decrease	O	True
+49	in	O	True
+50	the	O	True
+51	long	O	True
+52	run	O	True
+53	.	O	True
+54	"	O	False
+
+1	“	O	True
+2	The	O	True
+3	typical	O	True
+4	worker	O	True
+5	who	O	True
+6	would	O	True
+7	be	O	True
+8	affected	O	True
+9	by	O	True
+10	an	O	True
+11	increase	O	True
+12	in	O	True
+13	the	O	True
+14	minimum	O	True
+15	wage	O	True
+16	to	O	True
+17	$	O	True
+18	10.10	O	True
+19	per	O	True
+20	hour	O	True
+21	by	O	True
+22	2015	O	True
+23	looks	O	True
+24	nothing	O	True
+25	like	O	True
+26	the	YOUTH AND SECONDARY WAGE EARNERS	True
+27	part-time	YOUTH AND SECONDARY WAGE EARNERS	True
+28	,	YOUTH AND SECONDARY WAGE EARNERS	True
+29	teen	YOUTH AND SECONDARY WAGE EARNERS	True
+30	stereotype	YOUTH AND SECONDARY WAGE EARNERS	True
+31	:	O	True
+32	She	O	True
+33	is	O	True
+34	in	O	True
+35	her	O	True
+36	early	O	True
+37	thirties	O	True
+38	,	O	True
+39	works	O	True
+40	full-time	YOUTH AND SECONDARY WAGE EARNERS	True
+41	,	O	True
+42	and	O	True
+43	may	YOUTH AND SECONDARY WAGE EARNERS	True
+44	have	YOUTH AND SECONDARY WAGE EARNERS	True
+45	a	YOUTH AND SECONDARY WAGE EARNERS	True
+46	family	YOUTH AND SECONDARY WAGE EARNERS	True
+47	to	YOUTH AND SECONDARY WAGE EARNERS	True
+48	support	YOUTH AND SECONDARY WAGE EARNERS	True
+49	.	O	True
+50	”	O	False
+
+1	Lower-wage	O	True
+2	worker	O	True
+3	income	O	True
+4	is	WELFARE	True
+5	being	WELFARE	True
+6	subsidized	WELFARE	True
+7	by	O	True
+8	the	O	True
+9	government	O	True
+10	.	O	False
+
+1	It	O	True
+2	helps	O	True
+3	some	O	True
+4	low-income	O	True
+5	workers	O	True
+6	,	O	True
+7	and	O	True
+8	the	O	True
+9	costs	O	True
+10	in	O	True
+11	terms	O	True
+12	of	O	True
+13	employment	UN/EMPLOYMENT RATE	True
+14	and	UN/EMPLOYMENT RATE	True
+15	inefficiency	UN/EMPLOYMENT RATE	True
+16	are	O	True
+17	likely	O	True
+18	small	O	True
+19	.	O	False
+
+1	Based	O	True
+2	on	O	True
+3	data	O	True
+4	from	O	True
+5	80s	O	True
+6	and	O	True
+7	early	O	True
+8	90s	O	True
+9	,	O	True
+10	Daniel	O	True
+11	Aaronson	O	True
+12	estimated	O	True
+13	that	O	True
+14	a	O	True
+15	10	O	True
+16	percent	O	True
+17	increase	O	True
+18	in	O	True
+19	the	O	True
+20	minimum	O	True
+21	wage	O	True
+22	drove	PRICES	True
+23	up	PRICES	True
+24	the	PRICES	True
+25	price	PRICES	True
+26	of	O	True
+27	McDonald	O	True
+28	’s	O	True
+29	burgers	O	True
+30	,	O	True
+31	KFC	O	True
+32	chicken	O	True
+33	,	O	True
+34	and	O	True
+35	Pizza	O	True
+36	Hut	O	True
+37	’s	O	True
+38	pizza-like	O	True
+39	product	O	True
+40	by	O	True
+41	as	O	True
+42	much	O	True
+43	as	O	True
+44	10	O	True
+45	percent	O	True
+46	.	O	False
+
+1	A	O	True
+2	minimum	O	True
+3	wage	O	True
+4	increase	O	True
+5	would	COMPETITION/BUSINESS CHALLENGES	True
+6	hurt	COMPETITION/BUSINESS CHALLENGES	True
+7	businesses	COMPETITION/BUSINESS CHALLENGES	True
+8	and	COMPETITION/BUSINESS CHALLENGES	True
+9	force	COMPETITION/BUSINESS CHALLENGES	True
+10	companies	COMPETITION/BUSINESS CHALLENGES	True
+11	to	COMPETITION/BUSINESS CHALLENGES	True
+12	close	COMPETITION/BUSINESS CHALLENGES	True
+13	.	O	False
+
+1	According	O	True
+2	to	O	True
+3	a	O	True
+4	2013	O	True
+5	poll	O	True
+6	by	O	True
+7	Oxfam	O	True
+8	America	O	True
+9	,	O	True
+10	66	O	True
+11	%	O	True
+12	of	O	True
+13	US	O	True
+14	workers	O	True
+15	earning	O	True
+16	less	O	True
+17	than	O	True
+18	$	O	True
+19	10	O	True
+20	an	O	True
+21	hour	O	True
+22	report	O	True
+23	that	O	True
+24	they	O	True
+25	"	O	True
+26	just	O	True
+27	meet	O	True
+28	"	O	True
+29	or	O	True
+30	"	O	True
+31	do	O	True
+32	n't	O	True
+33	even	O	True
+34	have	O	True
+35	enough	O	True
+36	to	O	True
+37	meet	O	True
+38	"	SOCIAL JUSTICE/INJUSTICE	True
+39	their	SOCIAL JUSTICE/INJUSTICE	True
+40	basic	SOCIAL JUSTICE/INJUSTICE	True
+41	living	SOCIAL JUSTICE/INJUSTICE	True
+42	expenses	SOCIAL JUSTICE/INJUSTICE	True
+43	,	O	True
+44	and	O	True
+45	50	O	True
+46	%	O	True
+47	say	O	True
+48	that	O	True
+49	they	O	True
+50	are	O	True
+51	frequently	O	True
+52	worried	O	True
+53	about	O	True
+54	affording	O	True
+55	basic	O	True
+56	necessities	O	True
+57	such	O	True
+58	as	O	True
+59	food	O	True
+60	.	O	False
+
+1	Why	O	True
+2	not	O	True
+3	let	GOVERNMENT	True
+4	the	GOVERNMENT	True
+5	market	GOVERNMENT	True
+6	place	GOVERNMENT	True
+7	arrive	O	True
+8	at	O	True
+9	that	O	True
+10	?	O	False
+
+1	Firms	O	True
+2	will	O	True
+3	hire	O	True
+4	all	O	True
+5	the	O	True
+6	workers	O	True
+7	it	O	True
+8	makes	O	True
+9	sense	O	True
+10	to	O	True
+11	hire	O	True
+12	at	O	True
+13	prevailing	O	True
+14	wages	O	True
+15	,	O	True
+16	the	O	True
+17	thinking	O	True
+18	goes	O	True
+19	,	O	True
+20	so	O	True
+21	any	O	True
+22	minimum	O	True
+23	wage	O	True
+24	that	O	True
+25	forces	O	True
+26	firms	O	True
+27	to	O	True
+28	pay	O	True
+29	existing	O	True
+30	workers	O	True
+31	more	O	True
+32	will	O	True
+33	make	O	True
+34	those	O	True
+35	jobs	O	True
+36	uneconomical	O	True
+37	,	O	True
+38	leading	UN/EMPLOYMENT RATE	True
+39	to	UN/EMPLOYMENT RATE	True
+40	sackings	UN/EMPLOYMENT RATE	True
+41	.	O	False
+
+1	Economists	O	True
+2	are	O	True
+3	generally	O	True
+4	in	O	True
+5	agreement	O	True
+6	that	O	True
+7	increases	O	True
+8	in	O	True
+9	the	O	True
+10	minimum	O	True
+11	wage	O	True
+12	,	O	True
+13	especially	O	True
+14	large	O	True
+15	increases	O	True
+16	to	O	True
+17	$	O	True
+18	15	O	True
+19	an	O	True
+20	hour	O	True
+21	like	O	True
+22	in	O	True
+23	Seattle	O	True
+24	,	O	True
+25	will	LOW-SKILLED	True
+26	reduce	LOW-SKILLED	True
+27	employment	LOW-SKILLED	True
+28	opportunities	LOW-SKILLED	True
+29	for	LOW-SKILLED	True
+30	unskilled	LOW-SKILLED	True
+31	workers	LOW-SKILLED	True
+32	.	O	False
+
+1	Not	O	True
+2	true	O	True
+3	:	O	True
+4	While	O	True
+5	29	O	True
+6	states	O	True
+7	and	O	True
+8	the	O	True
+9	District	O	True
+10	of	O	True
+11	Columbia	O	True
+12	currently	O	True
+13	have	O	True
+14	a	O	True
+15	minimum	O	True
+16	wage	O	True
+17	higher	O	True
+18	than	O	True
+19	the	O	True
+20	federal	O	True
+21	minimum	O	True
+22	,	O	True
+23	increasing	O	True
+24	the	O	True
+25	federal	O	True
+26	minimum	O	True
+27	wage	O	True
+28	will	SOCIAL JUSTICE/INJUSTICE	True
+29	boost	SOCIAL JUSTICE/INJUSTICE	True
+30	the	SOCIAL JUSTICE/INJUSTICE	True
+31	earnings	SOCIAL JUSTICE/INJUSTICE	True
+32	for	O	True
+33	nearly	SOCIAL JUSTICE/INJUSTICE	True
+34	38	SOCIAL JUSTICE/INJUSTICE	True
+35	million	SOCIAL JUSTICE/INJUSTICE	True
+36	low-wage	SOCIAL JUSTICE/INJUSTICE	True
+37	workers	SOCIAL JUSTICE/INJUSTICE	True
+38	nationwide	SOCIAL JUSTICE/INJUSTICE	True
+39	.	O	False
+
+1	Let	O	True
+2	the	O	True
+3	issues	O	True
+4	such	O	True
+5	as	O	True
+6	minimum	O	True
+7	wage	O	True
+8	be	O	True
+9	determined	O	True
+10	by	O	True
+11	mutual	GOVERNMENT	True
+12	agreement	GOVERNMENT	True
+13	between	GOVERNMENT	True
+14	the	GOVERNMENT	True
+15	employers	GOVERNMENT	True
+16	and	GOVERNMENT	True
+17	representatives	GOVERNMENT	True
+18	of	O	True
+19	the	O	True
+20	employees	O	True
+21	who	O	True
+22	work	O	True
+23	for	O	True
+24	them	O	True
+25	.	O	False
+
+1	It	O	True
+2	is	O	True
+3	commonly	O	True
+4	argued	O	True
+5	that	O	True
+6	raising	O	True
+7	the	O	True
+8	minimum	O	True
+9	wage	O	True
+10	will	COMPETITION/BUSINESS CHALLENGES	True
+11	hurt	COMPETITION/BUSINESS CHALLENGES	True
+12	businesses	COMPETITION/BUSINESS CHALLENGES	True
+13	by	O	True
+14	making	O	True
+15	them	O	True
+16	less	O	True
+17	profitable	O	True
+18	and	O	True
+19	decreasing	O	True
+20	their	O	True
+21	value	O	True
+22	to	O	True
+23	shareholders	O	True
+24	.	O	False
+
+1	On	O	True
+2	the	O	True
+3	other	O	True
+4	hand	O	True
+5	,	O	True
+6	an	O	True
+7	assessment	O	True
+8	of	O	True
+9	data	O	True
+10	collected	O	True
+11	and	O	True
+12	analyzed	O	True
+13	by	O	True
+14	Neumark	O	True
+15	and	O	True
+16	Wascher	O	True
+17	did	O	True
+18	not	O	True
+19	initially	O	True
+20	contradict	O	True
+21	the	O	True
+22	Card	O	True
+23	and	O	True
+24	Krueger	O	True
+25	results	O	True
+26	,	O	True
+27	but	O	True
+28	in	O	True
+29	a	O	True
+30	later	O	True
+31	edited	O	True
+32	version	O	True
+33	they	O	True
+34	found	O	True
+35	a	O	True
+36	four	O	True
+37	percent	O	True
+38	decrease	O	True
+39	in	O	True
+40	employment	UN/EMPLOYMENT RATE	True
+41	,	O	True
+42	and	O	True
+43	reported	O	True
+44	that	O	True
+45	"	O	True
+46	the	O	True
+47	estimated	O	True
+48	disemployment	O	True
+49	effects	O	True
+50	in	O	True
+51	the	O	True
+52	payroll	O	True
+53	data	O	True
+54	are	O	True
+55	often	O	True
+56	statistically	O	True
+57	significant	O	True
+58	at	O	True
+59	the	O	True
+60	5	O	True
+61	-	O	True
+62	or	O	True
+63	10-percent	O	True
+64	level	O	True
+65	although	O	True
+66	there	O	True
+67	are	O	True
+68	some	O	True
+69	estimators	O	True
+70	and	O	True
+71	subsamples	O	True
+72	that	O	True
+73	yield	O	True
+74	insignificant	O	True
+75	—	O	True
+76	although	O	True
+77	almost	O	True
+78	always	O	True
+79	negative	O	True
+80	"	O	True
+81	employment	O	True
+82	effects	O	True
+83	.	O	False
+
+1	First	O	True
+2	instituted	O	True
+3	by	O	True
+4	President	O	True
+5	Richard	O	True
+6	Nixon	O	True
+7	,	O	True
+8	it	O	True
+9	’s	O	True
+10	widely	O	True
+11	considered	O	True
+12	one	O	True
+13	of	O	True
+14	the	SOCIAL JUSTICE/INJUSTICE	True
+15	most	SOCIAL JUSTICE/INJUSTICE	True
+16	successful	SOCIAL JUSTICE/INJUSTICE	True
+17	poverty-alleviation	SOCIAL JUSTICE/INJUSTICE	True
+18	tools	SOCIAL JUSTICE/INJUSTICE	True
+19	the	O	True
+20	federal	O	True
+21	government	O	True
+22	has	O	True
+23	ever	O	True
+24	deployed	O	True
+25	.	O	False
+
+1	In	O	True
+2	1998	O	True
+3	,	O	True
+4	the	O	True
+5	citizens	O	True
+6	of	O	True
+7	Washington	O	True
+8	State	O	True
+9	voted	O	True
+10	to	O	True
+11	raise	O	True
+12	theirs	O	True
+13	and	O	True
+14	then	O	True
+15	link	SOCIAL JUSTICE/INJUSTICE	True
+16	future	SOCIAL JUSTICE/INJUSTICE	True
+17	increases	SOCIAL JUSTICE/INJUSTICE	True
+18	to	SOCIAL JUSTICE/INJUSTICE	True
+19	the	SOCIAL JUSTICE/INJUSTICE	True
+20	rate	SOCIAL JUSTICE/INJUSTICE	True
+21	of	SOCIAL JUSTICE/INJUSTICE	True
+22	inflation	SOCIAL JUSTICE/INJUSTICE	True
+23	.	O	False
+
+1	Lower	O	True
+2	profits	O	True
+3	mean	O	True
+4	that	O	True
+5	businesses	COMPETITION/BUSINESS CHALLENGES	True
+6	have	COMPETITION/BUSINESS CHALLENGES	True
+7	less	COMPETITION/BUSINESS CHALLENGES	True
+8	money	COMPETITION/BUSINESS CHALLENGES	True
+9	to	O	True
+10	put	O	True
+11	back	O	True
+12	into	O	True
+13	their	O	True
+14	enterprises	O	True
+15	for	O	True
+16	job	UN/EMPLOYMENT RATE	True
+17	creation	UN/EMPLOYMENT RATE	True
+18	and	O	True
+19	business	COMPETITION/BUSINESS CHALLENGES	True
+20	expansion	COMPETITION/BUSINESS CHALLENGES	True
+21	.	O	False
+
+1	The	O	True
+2	higher	O	True
+3	costs	O	True
+4	of	O	True
+5	production	O	True
+6	are	O	True
+7	,	O	True
+8	the	PRICES	True
+9	higher	PRICES	True
+10	prices	PRICES	True
+11	are	O	True
+12	.	O	False
+
+1	Opponents	O	True
+2	of	O	True
+3	minimum	O	True
+4	wages	O	True
+5	contend	O	True
+6	that	O	True
+7	increased	O	True
+8	labor	O	True
+9	costs	O	True
+10	force	O	True
+11	businesses	O	True
+12	to	UN/EMPLOYMENT RATE	True
+13	cut	UN/EMPLOYMENT RATE	True
+14	staff	UN/EMPLOYMENT RATE	True
+15	,	O	True
+16	costing	UN/EMPLOYMENT RATE	True
+17	jobs	UN/EMPLOYMENT RATE	True
+18	.	O	False
+
+1	Rather	O	True
+2	,	O	True
+3	it	O	True
+4	does	O	True
+5	more	O	True
+6	harm	O	True
+7	than	O	True
+8	good	O	True
+9	by	O	True
+10	increasing	LOW-SKILLED	True
+11	the	LOW-SKILLED	True
+12	cost	LOW-SKILLED	True
+13	of	LOW-SKILLED	True
+14	low-skilled	LOW-SKILLED	True
+15	labor	LOW-SKILLED	True
+16	.	O	False
+
+1	Every	O	True
+2	time	O	True
+3	we	O	True
+4	raise	O	True
+5	the	O	True
+6	minimum	O	True
+7	wage	O	True
+8	,	O	True
+9	the	O	True
+10	number	O	True
+11	of	O	True
+12	jobless	UN/EMPLOYMENT RATE	True
+13	people	UN/EMPLOYMENT RATE	True
+14	increases	O	True
+15	.	O	False
+
+1	Or	O	True
+2	they	O	True
+3	might	O	True
+4	start	O	True
+5	hiring	O	True
+6	older	O	True
+7	,	O	True
+8	more	O	True
+9	experienced	O	True
+10	workers	O	True
+11	in	LOW-SKILLED	True
+12	lieu	LOW-SKILLED	True
+13	of	LOW-SKILLED	True
+14	teenagers	LOW-SKILLED	True
+15	to	O	True
+16	get	O	True
+17	more	O	True
+18	bang	O	True
+19	for	O	True
+20	their	O	True
+21	buck	O	True
+22	.	O	False
+
+1	In	O	True
+2	a	O	True
+3	paper	O	True
+4	for	O	True
+5	the	O	True
+6	Hamilton	O	True
+7	Project	O	True
+8	,	O	True
+9	Dube	O	True
+10	observed	O	True
+11	that	O	True
+12	“	O	True
+13	states	SOCIAL JUSTICE/INJUSTICE	True
+14	as	SOCIAL JUSTICE/INJUSTICE	True
+15	dissimilar	SOCIAL JUSTICE/INJUSTICE	True
+16	as	O	True
+17	Massachusetts	O	True
+18	and	O	True
+19	Mississippi	O	True
+20	have	O	True
+21	different	O	True
+22	capacities	O	True
+23	to	O	True
+24	absorb	O	True
+25	a	O	True
+26	minimum	O	True
+27	wage	O	True
+28	of	O	True
+29	,	O	True
+30	say	O	True
+31	,	O	True
+32	$	O	True
+33	11.00	O	True
+34	per	O	True
+35	hour	O	True
+36	,	O	True
+37	and	O	True
+38	a	SOCIAL JUSTICE/INJUSTICE	True
+39	single	SOCIAL JUSTICE/INJUSTICE	True
+40	minimum	SOCIAL JUSTICE/INJUSTICE	True
+41	wage	SOCIAL JUSTICE/INJUSTICE	True
+42	has	SOCIAL JUSTICE/INJUSTICE	True
+43	to	SOCIAL JUSTICE/INJUSTICE	True
+44	balance	SOCIAL JUSTICE/INJUSTICE	True
+45	the	SOCIAL JUSTICE/INJUSTICE	True
+46	needs	SOCIAL JUSTICE/INJUSTICE	True
+47	of	SOCIAL JUSTICE/INJUSTICE	True
+48	states	SOCIAL JUSTICE/INJUSTICE	True
+49	at	O	True
+50	both	O	True
+51	ends	O	True
+52	of	O	True
+53	the	O	True
+54	spectrum	O	True
+55	.	O	True
+56	”	O	False
+
+1	A	O	True
+2	2014	O	True
+3	study	O	True
+4	of	O	True
+5	400	O	True
+6	US	O	True
+7	Chief	O	True
+8	Financial	O	True
+9	Officers	O	True
+10	(	O	True
+11	CFOs	O	True
+12	)	O	True
+13	by	O	True
+14	Campbell	O	True
+15	Harvey	O	True
+16	,	O	True
+17	PhD	O	True
+18	,	O	True
+19	J.	O	True
+20	Paul	O	True
+21	Sticht	O	True
+22	Professor	O	True
+23	of	O	True
+24	International	O	True
+25	Business	O	True
+26	at	O	True
+27	Duke	O	True
+28	University	O	True
+29	,	O	True
+30	found	O	True
+31	that	O	True
+32	70	O	True
+33	%	O	True
+34	of	O	True
+35	CFOs	O	True
+36	would	O	True
+37	"	O	True
+38	increase	O	True
+39	contracting	O	True
+40	,	O	True
+41	outsourcing	UN/EMPLOYMENT RATE	True
+42	,	O	True
+43	or	O	True
+44	moving	O	True
+45	actual	O	True
+46	production	O	True
+47	outside	O	True
+48	the	O	True
+49	United	O	True
+50	States	O	True
+51	"	O	True
+52	if	O	True
+53	the	O	True
+54	minimum	O	True
+55	wage	O	True
+56	were	O	True
+57	raised	O	True
+58	to	O	True
+59	$	O	True
+60	10	O	True
+61	an	O	True
+62	hour	O	True
+63	.	O	False
+
+1	Forbes	O	True
+2	reported	O	True
+3	that	O	True
+4	an	O	True
+5	increase	O	True
+6	in	O	True
+7	the	O	True
+8	minimum	O	True
+9	wage	O	True
+10	has	COMPETITION/BUSINESS CHALLENGES	True
+11	led	COMPETITION/BUSINESS CHALLENGES	True
+12	to	COMPETITION/BUSINESS CHALLENGES	True
+13	the	COMPETITION/BUSINESS CHALLENGES	True
+14	closure	COMPETITION/BUSINESS CHALLENGES	True
+15	of	COMPETITION/BUSINESS CHALLENGES	True
+16	several	COMPETITION/BUSINESS CHALLENGES	True
+17	Wal-Mart	COMPETITION/BUSINESS CHALLENGES	True
+18	stores	COMPETITION/BUSINESS CHALLENGES	True
+19	and	O	True
+20	the	O	True
+21	cancellation	O	True
+22	of	O	True
+23	promised	O	True
+24	stores	O	True
+25	yet	O	True
+26	to	O	True
+27	open	O	True
+28	.	O	False
+
+1	Many	O	True
+2	companies	O	True
+3	may	O	True
+4	start	O	True
+5	looking	O	True
+6	to	UN/EMPLOYMENT RATE	True
+7	outsource	UN/EMPLOYMENT RATE	True
+8	,	O	True
+9	which	O	True
+10	means	UN/EMPLOYMENT RATE	True
+11	hiring	UN/EMPLOYMENT RATE	True
+12	people	UN/EMPLOYMENT RATE	True
+13	from	UN/EMPLOYMENT RATE	True
+14	other	UN/EMPLOYMENT RATE	True
+15	countries	UN/EMPLOYMENT RATE	True
+16	to	O	True
+17	do	O	True
+18	the	O	True
+19	same	O	True
+20	work	O	True
+21	for	O	True
+22	a	O	True
+23	different	O	True
+24	cost	O	True
+25	that	O	True
+26	is	O	True
+27	customary	O	True
+28	in	O	True
+29	their	O	True
+30	country	O	True
+31	.	O	False
+
+1	The	O	True
+2	current	O	True
+3	minimum	O	True
+4	wage	O	True
+5	is	O	True
+6	not	O	True
+7	high	O	True
+8	enough	O	True
+9	to	O	True
+10	allow	O	True
+11	people	O	True
+12	to	SOCIAL JUSTICE/INJUSTICE	True
+13	afford	SOCIAL JUSTICE/INJUSTICE	True
+14	housing	SOCIAL JUSTICE/INJUSTICE	True
+15	.	O	False
+
+1	However	O	True
+2	,	O	True
+3	using	O	True
+4	a	O	True
+5	different	O	True
+6	methodology	O	True
+7	,	O	True
+8	Stanley	O	True
+9	concluded	O	True
+10	that	O	True
+11	there	O	True
+12	is	O	True
+13	evidence	O	True
+14	of	O	True
+15	publication	O	True
+16	bias	O	True
+17	and	O	True
+18	that	O	True
+19	correction	O	True
+20	of	O	True
+21	this	O	True
+22	bias	O	True
+23	shows	O	True
+24	no	O	True
+25	relationship	O	True
+26	between	O	True
+27	the	UN/EMPLOYMENT RATE	True
+28	minimum	UN/EMPLOYMENT RATE	True
+29	wage	UN/EMPLOYMENT RATE	True
+30	and	UN/EMPLOYMENT RATE	True
+31	unemployment	UN/EMPLOYMENT RATE	True
+32	.	O	False
+
+1	"	O	True
+2	Minimum-wage	O	True
+3	jobs	O	True
+4	are	O	True
+5	meant	O	True
+6	for	O	True
+7	high	YOUTH AND SECONDARY WAGE EARNERS	True
+8	school	YOUTH AND SECONDARY WAGE EARNERS	True
+9	students	YOUTH AND SECONDARY WAGE EARNERS	True
+10	!	O	True
+11	"	O	False
+
+1	It	O	True
+2	would	O	True
+3	be	O	True
+4	a	O	True
+5	move	O	True
+6	in	O	True
+7	the	O	True
+8	direction	O	True
+9	of	O	True
+10	“	O	True
+11	the	SOCIAL JUSTICE/INJUSTICE	True
+12	wages	SOCIAL JUSTICE/INJUSTICE	True
+13	of	SOCIAL JUSTICE/INJUSTICE	True
+14	decent	SOCIAL JUSTICE/INJUSTICE	True
+15	living	SOCIAL JUSTICE/INJUSTICE	True
+16	”	O	True
+17	—	O	True
+18	a	O	True
+19	performance	O	True
+20	,	O	True
+21	one	O	True
+22	might	O	True
+23	say	O	True
+24	,	O	True
+25	of	O	True
+26	decency	O	True
+27	itself	O	True
+28	.	O	False
+
+1	The	O	True
+2	survey	O	True
+3	of	O	True
+4	more	O	True
+5	than	O	True
+6	600	O	True
+7	businesses	O	True
+8	found	O	True
+9	franchisees	O	True
+10	are	O	True
+11	more	O	True
+12	likely	O	True
+13	to	O	True
+14	take	O	True
+15	"	O	True
+16	offsetting	O	True
+17	steps	O	True
+18	including	O	True
+19	reducing	UN/EMPLOYMENT RATE	True
+20	staff	UN/EMPLOYMENT RATE	True
+21	,	UN/EMPLOYMENT RATE	True
+22	reducing	UN/EMPLOYMENT RATE	True
+23	hours	UN/EMPLOYMENT RATE	True
+24	and	UN/EMPLOYMENT RATE	True
+25	using	UN/EMPLOYMENT RATE	True
+26	automation	UN/EMPLOYMENT RATE	True
+27	to	O	True
+28	manage	O	True
+29	the	O	True
+30	increased	O	True
+31	labor	O	True
+32	costs	O	True
+33	caused	O	True
+34	by	O	True
+35	minimum	O	True
+36	wage	O	True
+37	increases	O	True
+38	"	O	True
+39	than	O	True
+40	are	O	True
+41	nonfranchised	O	True
+42	businesses	O	True
+43	.	O	False
+
+1	According	O	True
+2	to	O	True
+3	James	O	True
+4	K.	O	True
+5	Galbraith	O	True
+6	,	O	True
+7	PhD	O	True
+8	,	O	True
+9	Professor	O	True
+10	of	O	True
+11	Government	O	True
+12	at	O	True
+13	the	O	True
+14	University	O	True
+15	of	O	True
+16	Texas	O	True
+17	in	O	True
+18	Austin	O	True
+19	,	O	True
+20	"	O	True
+21	[	O	True
+22	b	O	True
+23	]	O	True
+24	ecause	O	True
+25	payroll	O	True
+26	-	O	True
+27	and	O	True
+28	income-tax	O	True
+29	revenues	O	True
+30	would	O	True
+31	rise	O	True
+32	[	O	True
+33	as	O	True
+34	a	O	True
+35	result	O	True
+36	of	O	True
+37	an	O	True
+38	increase	O	True
+39	in	O	True
+40	the	O	True
+41	minimum	O	True
+42	wage	O	True
+43	]	O	True
+44	,	O	True
+45	the	ECONOMIC IMPACT	True
+46	federal	ECONOMIC IMPACT	True
+47	deficit	ECONOMIC IMPACT	True
+48	would	ECONOMIC IMPACT	True
+49	come	ECONOMIC IMPACT	True
+50	down	ECONOMIC IMPACT	True
+51	.	O	True
+52	"	O	False
+
+1	These	O	True
+2	are	O	True
+3	entry	LOW-SKILLED	True
+4	level	LOW-SKILLED	True
+5	jobs	LOW-SKILLED	True
+6	and	O	True
+7	Economist	O	True
+8	Thomas	O	True
+9	Sowell	O	True
+10	points	O	True
+11	out	O	True
+12	that	O	True
+13	the	O	True
+14	vast	O	True
+15	majority	O	True
+16	of	O	True
+17	people	O	True
+18	working	O	True
+19	minimum	O	True
+20	wage	O	True
+21	jobs	O	True
+22	are	YOUTH AND SECONDARY WAGE EARNERS	True
+23	living	YOUTH AND SECONDARY WAGE EARNERS	True
+24	in	YOUTH AND SECONDARY WAGE EARNERS	True
+25	shared	YOUTH AND SECONDARY WAGE EARNERS	True
+26	family	YOUTH AND SECONDARY WAGE EARNERS	True
+27	arrangements	YOUTH AND SECONDARY WAGE EARNERS	True
+28	where	O	True
+29	people	O	True
+30	in	O	True
+31	the	YOUTH AND SECONDARY WAGE EARNERS	True
+32	same	YOUTH AND SECONDARY WAGE EARNERS	True
+33	household	YOUTH AND SECONDARY WAGE EARNERS	True
+34	share	YOUTH AND SECONDARY WAGE EARNERS	True
+35	expenses	YOUTH AND SECONDARY WAGE EARNERS	True
+36	.	O	False
+
+1	Before	O	True
+2	the	O	True
+3	law	O	True
+4	took	O	True
+5	effect	O	True
+6	,	O	True
+7	worries	O	True
+8	about	O	True
+9	potential	UN/EMPLOYMENT RATE	True
+10	damage	UN/EMPLOYMENT RATE	True
+11	to	UN/EMPLOYMENT RATE	True
+12	employment	UN/EMPLOYMENT RATE	True
+13	were	O	True
+14	widespread	O	True
+15	.	O	False
+
+1	Minimum	O	True
+2	wage	O	True
+3	hurts	COMPETITION/BUSINESS CHALLENGES	True
+4	small	COMPETITION/BUSINESS CHALLENGES	True
+5	business	COMPETITION/BUSINESS CHALLENGES	True
+6	the	O	True
+7	most	O	True
+8	.	O	False
+
+1	Those	O	True
+2	who	O	True
+3	oppose	O	True
+4	an	O	True
+5	increase	O	True
+6	to	O	True
+7	the	O	True
+8	minimum	O	True
+9	wage	O	True
+10	,	O	True
+11	however	O	True
+12	,	O	True
+13	argue	O	True
+14	that	O	True
+15	the	O	True
+16	effects	O	True
+17	on	O	True
+18	employment	UN/EMPLOYMENT RATE	True
+19	rates	UN/EMPLOYMENT RATE	True
+20	would	O	True
+21	be	O	True
+22	exactly	O	True
+23	the	O	True
+24	opposite	O	True
+25	of	O	True
+26	those	O	True
+27	supporters	O	True
+28	foresee	O	True
+29	.	O	False
+
+1	Raising	O	True
+2	the	O	True
+3	minimum	O	True
+4	wage	O	True
+5	is	O	True
+6	one	O	True
+7	solution	O	True
+8	,	O	True
+9	in	O	True
+10	which	O	True
+11	governments	GOVERNMENT	True
+12	—	O	True
+13	federal	O	True
+14	,	O	True
+15	state	O	True
+16	,	O	True
+17	or	O	True
+18	local	O	True
+19	—	O	True
+20	are	GOVERNMENT	True
+21	seeking	GOVERNMENT	True
+22	to	GOVERNMENT	True
+23	intervene	GOVERNMENT	True
+24	where	O	True
+25	market	O	True
+26	inefficiencies	O	True
+27	have	O	True
+28	failed	O	True
+29	us	O	True
+30	.	O	False
+
+1	However	O	True
+2	,	O	True
+3	they	O	True
+4	also	O	True
+5	tested	O	True
+6	restaurants	O	True
+7	outside	O	True
+8	of	O	True
+9	Seattle	O	True
+10	and	O	True
+11	saw	O	True
+12	increases	O	True
+13	there	O	True
+14	as	O	True
+15	well	O	True
+16	,	O	True
+17	meaning	O	True
+18	that	O	True
+19	it	O	True
+20	could	O	True
+21	reflect	O	True
+22	higher	PRICES	True
+23	food	PRICES	True
+24	costs	PRICES	True
+25	or	O	True
+26	other	O	True
+27	factors	O	True
+28	beyond	O	True
+29	the	O	True
+30	minimum	O	True
+31	wage	O	True
+32	hike	O	True
+33	.	O	False
+
+1	Conservative	O	True
+2	groups	O	True
+3	often	O	True
+4	argue	O	True
+5	that	O	True
+6	,	O	True
+7	contrary	O	True
+8	to	O	True
+9	the	O	True
+10	image	O	True
+11	projected	O	True
+12	by	O	True
+13	of	O	True
+14	liberals	O	True
+15	,	O	True
+16	most	O	True
+17	of	O	True
+18	the	O	True
+19	minimum	O	True
+20	wage	O	True
+21	workforce	O	True
+22	is	O	True
+23	n't	O	True
+24	really	O	True
+25	made	O	True
+26	up	O	True
+27	of	O	True
+28	desperate	O	True
+29	parents	O	True
+30	struggling	SOCIAL JUSTICE/INJUSTICE	True
+31	to	SOCIAL JUSTICE/INJUSTICE	True
+32	make	SOCIAL JUSTICE/INJUSTICE	True
+33	ends	SOCIAL JUSTICE/INJUSTICE	True
+34	meet	SOCIAL JUSTICE/INJUSTICE	True
+35	.	O	False
+
+1	In	O	True
+2	addition	O	True
+3	,	O	True
+4	a	O	True
+5	majority	O	True
+6	considered	O	True
+7	disemployment	UN/EMPLOYMENT RATE	True
+8	to	O	True
+9	be	O	True
+10	a	O	True
+11	moderate	O	True
+12	potential	O	True
+13	drawback	O	True
+14	to	O	True
+15	the	O	True
+16	increase	O	True
+17	they	O	True
+18	supported	O	True
+19	.	O	False
+
+1	Raising	O	True
+2	the	O	True
+3	federal	O	True
+4	minimum	O	True
+5	wage	O	True
+6	to	O	True
+7	$	O	True
+8	15	O	True
+9	an	O	True
+10	hour	O	True
+11	is	O	True
+12	a	O	True
+13	simple	O	True
+14	and	O	True
+15	effective	O	True
+16	way	O	True
+17	to	O	True
+18	fight	O	True
+19	growing	SOCIAL JUSTICE/INJUSTICE	True
+20	inequality	SOCIAL JUSTICE/INJUSTICE	True
+21	and	O	True
+22	empower	O	True
+23	working	O	True
+24	people	O	True
+25	to	O	True
+26	provide	O	True
+27	a	O	True
+28	decent	O	True
+29	life	O	True
+30	for	O	True
+31	their	O	True
+32	families	O	True
+33	.	O	True
+34	"	O	False
+
+1	The	UN/EMPLOYMENT RATE	True
+2	job	UN/EMPLOYMENT RATE	True
+3	losses	UN/EMPLOYMENT RATE	True
+4	could	O	True
+5	occur	O	True
+6	as	O	True
+7	a	O	True
+8	result	O	True
+9	of	O	True
+10	higher	O	True
+11	wages	O	True
+12	placing	COMPETITION/BUSINESS CHALLENGES	True
+13	a	COMPETITION/BUSINESS CHALLENGES	True
+14	greater	COMPETITION/BUSINESS CHALLENGES	True
+15	strain	COMPETITION/BUSINESS CHALLENGES	True
+16	on	COMPETITION/BUSINESS CHALLENGES	True
+17	companies	COMPETITION/BUSINESS CHALLENGES	True
+18	,	O	True
+19	which	O	True
+20	could	O	True
+21	lead	O	True
+22	to	O	True
+23	cutting	UN/EMPLOYMENT RATE	True
+24	jobs	UN/EMPLOYMENT RATE	True
+25	,	O	True
+26	reducing	O	True
+27	employee	O	True
+28	hours	O	True
+29	,	O	True
+30	and	O	True
+31	other	O	True
+32	methods	O	True
+33	to	COMPETITION/BUSINESS CHALLENGES	True
+34	save	COMPETITION/BUSINESS CHALLENGES	True
+35	the	COMPETITION/BUSINESS CHALLENGES	True
+36	company	COMPETITION/BUSINESS CHALLENGES	True
+37	money	COMPETITION/BUSINESS CHALLENGES	True
+38	.	O	False
+
+1	With	O	True
+2	the	O	True
+3	share	O	True
+4	of	O	True
+5	our	O	True
+6	nation	O	True
+7	’s	O	True
+8	output	O	True
+9	going	O	True
+10	to	O	True
+11	workers	O	True
+12	’	O	True
+13	wages	O	True
+14	at	O	True
+15	an	SOCIAL JUSTICE/INJUSTICE	True
+16	all-time	SOCIAL JUSTICE/INJUSTICE	True
+17	low	SOCIAL JUSTICE/INJUSTICE	True
+18	—	SOCIAL JUSTICE/INJUSTICE	True
+19	and	SOCIAL JUSTICE/INJUSTICE	True
+20	inequality	SOCIAL JUSTICE/INJUSTICE	True
+21	on	O	True
+22	the	O	True
+23	rise	O	True
+24	—	O	True
+25	it	O	True
+26	’s	O	True
+27	easy	O	True
+28	to	O	True
+29	understand	O	True
+30	why	O	True
+31	the	O	True
+32	idea	O	True
+33	of	O	True
+34	raising	O	True
+35	it	O	True
+36	to	O	True
+37	$	O	True
+38	10.10	O	True
+39	is	O	True
+40	so	O	True
+41	popular	O	True
+42	.	O	False
+
+1	Similarly	O	True
+2	,	O	True
+3	a	SOCIAL JUSTICE/INJUSTICE	True
+4	living	SOCIAL JUSTICE/INJUSTICE	True
+5	wage	SOCIAL JUSTICE/INJUSTICE	True
+6	means	O	True
+7	something	O	True
+8	very	O	True
+9	different	O	True
+10	for	O	True
+11	a	YOUTH AND SECONDARY WAGE EARNERS	True
+12	young	YOUTH AND SECONDARY WAGE EARNERS	True
+13	adult	YOUTH AND SECONDARY WAGE EARNERS	True
+14	in	YOUTH AND SECONDARY WAGE EARNERS	True
+15	the	YOUTH AND SECONDARY WAGE EARNERS	True
+16	care	YOUTH AND SECONDARY WAGE EARNERS	True
+17	of	YOUTH AND SECONDARY WAGE EARNERS	True
+18	family	YOUTH AND SECONDARY WAGE EARNERS	True
+19	than	O	True
+20	it	O	True
+21	does	O	True
+22	for	O	True
+23	a	SOCIAL JUSTICE/INJUSTICE	True
+24	family	SOCIAL JUSTICE/INJUSTICE	True
+25	provider	SOCIAL JUSTICE/INJUSTICE	True
+26	.	O	False
+
+1	Mark	O	True
+2	J.	O	True
+3	Perry	O	True
+4	,	O	True
+5	PhD	O	True
+6	,	O	True
+7	of	O	True
+8	the	O	True
+9	American	O	True
+10	Enterprise	O	True
+11	Institute	O	True
+12	states	O	True
+13	that	O	True
+14	"	O	True
+15	the	O	True
+16	attraction	O	True
+17	to	O	True
+18	higher	O	True
+19	wages	O	True
+20	from	O	True
+21	minimum	O	True
+22	wage	O	True
+23	legislation	O	True
+24	reduces	O	True
+25	high	MOTIVATION/CHANCES	True
+26	school	MOTIVATION/CHANCES	True
+27	completion	MOTIVATION/CHANCES	True
+28	rates	MOTIVATION/CHANCES	True
+29	for	O	True
+30	some	O	True
+31	students	O	True
+32	with	O	True
+33	limited	O	True
+34	skills	O	True
+35	,	O	True
+36	who	O	True
+37	are	O	True
+38	then	O	True
+39	disadvantaged	O	True
+40	with	O	True
+41	lower	O	True
+42	wages	O	True
+43	and	O	True
+44	career	O	True
+45	opportunities	O	True
+46	over	O	True
+47	the	O	True
+48	long-run	O	True
+49	if	O	True
+50	they	O	True
+51	never	MOTIVATION/CHANCES	True
+52	finish	MOTIVATION/CHANCES	True
+53	high	MOTIVATION/CHANCES	True
+54	school	MOTIVATION/CHANCES	True
+55	.	O	True
+56	"	O	False
+
+1	The	O	True
+2	study	O	True
+3	found	O	True
+4	that	O	True
+5	"	O	True
+6	recent	O	True
+7	experimental	O	True
+8	studies	O	True
+9	show	O	True
+10	that	O	True
+11	increasing	O	True
+12	income	O	True
+13	can	MOTIVATION/CHANCES	True
+14	improve	MOTIVATION/CHANCES	True
+15	school	MOTIVATION/CHANCES	True
+16	performance	MOTIVATION/CHANCES	True
+17	.	O	True
+18	"	O	False
+
+1	A	O	True
+2	2013	O	True
+3	study	O	True
+4	by	O	True
+5	University	O	True
+6	of	O	True
+7	Massachusetts	O	True
+8	at	O	True
+9	Amherst	O	True
+10	economist	O	True
+11	Arindrajit	O	True
+12	Dube	O	True
+13	,	O	True
+14	PhD	O	True
+15	,	O	True
+16	estimated	O	True
+17	that	O	True
+18	increasing	O	True
+19	the	O	True
+20	minimum	O	True
+21	wage	O	True
+22	to	O	True
+23	$	O	True
+24	10.10	O	True
+25	is	O	True
+26	"	O	True
+27	projected	O	True
+28	to	O	True
+29	reduce	O	True
+30	the	O	True
+31	number	O	True
+32	of	O	True
+33	non-elderly	SOCIAL JUSTICE/INJUSTICE	True
+34	living	SOCIAL JUSTICE/INJUSTICE	True
+35	in	SOCIAL JUSTICE/INJUSTICE	True
+36	poverty	SOCIAL JUSTICE/INJUSTICE	True
+37	by	O	True
+38	around	O	True
+39	4.6	O	True
+40	million	O	True
+41	,	O	True
+42	or	O	True
+43	by	O	True
+44	6.8	O	True
+45	million	O	True
+46	when	O	True
+47	longer	O	True
+48	term	O	True
+49	effects	O	True
+50	are	O	True
+51	accounted	O	True
+52	for	O	True
+53	.	O	True
+54	"	O	False
+
+1	It	O	True
+2	had	O	True
+3	other	O	True
+4	purposes	O	True
+5	,	O	True
+6	too	O	True
+7	,	O	True
+8	including	O	True
+9	regional	ECONOMIC IMPACT	True
+10	economic	ECONOMIC IMPACT	True
+11	development	ECONOMIC IMPACT	True
+12	:	O	True
+13	the	O	True
+14	initial	O	True
+15	impact	O	True
+16	of	O	True
+17	the	O	True
+18	minimum	O	True
+19	wage	O	True
+20	was	O	True
+21	strongest	O	True
+22	in	O	True
+23	low-wage	O	True
+24	industries	O	True
+25	in	O	True
+26	the	O	True
+27	South	O	True
+28	,	O	True
+29	such	O	True
+30	as	O	True
+31	textiles	O	True
+32	.	O	False
+
+1	According	O	True
+2	to	O	True
+3	a	O	True
+4	study	O	True
+5	by	O	True
+6	Thomas	O	True
+7	A.	O	True
+8	Mroz	O	True
+9	,	O	True
+10	PhD	O	True
+11	,	O	True
+12	and	O	True
+13	Timothy	O	True
+14	H.	O	True
+15	Savage	O	True
+16	,	O	True
+17	PhD	O	True
+18	,	O	True
+19	for	O	True
+20	the	O	True
+21	Employment	O	True
+22	Policies	O	True
+23	Institute	O	True
+24	,	O	True
+25	"	O	True
+26	those	O	True
+27	experiencing	O	True
+28	unemployment	UN/EMPLOYMENT RATE	True
+29	at	O	True
+30	an	O	True
+31	early	O	True
+32	age	O	True
+33	have	O	True
+34	years	O	True
+35	of	O	True
+36	lower	O	True
+37	earnings	O	True
+38	and	O	True
+39	an	O	True
+40	increased	O	True
+41	likelihood	O	True
+42	of	O	True
+43	unemployment	UN/EMPLOYMENT RATE	True
+44	ahead	O	True
+45	of	O	True
+46	them	O	True
+47	.	O	True
+48	"	O	False
+
+1	Many	LOW-SKILLED	True
+2	unskilled	LOW-SKILLED	True
+3	workers	LOW-SKILLED	True
+4	will	LOW-SKILLED	True
+5	be	LOW-SKILLED	True
+6	unable	LOW-SKILLED	True
+7	to	LOW-SKILLED	True
+8	find	LOW-SKILLED	True
+9	work	LOW-SKILLED	True
+10	and	O	True
+11	will	MOTIVATION/CHANCES	True
+12	be	MOTIVATION/CHANCES	True
+13	denied	MOTIVATION/CHANCES	True
+14	valuable	MOTIVATION/CHANCES	True
+15	on-the-job	MOTIVATION/CHANCES	True
+16	training	MOTIVATION/CHANCES	True
+17	and	O	True
+18	the	MOTIVATION/CHANCES	True
+19	opportunity	MOTIVATION/CHANCES	True
+20	to	O	True
+21	acquire	O	True
+22	experience	O	True
+23	and	O	True
+24	skills	O	True
+25	.	O	False
+
+1	US	O	True
+2	News	O	True
+3	argues	O	True
+4	,	O	True
+5	"	O	True
+6	Raising	O	True
+7	the	O	True
+8	minimum	O	True
+9	wage	O	True
+10	makes	O	True
+11	it	O	True
+12	harder	O	True
+13	for	O	True
+14	these	LOW-SKILLED	True
+15	inexperienced	LOW-SKILLED	True
+16	workers	LOW-SKILLED	True
+17	to	LOW-SKILLED	True
+18	find	LOW-SKILLED	True
+19	a	LOW-SKILLED	True
+20	job	LOW-SKILLED	True
+21	,	O	True
+22	because	O	True
+23	businesses	O	True
+24	will	UN/EMPLOYMENT RATE	True
+25	either	UN/EMPLOYMENT RATE	True
+26	eliminate	UN/EMPLOYMENT RATE	True
+27	positions	UN/EMPLOYMENT RATE	True
+28	or	O	True
+29	choose	O	True
+30	to	O	True
+31	hire	O	True
+32	someone	O	True
+33	with	O	True
+34	more	O	True
+35	experience	O	True
+36	at	O	True
+37	the	O	True
+38	higher	O	True
+39	mandated	O	True
+40	wage	O	True
+41	.	O	False
+
+1	In	O	True
+2	Principles	O	True
+3	of	O	True
+4	Political	O	True
+5	Economy	O	True
+6	in	O	True
+7	1848	O	True
+8	,	O	True
+9	John	O	True
+10	Stuart	O	True
+11	Mill	O	True
+12	argued	O	True
+13	that	O	True
+14	because	O	True
+15	of	O	True
+16	the	CAPITAL VS LABOR	True
+17	collective	CAPITAL VS LABOR	True
+18	action	CAPITAL VS LABOR	True
+19	problems	CAPITAL VS LABOR	True
+20	that	O	True
+21	workers	O	True
+22	faced	O	True
+23	in	O	True
+24	organisation	O	True
+25	,	O	True
+26	it	O	True
+27	was	O	True
+28	a	O	True
+29	justified	O	True
+30	departure	O	True
+31	from	O	True
+32	laissez-faire	GOVERNMENT	True
+33	policies	GOVERNMENT	True
+34	(	O	True
+35	or	O	True
+36	freedom	GOVERNMENT	True
+37	of	GOVERNMENT	True
+38	contract	GOVERNMENT	True
+39	)	O	True
+40	to	GOVERNMENT	True
+41	regulate	GOVERNMENT	True
+42	people	O	True
+43	'	O	False
+44	s	O	True
+45	wages	O	True
+46	and	O	True
+47	hours	O	True
+48	by	O	True
+49	law	O	True
+50	.	O	False
+
+1	She	O	True
+2	added	O	True
+3	that	O	True
+4	the	PRICES	True
+5	costs	PRICES	True
+6	of	PRICES	True
+7	goods	PRICES	True
+8	and	PRICES	True
+9	services	PRICES	True
+10	that	O	True
+11	lower-income	O	True
+12	people	O	True
+13	may	O	True
+14	rely	O	True
+15	on	O	True
+16	,	O	True
+17	such	O	True
+18	as	O	True
+19	fast	O	True
+20	food	O	True
+21	,	O	True
+22	would	O	True
+23	become	O	True
+24	more	PRICES	True
+25	expensive	PRICES	True
+26	.	O	False
+
+1	By	O	True
+2	raising	O	True
+3	the	O	True
+4	reward	O	True
+5	for	O	True
+6	working	O	True
+7	,	O	True
+8	this	WELFARE	True
+9	tax	WELFARE	True
+10	credit	WELFARE	True
+11	also	O	True
+12	tends	O	True
+13	to	O	True
+14	increase	O	True
+15	the	UN/EMPLOYMENT RATE	True
+16	supply	UN/EMPLOYMENT RATE	True
+17	of	UN/EMPLOYMENT RATE	True
+18	labor	UN/EMPLOYMENT RATE	True
+19	.	O	False
+
+1	It	O	True
+2	’s	O	True
+3	amazing	O	True
+4	to	O	True
+5	me	O	True
+6	that	O	True
+7	some	SOCIAL JUSTICE/INJUSTICE	True
+8	black	SOCIAL JUSTICE/INJUSTICE	True
+9	leaders	SOCIAL JUSTICE/INJUSTICE	True
+10	want	SOCIAL JUSTICE/INJUSTICE	True
+11	an	SOCIAL JUSTICE/INJUSTICE	True
+12	increase	SOCIAL JUSTICE/INJUSTICE	True
+13	in	O	True
+14	the	O	True
+15	minimum	O	True
+16	wage	O	True
+17	.	O	True
+18	”	O	False
+
+1	It	O	True
+2	results	O	True
+3	in	O	True
+4	job	UN/EMPLOYMENT RATE	True
+5	losses	UN/EMPLOYMENT RATE	True
+6	.	O	False
+
+1	If	O	True
+2	minimum	O	True
+3	wages	O	True
+4	do	UN/EMPLOYMENT RATE	True
+5	n’t	UN/EMPLOYMENT RATE	True
+6	hurt	UN/EMPLOYMENT RATE	True
+7	employment	UN/EMPLOYMENT RATE	True
+8	,	O	True
+9	then	O	True
+10	a	O	True
+11	federal	O	True
+12	minimum	O	True
+13	wage	O	True
+14	is	O	True
+15	unfair	SOCIAL JUSTICE/INJUSTICE	True
+16	to	SOCIAL JUSTICE/INJUSTICE	True
+17	workers	SOCIAL JUSTICE/INJUSTICE	True
+18	in	SOCIAL JUSTICE/INJUSTICE	True
+19	big	SOCIAL JUSTICE/INJUSTICE	True
+20	cities	SOCIAL JUSTICE/INJUSTICE	True
+21	because	O	True
+22	their	O	True
+23	raises	O	True
+24	will	O	True
+25	be	O	True
+26	less	O	True
+27	than	O	True
+28	those	O	True
+29	of	O	True
+30	small-town	O	True
+31	workers	O	True
+32	.	O	False
+
+1	NBC	O	True
+2	News	O	True
+3	found	O	True
+4	that	O	True
+5	the	PRICES	True
+6	price	PRICES	True
+7	of	O	True
+8	a	O	True
+9	cup	O	True
+10	of	O	True
+11	coffee	O	True
+12	went	PRICES	True
+13	up	PRICES	True
+14	by	O	True
+15	10	O	True
+16	to	O	True
+17	20	O	True
+18	%	O	True
+19	in	O	True
+20	Oakland	O	True
+21	,	O	True
+22	California	O	True
+23	,	O	True
+24	after	O	True
+25	a	O	True
+26	36	O	True
+27	%	O	True
+28	minimum	O	True
+29	wage	O	True
+30	hike	O	True
+31	in	O	True
+32	the	O	True
+33	city	O	True
+34	to	O	True
+35	$	O	True
+36	12.25	O	True
+37	.	O	False
+
+1	For	O	True
+2	starters	O	True
+3	,	O	True
+4	I	O	True
+5	had	O	True
+6	never	O	True
+7	considered	O	True
+8	the	O	True
+9	diversity	O	True
+10	of	O	True
+11	minimum	O	True
+12	wage	O	True
+13	earners	O	True
+14	—	O	True
+15	this	O	True
+16	swath	O	True
+17	of	O	True
+18	the	O	True
+19	workforce	O	True
+20	is	O	True
+21	made	O	True
+22	up	O	True
+23	of	O	True
+24	teenagers	YOUTH AND SECONDARY WAGE EARNERS	True
+25	working	YOUTH AND SECONDARY WAGE EARNERS	True
+26	first	YOUTH AND SECONDARY WAGE EARNERS	True
+27	jobs	YOUTH AND SECONDARY WAGE EARNERS	True
+28	,	O	True
+29	older	YOUTH AND SECONDARY WAGE EARNERS	True
+30	workers	YOUTH AND SECONDARY WAGE EARNERS	True
+31	supplementing	YOUTH AND SECONDARY WAGE EARNERS	True
+32	their	YOUTH AND SECONDARY WAGE EARNERS	True
+33	income	YOUTH AND SECONDARY WAGE EARNERS	True
+34	and	O	True
+35	,	O	True
+36	yes	O	True
+37	,	O	True
+38	people	O	True
+39	who	O	True
+40	are	SOCIAL JUSTICE/INJUSTICE	True
+41	truly	SOCIAL JUSTICE/INJUSTICE	True
+42	struggling	SOCIAL JUSTICE/INJUSTICE	True
+43	to	SOCIAL JUSTICE/INJUSTICE	True
+44	make	SOCIAL JUSTICE/INJUSTICE	True
+45	ends	SOCIAL JUSTICE/INJUSTICE	True
+46	meet	SOCIAL JUSTICE/INJUSTICE	True
+47	.	O	False
+
+1	The	O	True
+2	Centre	O	True
+3	for	O	True
+4	Economic	O	True
+5	Performance	O	True
+6	found	O	True
+7	no	O	True
+8	discernible	O	True
+9	impact	O	True
+10	on	O	True
+11	employment	UN/EMPLOYMENT RATE	True
+12	levels	UN/EMPLOYMENT RATE	True
+13	from	O	True
+14	the	O	True
+15	wage	O	True
+16	increases	O	True
+17	,	O	True
+18	while	O	True
+19	the	O	True
+20	Low	O	True
+21	Pay	O	True
+22	Commission	O	True
+23	found	O	True
+24	that	O	True
+25	employers	O	True
+26	had	O	True
+27	reduced	O	True
+28	their	O	True
+29	rate	O	True
+30	of	O	True
+31	hiring	O	True
+32	and	O	True
+33	employee	O	True
+34	hours	O	True
+35	employed	O	True
+36	,	O	True
+37	and	O	True
+38	found	O	True
+39	ways	O	True
+40	to	O	True
+41	cause	O	True
+42	current	O	True
+43	workers	O	True
+44	to	O	True
+45	be	O	True
+46	more	O	True
+47	productive	O	True
+48	(	O	True
+49	especially	O	True
+50	service	O	True
+51	companies	O	True
+52	)	O	True
+53	.	O	False
+
+1	As	O	True
+2	a	O	True
+3	matter	O	True
+4	of	O	True
+5	record	O	True
+6	that	O	True
+7	con	O	True
+8	is	O	True
+9	largely	O	True
+10	unfounded	O	True
+11	because	O	True
+12	studies	O	True
+13	have	O	True
+14	shown	O	True
+15	that	O	True
+16	the	O	True
+17	higher	O	True
+18	wages	O	True
+19	actually	O	True
+20	helps	ECONOMIC IMPACT	True
+21	to	ECONOMIC IMPACT	True
+22	increase	ECONOMIC IMPACT	True
+23	spending	ECONOMIC IMPACT	True
+24	in	ECONOMIC IMPACT	True
+25	the	ECONOMIC IMPACT	True
+26	economy	ECONOMIC IMPACT	True
+27	and	O	True
+28	increases	O	True
+29	overall	ECONOMIC IMPACT	True
+30	growth	ECONOMIC IMPACT	True
+31	of	ECONOMIC IMPACT	True
+32	the	ECONOMIC IMPACT	True
+33	economy	ECONOMIC IMPACT	True
+34	.	O	False
+
+1	Based	O	True
+2	on	O	True
+3	data	O	True
+4	from	O	True
+5	the	O	True
+6	employers	O	True
+7	'	O	True
+8	responses	O	True
+9	,	O	True
+10	the	O	True
+11	authors	O	True
+12	concluded	O	True
+13	that	O	True
+14	the	O	True
+15	increase	O	True
+16	in	O	True
+17	the	O	True
+18	minimum	O	True
+19	wage	O	True
+20	slightly	UN/EMPLOYMENT RATE	True
+21	increased	UN/EMPLOYMENT RATE	True
+22	employment	UN/EMPLOYMENT RATE	True
+23	in	O	True
+24	the	O	True
+25	New	O	True
+26	Jersey	O	True
+27	restaurants	O	True
+28	.	O	False
+
+1	Translated	O	True
+2	out	O	True
+3	of	O	True
+4	econo-speak	O	True
+5	,	O	True
+6	that	O	True
+7	means	O	True
+8	that	O	True
+9	the	O	True
+10	price	O	True
+11	for	O	True
+12	labor	O	True
+13	is	O	True
+14	set	O	True
+15	artificially	O	True
+16	high	O	True
+17	,	O	True
+18	with	O	True
+19	more	UN/EMPLOYMENT RATE	True
+20	people	UN/EMPLOYMENT RATE	True
+21	willing	UN/EMPLOYMENT RATE	True
+22	to	UN/EMPLOYMENT RATE	True
+23	work	UN/EMPLOYMENT RATE	True
+24	than	UN/EMPLOYMENT RATE	True
+25	business	UN/EMPLOYMENT RATE	True
+26	will	UN/EMPLOYMENT RATE	True
+27	be	UN/EMPLOYMENT RATE	True
+28	able	UN/EMPLOYMENT RATE	True
+29	to	UN/EMPLOYMENT RATE	True
+30	hire	UN/EMPLOYMENT RATE	True
+31	.	O	False
+
+1	Fact	O	True
+2	is	O	True
+3	,	O	True
+4	minimum	O	True
+5	wage	O	True
+6	laws	O	True
+7	lock	LOW-SKILLED	True
+8	young	LOW-SKILLED	True
+9	people	LOW-SKILLED	True
+10	out	LOW-SKILLED	True
+11	of	LOW-SKILLED	True
+12	the	LOW-SKILLED	True
+13	labor	LOW-SKILLED	True
+14	market	LOW-SKILLED	True
+15	.	O	False
+
+1	They	O	True
+2	disputed	O	True
+3	Messrs	O	True
+4	Card	O	True
+5	and	O	True
+6	Krueger	O	True
+7	’s	O	True
+8	findings	O	True
+9	for	O	True
+10	New	O	True
+11	Jersey	O	True
+12	and	O	True
+13	argued	O	True
+14	that	O	True
+15	a	O	True
+16	comparison	O	True
+17	of	O	True
+18	different	O	True
+19	states	O	True
+20	over	O	True
+21	time	O	True
+22	showed	O	True
+23	that	O	True
+24	higher	O	True
+25	minimum	O	True
+26	wages	O	True
+27	hurt	UN/EMPLOYMENT RATE	True
+28	jobs	UN/EMPLOYMENT RATE	True
+29	.	O	False
+
+1	“	O	True
+2	We	O	True
+3	need	O	True
+4	to	O	True
+5	stop	O	True
+6	corporations	O	True
+7	from	O	True
+8	taking	UN/EMPLOYMENT RATE	True
+9	jobs	UN/EMPLOYMENT RATE	True
+10	to	UN/EMPLOYMENT RATE	True
+11	cheaper	UN/EMPLOYMENT RATE	True
+12	labor	UN/EMPLOYMENT RATE	True
+13	markets	UN/EMPLOYMENT RATE	True
+14	.	O	False
+
+1	If	O	True
+2	politicians	O	True
+3	want	O	True
+4	to	O	True
+5	increase	O	True
+6	the	WELFARE	True
+7	earned	WELFARE	True
+8	income	WELFARE	True
+9	tax	WELFARE	True
+10	credit	WELFARE	True
+11	or	O	True
+12	other	WELFARE	True
+13	work-related	WELFARE	True
+14	welfare	WELFARE	True
+15	benefits	WELFARE	True
+16	,	O	True
+17	they	O	True
+18	should	O	True
+19	do	O	True
+20	the	O	True
+21	hard	O	True
+22	work	O	True
+23	of	O	True
+24	building	O	True
+25	political	O	True
+26	support	O	True
+27	for	O	True
+28	such	O	True
+29	policies	O	True
+30	,	O	True
+31	rather	O	True
+32	than	O	True
+33	choosing	O	True
+34	the	O	True
+35	roundabout	O	True
+36	approach	O	True
+37	of	O	True
+38	a	O	True
+39	minimum	O	True
+40	wage	O	True
+41	increase	O	True
+42	.	O	False
+
+1	New	O	True
+2	technologies	O	True
+3	could	O	True
+4	also	O	True
+5	amplify	O	True
+6	the	UN/EMPLOYMENT RATE	True
+7	employment	UN/EMPLOYMENT RATE	True
+8	effect	UN/EMPLOYMENT RATE	True
+9	of	O	True
+10	a	O	True
+11	wage	O	True
+12	hike	O	True
+13	.	O	False
+
+1	One	O	True
+2	real	O	True
+3	life	O	True
+4	example	O	True
+5	of	O	True
+6	the	O	True
+7	negative	O	True
+8	effects	O	True
+9	of	O	True
+10	raising	O	True
+11	the	O	True
+12	cost	O	True
+13	of	O	True
+14	labor	O	True
+15	can	PRICES	True
+16	be	PRICES	True
+17	seen	PRICES	True
+18	at	PRICES	True
+19	the	PRICES	True
+20	local	PRICES	True
+21	grocery	PRICES	True
+22	store	PRICES	True
+23	.	O	False
+
+1	The	O	True
+2	current	O	True
+3	minimum	O	True
+4	wage	O	True
+5	is	O	True
+6	not	O	True
+7	high	O	True
+8	enough	O	True
+9	to	O	True
+10	allow	O	True
+11	people	O	True
+12	to	SOCIAL JUSTICE/INJUSTICE	True
+13	afford	SOCIAL JUSTICE/INJUSTICE	True
+14	everyday	SOCIAL JUSTICE/INJUSTICE	True
+15	essentials	SOCIAL JUSTICE/INJUSTICE	True
+16	.	O	False
+
+1	What	O	True
+2	do	O	True
+3	working	O	True
+4	people	O	True
+5	do	O	True
+6	if	O	True
+7	they	O	True
+8	do	SOCIAL JUSTICE/INJUSTICE	True
+9	not	SOCIAL JUSTICE/INJUSTICE	True
+10	have	SOCIAL JUSTICE/INJUSTICE	True
+11	enough	SOCIAL JUSTICE/INJUSTICE	True
+12	to	SOCIAL JUSTICE/INJUSTICE	True
+13	eat	SOCIAL JUSTICE/INJUSTICE	True
+14	or	SOCIAL JUSTICE/INJUSTICE	True
+15	get	O	True
+16	sick	O	True
+17	or	O	True
+18	need	O	True
+19	housing	O	True
+20	?	O	False
+
+1	If	O	True
+2	someone	O	True
+3	wants	O	True
+4	to	O	True
+5	work	O	True
+6	for	O	True
+7	$	O	True
+8	5	O	True
+9	an	O	True
+10	hour	O	True
+11	,	O	True
+12	and	O	True
+13	someone	O	True
+14	wants	O	True
+15	to	O	True
+16	hire	O	True
+17	that	O	True
+18	person	O	True
+19	for	O	True
+20	that	O	True
+21	much	O	True
+22	,	O	True
+23	and	O	True
+24	no	GOVERNMENT	True
+25	one	GOVERNMENT	True
+26	is	GOVERNMENT	True
+27	forcing	GOVERNMENT	True
+28	either	GOVERNMENT	True
+29	one	GOVERNMENT	True
+30	of	O	True
+31	them	O	True
+32	to	O	True
+33	enter	O	True
+34	into	O	True
+35	the	O	True
+36	agreement	O	True
+37	,	O	True
+38	by	O	True
+39	what	GOVERNMENT	True
+40	authority	GOVERNMENT	True
+41	does	O	True
+42	government	GOVERNMENT	True
+43	step	GOVERNMENT	True
+44	in	GOVERNMENT	True
+45	and	O	True
+46	stop	O	True
+47	them	O	True
+48	?	O	False
+
+1	Raising	O	True
+2	the	O	True
+3	minimum	O	True
+4	wage	O	True
+5	would	SOCIAL JUSTICE/INJUSTICE	True
+6	increase	SOCIAL JUSTICE/INJUSTICE	True
+7	poverty	SOCIAL JUSTICE/INJUSTICE	True
+8	.	O	False
+
+1	Since	O	True
+2	labor	O	True
+3	makes	O	True
+4	up	O	True
+5	a	O	True
+6	third	O	True
+7	of	O	True
+8	the	COMPETITION/BUSINESS CHALLENGES	True
+9	companies	COMPETITION/BUSINESS CHALLENGES	True
+10	'	COMPETITION/BUSINESS CHALLENGES	True
+11	costs	COMPETITION/BUSINESS CHALLENGES	True
+12	,	O	True
+13	the	COMPETITION/BUSINESS CHALLENGES	True
+14	overall	COMPETITION/BUSINESS CHALLENGES	True
+15	cost	COMPETITION/BUSINESS CHALLENGES	True
+16	increase	COMPETITION/BUSINESS CHALLENGES	True
+17	would	O	True
+18	be	O	True
+19	only	O	True
+20	about	O	True
+21	1	O	True
+22	percent	O	True
+23	.	O	False
+
+1	And	O	True
+2	despite	O	True
+3	the	O	True
+4	racist	O	True
+5	argument	O	True
+6	by	O	True
+7	Rep	O	False
+8	.	O	True
+9	Tom	O	True
+10	McClintock	O	True
+11	(	O	True
+12	R-CA	O	True
+13	)	O	True
+14	that	O	True
+15	the	O	True
+16	minimum	O	True
+17	wage	O	True
+18	is	LOW-SKILLED	True
+19	designed	LOW-SKILLED	True
+20	for	LOW-SKILLED	True
+21	unskilled	LOW-SKILLED	True
+22	minorities	LOW-SKILLED	True
+23	,	O	True
+24	the	O	True
+25	truth	O	True
+26	is	O	True
+27	far	O	True
+28	different	O	True
+29	.	O	False
+
+1	The	O	True
+2	minimum	O	True
+3	wage	O	True
+4	has	SOCIAL JUSTICE/INJUSTICE	True
+5	not	SOCIAL JUSTICE/INJUSTICE	True
+6	kept	SOCIAL JUSTICE/INJUSTICE	True
+7	up	SOCIAL JUSTICE/INJUSTICE	True
+8	with	SOCIAL JUSTICE/INJUSTICE	True
+9	inflation	SOCIAL JUSTICE/INJUSTICE	True
+10	.	O	False
+
+1	There	O	True
+2	are	O	True
+3	pros	O	True
+4	and	O	True
+5	cons	O	True
+6	to	O	True
+7	minimum	O	True
+8	wage	O	True
+9	but	O	True
+10	for	O	True
+11	right	O	True
+12	now	O	True
+13	it	O	True
+14	is	O	True
+15	the	SOCIAL JUSTICE/INJUSTICE	True
+16	only	SOCIAL JUSTICE/INJUSTICE	True
+17	safety	SOCIAL JUSTICE/INJUSTICE	True
+18	net	SOCIAL JUSTICE/INJUSTICE	True
+19	there	O	True
+20	is	O	True
+21	that	O	True
+22	helps	CAPITAL VS LABOR	True
+23	to	CAPITAL VS LABOR	True
+24	protect	CAPITAL VS LABOR	True
+25	non	CAPITAL VS LABOR	True
+26	unionized	CAPITAL VS LABOR	True
+27	workers	CAPITAL VS LABOR	True
+28	.	O	False
+
+1	A	O	True
+2	2010	O	True
+3	study	O	True
+4	by	O	True
+5	Joseph	O	True
+6	Sabia	O	True
+7	and	O	True
+8	Richard	O	True
+9	Burkhauser	O	True
+10	,	O	True
+11	who	O	True
+12	fall	O	True
+13	on	O	True
+14	the	O	True
+15	solidly	O	True
+16	conservative	O	True
+17	side	O	True
+18	of	O	True
+19	this	O	True
+20	issue	O	True
+21	,	O	True
+22	finds	O	True
+23	that	O	True
+24	if	O	True
+25	the	O	True
+26	minimum	O	True
+27	wage	O	True
+28	were	O	True
+29	increased	O	True
+30	to	O	True
+31	$	O	True
+32	9.50	O	True
+33	from	O	True
+34	$	O	True
+35	7.25	O	True
+36	,	O	True
+37	only	O	True
+38	11.3	O	True
+39	percent	O	True
+40	of	O	True
+41	beneficiaries	O	True
+42	would	O	True
+43	live	O	True
+44	in	O	True
+45	impoverished	SOCIAL JUSTICE/INJUSTICE	True
+46	households	SOCIAL JUSTICE/INJUSTICE	True
+47	.	O	False
+
+1	Although	O	True
+2	the	O	True
+3	President	O	True
+4	may	O	True
+5	have	O	True
+6	good	O	True
+7	intensions	O	True
+8	,	O	True
+9	raising	O	True
+10	the	O	True
+11	minimum	O	True
+12	wage	O	True
+13	does	O	True
+14	not	O	True
+15	help	O	True
+16	low-skilled	LOW-SKILLED	True
+17	and	LOW-SKILLED	True
+18	unemployed	LOW-SKILLED	True
+19	Americans	LOW-SKILLED	True
+20	.	O	False
+
+1	A	O	True
+2	number	O	True
+3	of	O	True
+4	those	O	True
+5	testifying	O	True
+6	,	O	True
+7	such	O	True
+8	Noel	O	True
+9	Sargent	O	True
+10	of	O	True
+11	NAM	O	True
+12	,	O	True
+13	even	O	True
+14	argued	O	True
+15	that	O	True
+16	the	O	True
+17	bill	O	True
+18	would	O	True
+19	"	O	True
+20	make	O	True
+21	the	ECONOMIC IMPACT	True
+22	next	ECONOMIC IMPACT	True
+23	depression	ECONOMIC IMPACT	True
+24	worse	O	True
+25	than	O	True
+26	would	O	True
+27	otherwise	O	True
+28	be	O	True
+29	the	O	True
+30	case	O	True
+31	.	O	True
+32	"	O	False
+
+1	They	O	True
+2	found	O	True
+3	that	O	True
+4	the	O	True
+5	minimum	O	True
+6	wage	O	True
+7	increases	O	True
+8	were	O	True
+9	followed	O	True
+10	by	O	True
+11	decreases	UN/EMPLOYMENT RATE	True
+12	in	UN/EMPLOYMENT RATE	True
+13	employment	UN/EMPLOYMENT RATE	True
+14	.	O	False
+
+1	The	O	True
+2	Congressional	O	True
+3	Budget	O	True
+4	Office	O	True
+5	projected	O	True
+6	that	O	True
+7	a	O	True
+8	minimum	O	True
+9	wage	O	True
+10	increase	O	True
+11	from	O	True
+12	$	O	True
+13	7.25	O	True
+14	to	O	True
+15	$	O	True
+16	10.10	O	True
+17	would	O	True
+18	result	O	True
+19	in	O	True
+20	a	UN/EMPLOYMENT RATE	True
+21	loss	UN/EMPLOYMENT RATE	True
+22	of	UN/EMPLOYMENT RATE	True
+23	500,000	UN/EMPLOYMENT RATE	True
+24	jobs	UN/EMPLOYMENT RATE	True
+25	.	O	False
+
+1	Perhaps	O	True
+2	employers	O	True
+3	will	UN/EMPLOYMENT RATE	True
+4	replace	UN/EMPLOYMENT RATE	True
+5	line	UN/EMPLOYMENT RATE	True
+6	workers	UN/EMPLOYMENT RATE	True
+7	with	UN/EMPLOYMENT RATE	True
+8	robots	UN/EMPLOYMENT RATE	True
+9	.	O	False
+
+1	Thomas	O	True
+2	Grennes	O	True
+3	,	O	True
+4	MA	O	True
+5	,	O	True
+6	Professor	O	True
+7	Emeritus	O	True
+8	at	O	True
+9	North	O	True
+10	Carolina	O	True
+11	State	O	True
+12	University	O	True
+13	,	O	True
+14	and	O	True
+15	Andris	O	True
+16	Strazds	O	True
+17	,	O	True
+18	MSc	O	True
+19	,	O	True
+20	Lecturer	O	True
+21	at	O	True
+22	the	O	True
+23	Stockholm	O	True
+24	School	O	True
+25	of	O	True
+26	Economics	O	True
+27	in	O	True
+28	Riga	O	True
+29	(	O	True
+30	Latvia	O	True
+31	)	O	True
+32	,	O	True
+33	stated	O	True
+34	:	O	True
+35	"	O	True
+36	the	O	True
+37	net	O	True
+38	effect	O	True
+39	of	O	True
+40	higher	O	True
+41	minimum	O	True
+42	wages	O	True
+43	would	O	True
+44	be	O	True
+45	unfavorable	SOCIAL JUSTICE/INJUSTICE	True
+46	for	SOCIAL JUSTICE/INJUSTICE	True
+47	impoverished	SOCIAL JUSTICE/INJUSTICE	True
+48	households	SOCIAL JUSTICE/INJUSTICE	True
+49	,	O	True
+50	even	O	True
+51	if	O	True
+52	there	O	True
+53	are	O	True
+54	no	UN/EMPLOYMENT RATE	True
+55	job	UN/EMPLOYMENT RATE	True
+56	losses	UN/EMPLOYMENT RATE	True
+57	.	O	False
+
+1	Seattle	O	True
+2	raised	O	True
+3	their	O	True
+4	minimum	O	True
+5	wage	O	True
+6	to	O	True
+7	$	O	True
+8	15	O	False
+9	/	O	False
+10	hr	O	True
+11	and	O	True
+12	prices	PRICES	True
+13	jumped	PRICES	True
+14	21	O	True
+15	%	O	True
+16	and	O	True
+17	businesses	COMPETITION/BUSINESS CHALLENGES	True
+18	left	COMPETITION/BUSINESS CHALLENGES	True
+19	.	O	False
+

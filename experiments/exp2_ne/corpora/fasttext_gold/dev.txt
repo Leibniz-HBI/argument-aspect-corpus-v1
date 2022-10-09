@@ -1,0 +1,112 @@
+__label__ENERGY_POLICY The support of nuclear power by government results from special pleading lobbying by the industry .
+__label__TECHNOLOGICAL_INNOVATION __label__ACCIDENTS/SECURITY There are no operating “ next generation ” reactors , such as high-temperature breeder reactors and particle-beam activated reactors , that are reported to produce less waste and have reduced safety concerns .
+__label__ACCIDENTS/SECURITY A similar accident happened in Japan in 2011 after a tsunami hit the Fukushima Nuclear Power Plant .
+__label__ENVIRONMENTAL_IMPACT __label__COSTS It is a clean source of energy and would be cost effective .
+__label__WASTE Radioactive Waste : The entire nuclear fuel chain , from mining to milling , processing , enrichment , fuel fabrication , and fuel irradiation in reactors , generates radioactive waste .
+__label__RENEWABLES It remains up to nuclear and renewable energies to fill the gap .
+__label__HEALTH_EFFECTS Australia has many places far away from everybody so no one would get hurt .
+__label__HEALTH_EFFECTS Factoring in the entire dose of natural background radiation accumulated over a lifetime , the risk of developing cancer as a result of this exposure is estimated to be roughly 1 in 100 .
+__label__ENVIRONMENTAL_IMPACT Doing this we help slow down global warming .
+__label__COSTS While the average construction time is seven years , eight of the reactors have been under construction for more than 20 years .
+__label__FOSSIL_FUELS Both were members of David Rockefeller ’s Trilateral Commission and both favored fossil fuel interests over increased use of nuclear energy .
+__label__ENVIRONMENTAL_IMPACT In addition , nuclear fission differs from the burning of fossil fuel in that it produces neither sulfur dioxide nor nitrogen oxides , the pollutants that cause acid rain .
+__label__ENVIRONMENTAL_IMPACT Yet , rising concerns regarding global warming and energy prices , however , nuclear energy has seen renewed attention as alternative form of energy .
+__label__ACCIDENTS/SECURITY Adding more nuclear reactors to a site simply makes it more vulnerable to attacks by increasing the number of targets or making the target bigger .
+__label__TECHNOLOGICAL_INNOVATION __label__ACCIDENTS/SECURITY So of course the first jets had construction mistakes and crashed , but we learned and build better jets .
+__label__PUBLIC_DEBATE IT IS PROPAGANDA for the low information audience and the green zealots .
+__label__TECHNOLOGICAL_INNOVATION Nuclear fusion is a reality , we have observed it in the universe yet building a reactor capable of producing and containing it is still decades away - some say it will not arrive until the middle of this century at the very earliest ( 17 , p7-8 ) .
+__label__ACCIDENTS/SECURITY Germany plans to shutter its remaining nuclear plants by 2022 , a response to the 2011 disaster in Japan that also prompted the Swiss initiative .
+__label__COSTS [ And , why would nuclear energy be expanding internationally if it was n't inherently economical ? ]
+__label__TECHNOLOGICAL_INNOVATION Rickover ’s and France ’s experience with sodium cooled reactors has shown that the violent water / sodium chemical reaction makes this design unreliable .
+__label__HEALTH_EFFECTS __label__ENVIRONMENTAL_IMPACT __label__WASTE Uranium mining is the first step in the nuclear power cycle ; it has taken the lives of many miners all over the world causing environmental contamination , cancers and nuclear waste .
+__label__ENERGY_POLICY Australia has most of the worlds uranium and if Australia has that much they should start using it or selling it.Therefore I think that is enough reasons to have to start having more nuclear plants .
+__label__WASTE This presents risks to the populations that exist on the route to these waste areas .
+__label__TECHNOLOGICAL_INNOVATION In this way LFTR designs can actually consume the still substantial heat of nuclear waste to generate useful electrical power from this formerly unwanted and greatly feared by-product .
+__label__COSTS Decommissioning nuclear power plants is expensive " The case against nuclear power " .
+__label__ACCIDENTS/SECURITY In 2 out of 3 melt-downs there would be no deaths , in 1 out of 5 there would be over 1,000 deaths , and in 1 out of 100,000 there would be 50,000 deaths .
+__label__RENEWABLES After considering the best available technologies , we decided that a combination of wind , concentrated solar , geothermal , photovoltaics , tidal , wave and hydroelectric energy could more than meet all the planet 's energy needs , particularly if all the world 's vehicles could be run on electric batteries and hydrogen fuel cells .
+__label__RELIABILITY __label__RENEWABLES When you consider the world ’s energy needs , green is a joke .
+__label__HEALTH_EFFECTS During this time , no one in the U.S. has died or been injured as a result of operations at a commercial nuclear power plant .
+__label__WASTE Finaly we can store it safely .
+__label__FOSSIL_FUELS Coal and natural gas power plants discharge carbon dioxide into the air , which causes a number of environmental issues .
+__label__WASTE On average , a nuclear power plant annually generates 20 metric tons of used nuclear fuel , classified as high-level radioactive waste .
+__label__ENVIRONMENTAL_IMPACT Serious radioactive contamination spread over 150,000 square kilometers in Byelorussia , Ukraine and Russia .
+__label__ENVIRONMENTAL_IMPACT Water discharged from a nuclear power plant contains no harmful pollutants and meets regulatory standards for temperature designed to protect aquatic life .
+__label__ENVIRONMENTAL_IMPACT __label__HEALTH_EFFECTS Its harmful effects on humans and ecology can still be seen today .
+__label__RENEWABLES In contradistinction , contemporary renewables , or future developments thereof , can be deployed progressively and give a fast return on investment capital .
+__label__ENVIRONMENTAL_IMPACT According to this twisted logic , environmental benefits from new nuclear power plants do receive proper credit under the Obama administration ’s Clean Power Plan .
+__label__FOSSIL_FUELS Nuclear energy is a practical solution to many of the problems posed by fossil fuels but of course it will not completely replace fossil fuels .
+__label__COSTS A standard plant could cost as little as $ 2 billion , she said , a fraction of the cost of a uranium-based plant .
+__label__COSTS But increasing reliance on nuclear power is one of the costliest ways to achieve that goal .
+__label__HEALTH_EFFECTS Studies by numerous health entities , including the National Cancer Institute and the United Nations Scientific Committee on the Effects of Atomic Radiation , show that US nuclear power plants effectively protect the public 's health and safety .
+__label__ACCIDENTS/SECURITY Nuclear energy is safe and secure .
+__label__HEALTH_EFFECTS The plaintiffs in these cases could have alleged [ 460 U.S. 766 , 777 ] that the risk of crime ( or their dislike of the occupants of the facility ) would cause severe psychological health damage .
+__label__ENVIRONMENTAL_IMPACT Australia should use it because France and Germany has been using it for 50 years and as had not one miner issue it has n't blown up yet We will not have as much green house gases .
+__label__COSTS __label__TECHNOLOGICAL_INNOVATION __label__ACCIDENTS/SECURITY They are part of a vanguard of next-generation plants that include so-called small modular reactors ( SMRs ) , seen as safer and less costly .
+__label__HEALTH_EFFECTS Open the castors and die of radiation ?
+__label__HEALTH_EFFECTS In this case , however , virtually the entire communities engaged in radiation protection , radiology , or health physics agree that either zero excess cancers will arise from Fukushima , or at worst the number will be undetectable against the background of cancers from all other causes .
+__label__WASTE One problem with nuclear reactors is what to do with the high level waste they produce .
+__label__WASTE Storage is safe and secure , plans are well in hand for eventual disposal .
+__label__ENVIRONMENTAL_IMPACT __label__FOSSIL_FUELS Currently nuclear energy saves the emission of 2.5 billion tonnes of CO2 relative to coal .
+__label__WEAPONS Safeguards would detect any diversion .
+__label__COSTS New types of reactors have a very expensive licensing process that arguably needs to change but that plus the fact that it is a drastic design change that would require new skills and new training for plant workers .
+__label__COSTS __label__RENEWABLES Nuclear energy is too expensive , energy efficiency is all that 's needed , with more use of renewables .
+__label__ENERGY_POLICY Nuclear power has already been subsidized to the tune of hundreds of billions of dollars over the past 50 years .
+__label__HEALTH_EFFECTS __label__ACCIDENTS/SECURITY There were no deaths or serious radiation doses from the Fukushima accident .
+__label__COSTS Exorbitant Cost : Cost estimates for new reactor construction continue to soar and are unpredictable .
+__label__ACCIDENTS/SECURITY Three simultaneous ongoing complete meltdowns have proven impossible to stop or contain since they started almost 2 years ago .
+__label__ENVIRONMENTAL_IMPACT January 8 , 2008 : " nuclear plants threaten our ability to solve climate change .
+__label__WEAPONS Moreover , power reactors themselves produce plutonium , which may be used in bombs .
+__label__RENEWABLES Subsidies and investment could be spent on other solutions ( such as renewable energy systems ) .
+__label__RELIABILITY Nuclear power can not replace that energy .
+__label__ENVIRONMENTAL_IMPACT __label__RENEWABLES When we compare it to very clean and renewable sources such as solar , the footprint of the complex is much smaller for the same output of voltaic panels and far smaller than that required for wind turbines , so it takes up much less space .
+__label__COSTS This on-off tendency made it more difficult and costly for utilities to gain the expertise in nuclear power or to run plants properly . "
+__label__RENEWABLES What about all the CO2 emissions created by the manufacturing and assembling of wind farms or solar energy installations ?
+__label__ACCIDENTS/SECURITY The 9/11 atrocity would be tiny by comparison .
+__label__ACCIDENTS/SECURITY If terrorist came they could target a nuclear plant then hundreds of people will die .
+__label__RENEWABLES Nuclear power already delivers less energy globally than renewable energy , and the share will continue to decrease in the coming years .
+__label__WASTE No safe solution has yet been devised to store it .
+__label__ENVIRONMENTAL_IMPACT It will not let out greenhouse gases and it will save the world from pollution .
+__label__WEAPONS And how can the world monitor the enrichment of uranium to the level needed for power plants , but insufficient for nuclear weapons ?
+__label__ENVIRONMENTAL_IMPACT __label__ENERGY_POLICY He wants Congress to pay for testing new designs for nuclear plants and tells us that “ nuclear energy 's importance in reducing emissions is beyond dispute . ”
+__label__RENEWABLES __label__FOSSIL_FUELS While we burn fossil fuels , use hydroelectric wind power , harness tidal and solar power , and look for other ways to meet our energy needs - we simply have to use nuclear energy as one method in achieving that .
+__label__ACCIDENTS/SECURITY With the nuclear industry ’s litany of smaller radioactive leaks , accidents , opaque safety plans , and a history of cover-ups , people have every right to be very alarmed at the potential for a devastating nuclear accident coming to a plant near them .
+__label__WASTE The nuclear industry is responsible for horrific wastes which will endure as a nightmare for our grandchildren .
+__label__ENVIRONMENTAL_IMPACT __label__WASTE __label__HEALTH_EFFECTS Radiation is n’t easily dealt with , especially in nuclear waste and maintenance materials , and expensive solutions are needed to contain , control , and shield both people and the environment from its harm .
+__label__ACCIDENTS/SECURITY But in the 31 years since the partial meltdown at Three Mile Island , there have n't been any emergencies in the United States that remotely approached the severity of that incidentâ € ” though there have been some close calls .
+__label__COSTS Experience to date gives a good idea of costs and earlier estimates are being revised downwards .
+__label__RELIABILITY __label__ENVIRONMENTAL_IMPACT __label__TECHNOLOGICAL_INNOVATION __label__ACCIDENTS/SECURITY Enthusiasts say that the third generation nuclear stations are cleaner and safer than their older counterparts and provide more energy and this , along with the need to reduce emissions , is driving nuclear power policy .
+__label__ACCIDENTS/SECURITY __label__FOSSIL_FUELS In pure numbers , there have been more coal power accidents than nuclear .
+__label__ENERGY_POLICY __label__ACCIDENTS/SECURITY Swiss Green Party advocates for a quicker atomic power exit have cited worries about an aging atomic capability , with Beznau I the oldest operating nuclear power station in the world , having been started in 1969 .
+__label__PUBLIC_DEBATE 1 million Europeans against nuclear power : " Although nuclear power is a hazardous business , the nuclear industry hardly has any financial liability .
+__label__ENVIRONMENTAL_IMPACT Firstly , nuclear energy does not produce green house gas and that means that our atmosphere will be safe and more efficient .
+__label__ACCIDENTS/SECURITY They have been recognized to have serious design faults since the 1970s and have been regularly retrofitted ( i.e. , patched up ) to take into account new research illustrating their design vulnerabilities to such things as power outages and other malfunctions that make possible a core breach and a resulting release of radioactive isotopes .
+__label__ENERGY_POLICY Nuclear energy relies too heavily on subsidies/taxpayers " The Case Against Nuclear Power " .
+__label__ACCIDENTS/SECURITY Perhaps it 's because she was born after Three Mile Island ( and was n't old enough to watch the news during Chernobyl ) , but the Lantern does n't find herself particularly freaked out by atomic energy .
+__label__WASTE If the government opened the long-term nuclear repository that was supposed to be beneath Yucca Mountain in Nevada today , it would be immediately filled with already existing nuclear waste .
+__label__ENERGY_POLICY __label__RELIABILITY * The majority of known uranium around the world lies under land controlled by tribes or indigenous peoples who do n’t support it being mined from the earth .
+__label__ENVIRONMENTAL_IMPACT Nuclear power requires a very small area .
+__label__RELIABILITY __label__FOSSIL_FUELS In fact , a gram of uranium can generate as much electricity as four tonnes of coal .
+__label__HEALTH_EFFECTS Moreover , the cancer rate in the Chernobyl region is well below that of Australia , which is to say that radiation is , at worst , a very weak carcinogen .
+__label__COSTS __label__RENEWABLES The construction of a nuclear power plant requires much less investment than a hydroelectric one .
+__label__ACCIDENTS/SECURITY According to Tetsuo Iguchi , a professor in the department of quantum engineering at Nagoya University , if further complications arise and the situation deteriorates further , “ The worst-case scenario is that a meltdown makes the plant ’s site a permanent grave . ”
+__label__COSTS In a recent estimate , the UK government calculated that cleaning up the country ’s ageing nuclear facilities will exceed 73 billion pounds ( USD 100 billion ) .
+__label__RELIABILITY __label__ENVIRONMENTAL_IMPACT __label__ENERGY_POLICY She said her party rules out conceeding this issue to the SNP , in the event of any coalition or policy negotiations , and that Labour stands by its pledge made in the last government that new nuclear is needed to help the UK to reduce its carbon emissions and meet future electricity demand .
+__label__WEAPONS Today , nuclear energy is used to make weapons .
+__label__RENEWABLES Instead , Jacobson proposes that the world overcome its sociopolitical barriers and install 80 percent renewables by 2030 and 100 percent by 2050 .
+__label__TECHNOLOGICAL_INNOVATION Dishonest representation of the potential of other low carbon alternatives does not add extra credibility to MSR and it does not help the sense of urgency among developers of MSR to claim that there is no real competition .
+__label__ENERGY_POLICY Nuclear power , by virtue of its large size , centralised production of electricity and dependence on experts , was suitable for control by state bureaucracies .
+__label__ACCIDENTS/SECURITY While none of the safety problems harmed plant employees or the public , they occurred with alarming frequency — more than once a month — which is high for a mature industry .
+__label__COSTS In 2001 the Economist , a publication with its heart firmly in the camp of “ free-market ” capitalism wrote : “ Nuclear Power , once claimed to be too cheap to meter , is now too costly to matter . ”
+__label__HEALTH_EFFECTS __label__WASTE Generated throughout all parts of the fuel cycle , this waste poses a serious danger to human health .
+__label__ENVIRONMENTAL_IMPACT __label__FOSSIL_FUELS Nuclear power plants do not produce greenhouse gases as do those powered by coal or natural gas .
+__label__ENVIRONMENTAL_IMPACT Firstly , it does n't let out green house gases that destroy the environment .
+__label__ACCIDENTS/SECURITY The Chernobyl plant lacked a fundamental safety structure found in western plants , a steel-reinforced concrete shell that completely encapsulates the nuclear reactor vessel .
+__label__RELIABILITY __label__ENVIRONMENTAL_IMPACT __label__RENEWABLES Since most forms of renewable energy do n’t fill the bill , “ nuclear fission today represents the only present-day zero-carbon technology with the demonstrated ability to meet most , if not all , of the energy demands of a modern economy . ”
+__label__ACCIDENTS/SECURITY Efforts to ensure that nuclear power plants maintain this safety record are constantly emphasized , and the record compares favorably with all other ways of making electricity . ”
+__label__ENVIRONMENTAL_IMPACT __label__RENEWABLES From a facility " footprint " standpoint , less space is required for a nuclear electric generating facility than for a comparable-capacity wind or solar plant .
+__label__ACCIDENTS/SECURITY The result is not just energy , but also radiation that is the major safety concern of all present nuclear energy processes .
+__label__ACCIDENTS/SECURITY Another effect of renewed operation is a risk of a nuclear accident .
+__label__ENVIRONMENTAL_IMPACT Murray E. Jennex , an associate professor at San Diego State University with 20 years of experience in examining nuclear containment structures , believes that because these ad hoc measures are untested , they could be leading to greater problems , as spraying water everywhere wrecks delicate electrical equipment ; “ They dumped water all over the place … They keep on generating more contamination .
+__label__COSTS __label__HEALTH_EFFECTS __label__ACCIDENTS/SECURITY It will be secure and not harm anyone and it will save us fortunes .
+__label__FOSSIL_FUELS There are many types of facilities that are far more vulnerable , including liquid natural gas plants , chemical plants and numerous political targets . "
