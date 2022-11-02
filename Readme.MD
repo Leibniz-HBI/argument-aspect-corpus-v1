@@ -58,4 +58,4 @@ and
 
 ## Citation
 
-Please cite ...
+Please cite [our paper](https://aclanthology.org/2022.argmining-1.12/) when using this repository
