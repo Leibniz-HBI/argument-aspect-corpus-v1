@@ -1,10 +1,10 @@
-# Dataset and experiments for the COLING2022 Argument Mining Workshop Paper Boundary Detection and Categorization of Argument Aspects via Supervised Learning
+# Dataset and experiments for the COLING2022 Argument Mining Workshop Paper "Boundary Detection and Categorization of Argument Aspects via Supervised Learning"
 
 This repository contains code and data for the paper *Argument Mining Workshop
 Paper Boundary Detection and Categorization of Argument Aspects via Supervised
 Learning* presented during the 9th Workshop on Argument Mining at COLING2022.
 
-## The Argument Aspect Corpus V1
+## The Argument Aspect Corpus v1
 In the datasets folder, you can find three files with connl formatted data for
 each topic that we have described in the paper.
 In the experiments folder are test confgurations for reproducing the papers
@@ -58,4 +58,6 @@ and
 
 ## Citation
 
-Please cite [our paper](https://aclanthology.org/2022.argmining-1.12/) when using this repository
+Please cite our paper when using this repository.
+
+> Mattes Ruckdeschel and Gregor Wiedemann. 2022. [Boundary Detection and Categorization of Argument Aspects via Supervised Learning](https://aclanthology.org/2022.argmining-1.12/). In Proceedings of the 9th Workshop on Argument Mining, pages 126–136, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
