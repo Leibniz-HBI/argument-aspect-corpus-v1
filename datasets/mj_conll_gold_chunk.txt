@@ -103,19 +103,19 @@
 2	even	O
 3	suggests	O
 4	that	O
-5	its	O
-6	use	O
-7	might	O
-8	be	O
-9	linked	O
-10	to	O
-11	a	O
-12	higher	O
-13	risk	O
-14	of	O
-15	prescription	O
-16	drug	O
-17	use	O
+5	its	GATEWAY DRUG
+6	use	GATEWAY DRUG
+7	might	GATEWAY DRUG
+8	be	GATEWAY DRUG
+9	linked	GATEWAY DRUG
+10	to	GATEWAY DRUG
+11	a	GATEWAY DRUG
+12	higher	GATEWAY DRUG
+13	risk	GATEWAY DRUG
+14	of	GATEWAY DRUG
+15	prescription	GATEWAY DRUG
+16	drug	GATEWAY DRUG
+17	use	GATEWAY DRUG
 18	.	O
 
 1	Research	O
@@ -22567,8 +22567,8 @@
 22	legalisation	O
 23	!	O
 
-1	Anonymous	O
-2	says2013-03-13T16	O
+1	Anonymous	OTHER
+2	says2013-03-13T16	OTHER
 3	:	O
 4	48:17.497	O
 5	Report	O
@@ -30397,10 +30397,10 @@
 22	negative	O
 23	effects	O
 24	on	O
-25	environmental	O
-26	and	O
-27	human	O
-28	health	O
+25	environmental	HEALTH/PSYCHOLOGICAL EFFECTS
+26	and	HEALTH/PSYCHOLOGICAL EFFECTS
+27	human	HEALTH/PSYCHOLOGICAL EFFECTS
+28	health	HEALTH/PSYCHOLOGICAL EFFECTS
 29	.	O
 
 1	For	O

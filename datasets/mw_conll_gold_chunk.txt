@@ -596,9 +596,9 @@
 18	was	O
 19	clear	O
 20	about	O
-21	its	OTHER
-22	main	OTHER
-23	purpose	OTHER
+21	its	O
+22	main	O
+23	purpose	O
 24	.	O
 
 1	Not	O
@@ -715,9 +715,9 @@
 7	that	O
 8	there	O
 9	are	O
-10	much	OTHER
-11	better	OTHER
-12	tools	OTHER
+10	much	O
+11	better	O
+12	tools	O
 13	to	O
 14	target	O
 15	those	O
@@ -929,7 +929,7 @@
 5	n't	O
 6	be	O
 7	doing	O
-8	this	OTHER
+8	this	O
 9	.	O
 
 1	“	O
@@ -1200,16 +1200,16 @@
 2	corporations	O
 3	rely	O
 4	on	O
-5	the	O
-6	mythical	O
-7	"	O
-8	free	O
-9	market	O
+5	the	GOVERNMENT
+6	mythical	GOVERNMENT
+7	"	GOVERNMENT
+8	free	GOVERNMENT
+9	market	GOVERNMENT
 10	,	O
 11	"	O
-12	why	O
-13	should	O
-14	workers	O
+12	why	SOCIAL JUSTICE/INJUSTICE
+13	should	SOCIAL JUSTICE/INJUSTICE
+14	workers	SOCIAL JUSTICE/INJUSTICE
 15	?	O
 
 1	“	O
@@ -1217,9 +1217,9 @@
 3	think	OTHER
 4	that	O
 5	is	O
-6	a	OTHER
-7	good	OTHER
-8	initiative	OTHER
+6	a	O
+7	good	O
+8	initiative	O
 9	to	O
 10	support	O
 11	.	O
@@ -1841,8 +1841,8 @@
 6	those	O
 7	testifying	O
 8	had	O
-9	near-apocalyptic	OTHER
-10	visions	OTHER
+9	near-apocalyptic	O
+10	visions	O
 11	of	O
 12	what	O
 13	the	O
@@ -2004,9 +2004,9 @@
 33	look	O
 34	out	O
 35	for	O
-36	the	OTHER
-37	general	OTHER
-38	welfare	OTHER
+36	the	O
+37	general	O
+38	welfare	O
 39	of	O
 40	the	O
 41	people	O
@@ -2155,9 +2155,9 @@
 12	and	O
 13	not	O
 14	in	O
-15	a	OTHER
-16	positive	OTHER
-17	way	OTHER
+15	a	O
+16	positive	O
+17	way	O
 18	.	O
 
 1	I	O
@@ -2197,13 +2197,13 @@
 3	s	O
 4	not	O
 5	helping	O
-6	as	OTHER
-7	many	OTHER
-8	or	OTHER
-9	as	OTHER
-10	large	OTHER
-11	a	OTHER
-12	portion	OTHER
+6	as	O
+7	many	O
+8	or	O
+9	as	O
+10	large	O
+11	a	O
+12	portion	O
 13	of	O
 14	the	O
 15	labor	O
@@ -2367,7 +2367,7 @@
 54	our	O
 55	entire	O
 56	lives	O
-57	promising	OTHER
+57	promising	O
 58	us	O
 59	.	O
 
@@ -2488,12 +2488,12 @@
 31	nothing	O
 32	more	O
 33	than	O
-34	a	OTHER
-35	bandage	OTHER
-36	on	OTHER
-37	a	OTHER
-38	massive	OTHER
-39	hemorrhage	OTHER
+34	a	O
+35	bandage	O
+36	on	O
+37	a	O
+38	massive	O
+39	hemorrhage	O
 40	.	O
 
 1	But	O
@@ -2748,32 +2748,32 @@
 4	that	O
 5	,	O
 6	as	O
-7	a	O
-8	black	O
-9	youth	O
+7	a	SOCIAL JUSTICE/INJUSTICE
+8	black	SOCIAL JUSTICE/INJUSTICE
+9	youth	SOCIAL JUSTICE/INJUSTICE
 10	,	O
-11	he	O
-12	would	O
-13	never	O
-14	have	O
-15	been	O
-16	hired	O
-17	as	O
-18	a	O
-19	lab	O
-20	assistant	O
+11	he	MOTIVATION/CHANCES
+12	would	MOTIVATION/CHANCES
+13	never	MOTIVATION/CHANCES
+14	have	MOTIVATION/CHANCES
+15	been	MOTIVATION/CHANCES
+16	hired	MOTIVATION/CHANCES
+17	as	MOTIVATION/CHANCES
+18	a	MOTIVATION/CHANCES
+19	lab	MOTIVATION/CHANCES
+20	assistant	MOTIVATION/CHANCES
 21	"	O
-22	if	O
-23	someone	O
-24	had	O
-25	to	O
-26	pay	O
-27	me	O
-28	a	O
-29	large	O
-30	amount	O
-31	of	O
-32	money	O
+22	if	MOTIVATION/CHANCES
+23	someone	MOTIVATION/CHANCES
+24	had	MOTIVATION/CHANCES
+25	to	MOTIVATION/CHANCES
+26	pay	MOTIVATION/CHANCES
+27	me	MOTIVATION/CHANCES
+28	a	MOTIVATION/CHANCES
+29	large	MOTIVATION/CHANCES
+30	amount	MOTIVATION/CHANCES
+31	of	MOTIVATION/CHANCES
+32	money	MOTIVATION/CHANCES
 33	.	O
 34	"	O
 
@@ -2976,8 +2976,8 @@
 10	they	O
 11	certainly	O
 12	are	O
-13	false	OTHER
-14	choices	OTHER
+13	false	O
+14	choices	O
 15	.	O
 
 1	There	O
@@ -3122,9 +3122,9 @@
 1	CARSON	OTHER
 2	:	O
 3	I	O
-4	would	OTHER
-5	not	OTHER
-6	raise	OTHER
+4	would	O
+5	not	O
+6	raise	O
 7	it	O
 8	.	O
 
@@ -4360,8 +4360,8 @@
 39	to	O
 40	also	O
 41	consider	O
-42	other	OTHER
-43	factors	OTHER
+42	other	O
+43	factors	O
 44	.	O
 
 1	Raising	O
@@ -4510,9 +4510,9 @@
 27	restaurants	O
 28	.	O
 
-1	A	O
-2	recent	O
-3	survey	O
+1	A	OTHER
+2	recent	OTHER
+3	survey	OTHER
 4	from	O
 5	the	O
 6	conservative	O
@@ -4739,7 +4739,7 @@
 42	said	O
 43	.	O
 
-1	Aselstine	O
+1	Aselstine	OTHER
 2	is	O
 3	certain	O
 4	that	O
@@ -5242,8 +5242,8 @@
 24	average	O
 25	wage	O
 26	is	O
-27	$	OTHER
-28	12	OTHER
+27	$	O
+28	12	O
 29	an	O
 30	hour	O
 31	,	O
@@ -6777,9 +6777,9 @@
 2	may	O
 3	seem	O
 4	like	O
-5	a	OTHER
-6	negligible	OTHER
-7	amount	OTHER
+5	a	O
+6	negligible	O
+7	amount	O
 8	,	O
 9	but	O
 10	over	O
@@ -6999,12 +6999,12 @@
 11	the	O
 12	increased	O
 13	wages	O
-14	will	OTHER
-15	be	OTHER
-16	either	OTHER
-17	muted	OTHER
-18	or	OTHER
-19	negated	OTHER
+14	will	O
+15	be	O
+16	either	O
+17	muted	O
+18	or	O
+19	negated	O
 20	.	O
 
 1	This	O
@@ -8932,9 +8932,9 @@
 2	of	O
 3	course	O
 4	,	O
-5	some	OTHER
-6	local	OTHER
-7	governments	OTHER
+5	some	O
+6	local	O
+7	governments	O
 8	take	O
 9	things	O
 10	even	O
@@ -8994,10 +8994,10 @@
 2	wage	OTHER
 3	behaves	O
 4	as	O
-5	a	OTHER
-6	classical	OTHER
-7	price	OTHER
-8	floor	OTHER
+5	a	O
+6	classical	O
+7	price	O
+8	floor	O
 9	on	O
 10	labor	O
 11	.	O
@@ -9281,15 +9281,15 @@
 1	Minimum	O
 2	wage	O
 3	also	O
-4	protects	O
-5	younger	O
-6	workers	O
-7	and	O
-8	minorities	O
-9	from	O
-10	being	O
-11	paid	O
-12	less	O
+4	protects	SOCIAL JUSTICE/INJUSTICE
+5	younger	SOCIAL JUSTICE/INJUSTICE
+6	workers	SOCIAL JUSTICE/INJUSTICE
+7	and	SOCIAL JUSTICE/INJUSTICE
+8	minorities	SOCIAL JUSTICE/INJUSTICE
+9	from	SOCIAL JUSTICE/INJUSTICE
+10	being	SOCIAL JUSTICE/INJUSTICE
+11	paid	SOCIAL JUSTICE/INJUSTICE
+12	less	SOCIAL JUSTICE/INJUSTICE
 13	than	O
 14	others	O
 15	to	O
@@ -9353,8 +9353,8 @@
 3	are	O
 4	clearly	O
 5	not	O
-6	as	OTHER
-7	valuable	OTHER
+6	as	O
+7	valuable	O
 8	as	O
 9	they	O
 10	were	O
@@ -9482,10 +9482,10 @@
 21	model	O
 22	"	O
 23	that	O
-24	does	OTHER
-25	n't	OTHER
-26	accurately	OTHER
-27	represent	OTHER
+24	does	O
+25	n't	O
+26	accurately	O
+27	represent	O
 28	the	O
 29	nuanced	O
 30	realities	O
@@ -9584,7 +9584,7 @@
 8	wage	O
 9	increase	O
 10	is	O
-11	unnecessary	OTHER
+11	unnecessary	O
 12	for	O
 13	some	O
 14	people	O
@@ -9748,14 +9748,14 @@
 16	dramatically	O
 17	will	O
 18	damage	O
-19	the	O
-20	economic	O
-21	prospects	O
+19	the	MOTIVATION/CHANCES
+20	economic	MOTIVATION/CHANCES
+21	prospects	MOTIVATION/CHANCES
 22	of	O
 23	millions	O
 24	of	O
-25	vulnerable	O
-26	people	O
+25	vulnerable	SOCIAL JUSTICE/INJUSTICE
+26	people	SOCIAL JUSTICE/INJUSTICE
 27	.	O
 
 1	But	O
@@ -10062,8 +10062,8 @@
 15	may	O
 16	come	O
 17	with	O
-18	unknown	OTHER
-19	consequences	OTHER
+18	unknown	O
+19	consequences	O
 20	.	O
 
 1	Today	O
@@ -10201,8 +10201,8 @@
 20	attributes	O
 21	much	O
 22	of	O
-23	that	OTHER
-24	contraction	OTHER
+23	that	O
+24	contraction	O
 25	to	O
 26	the	O
 27	minimum	O
@@ -10570,8 +10570,8 @@
 15	most	O
 16	economists	O
 17	prefer	O
-18	other	OTHER
-19	ways	OTHER
+18	other	O
+19	ways	O
 20	to	O
 21	help	O
 22	low-income	O
@@ -10705,8 +10705,8 @@
 3	minimum	O
 4	wage	O
 5	does	O
-6	more	OTHER
-7	harm	OTHER
+6	more	O
+7	harm	O
 8	than	O
 9	good	O
 10	.	O
@@ -11165,8 +11165,8 @@
 5	be	O
 6	honest	O
 7	about	O
-8	the	OTHER
-9	consequences	OTHER
+8	the	O
+9	consequences	O
 10	of	O
 11	raising	O
 12	a	O
@@ -12106,7 +12106,7 @@
 29	employment	UN/EMPLOYMENT RATE
 30	.	O
 
-1	In	O
+1	In	OTHER
 2	a	O
 3	recent	O
 4	New	O
@@ -12241,7 +12241,7 @@
 4	wage	O
 5	will	O
 6	fix	O
-7	nothing	OTHER
+7	nothing	O
 8	.	O
 
 1	It	O
@@ -12532,7 +12532,7 @@
 18	good	O
 19	policy	O
 20	in	O
-21	general	OTHER
+21	general	O
 22	.	O
 
 1	A	O
@@ -12750,8 +12750,8 @@
 16	what	O
 17	an	O
 18	increase	O
-19	would	OTHER
-20	accomplish	OTHER
+19	would	O
+20	accomplish	O
 21	.	O
 
 1	"	O
@@ -13583,8 +13583,8 @@
 2	wage	OTHER
 3	laws	OTHER
 4	receive	O
-5	less	OTHER
-6	support	OTHER
+5	less	O
+6	support	O
 7	from	O
 8	economists	O
 9	than	O
@@ -13667,11 +13667,11 @@
 2	would	OTHER
 3	challenge	OTHER
 4	people	O
-5	to	OTHER
-6	consider	OTHER
-7	lowering	OTHER
-8	or	OTHER
-9	eliminating	OTHER
+5	to	O
+6	consider	O
+7	lowering	O
+8	or	O
+9	eliminating	O
 10	the	O
 11	federal	O
 12	minimum	O
@@ -14090,12 +14090,12 @@
 6	in	O
 7	many	O
 8	areas	O
-9	already	O
-10	pay	O
-11	higher	O
-12	than	O
-13	minimum	O
-14	wage	O
+9	already	SOCIAL JUSTICE/INJUSTICE
+10	pay	SOCIAL JUSTICE/INJUSTICE
+11	higher	SOCIAL JUSTICE/INJUSTICE
+12	than	SOCIAL JUSTICE/INJUSTICE
+13	minimum	SOCIAL JUSTICE/INJUSTICE
+14	wage	SOCIAL JUSTICE/INJUSTICE
 15	.	O
 
 1	People	O
@@ -16423,7 +16423,7 @@
 20	wage	O
 21	today	O
 22	is	O
-23	thirty-five	OTHER
+23	thirty-five	O
 24	.	O
 
 1	Living	SOCIAL JUSTICE/INJUSTICE
@@ -16822,7 +16822,7 @@
 16	to	O
 17	do	O
 18	about	O
-19	nothing	OTHER
+19	nothing	O
 20	.	O
 
 1	Not	O
@@ -18027,7 +18027,7 @@
 4	low	O
 5	wage	O
 6	employees	O
-7	extra	OTHER
+7	extra	O
 8	,	O
 9	"	O
 10	Kaplan	O
@@ -19195,9 +19195,9 @@
 16	that	O
 17	there	O
 18	are	O
-19	vastly	OTHER
-20	superior	OTHER
-21	alternatives	OTHER
+19	vastly	O
+20	superior	O
+21	alternatives	O
 22	for	O
 23	steering	O
 24	money	O
@@ -19752,13 +19752,13 @@
 1	Poorer	O
 2	people	O
 3	typically	O
-4	spend	O
-5	a	O
-6	larger	O
-7	fraction	O
-8	of	O
-9	their	O
-10	income	O
+4	spend	ECONOMIC IMPACT
+5	a	ECONOMIC IMPACT
+6	larger	ECONOMIC IMPACT
+7	fraction	ECONOMIC IMPACT
+8	of	ECONOMIC IMPACT
+9	their	ECONOMIC IMPACT
+10	income	ECONOMIC IMPACT
 11	than	O
 12	more	O
 13	affluent	O
@@ -20142,7 +20142,7 @@
 9	come	O
 10	out	O
 11	in	O
-12	favor	OTHER
+12	favor	O
 13	of	O
 14	a	O
 15	$	O
@@ -20162,9 +20162,9 @@
 6	/	O
 7	hr	O
 8	is	O
-9	not	OTHER
-10	too	OTHER
-11	much	OTHER
+9	not	O
+10	too	O
+11	much	O
 12	.	O
 
 1	Now	OTHER
@@ -20190,8 +20190,8 @@
 21	is	O
 22	being	O
 23	taken	O
-24	too	OTHER
-25	far	OTHER
+24	too	O
+25	far	O
 26	,	O
 27	too	O
 28	fast	O
@@ -20264,8 +20264,8 @@
 27	15	O
 28	movement	O
 29	,	O
-30	very	OTHER
-31	dangerous	OTHER
+30	very	O
+31	dangerous	O
 32	.	O
 
 1	We	OTHER
@@ -20273,8 +20273,8 @@
 3	increase	O
 4	it	O
 5	to	O
-6	$	OTHER
-7	15	OTHER
+6	$	O
+7	15	O
 8	an	O
 9	hour	O
 10	over	O
@@ -20325,8 +20325,8 @@
 7	past	O
 8	were	O
 9	n’t	O
-10	too	OTHER
-11	damaging	OTHER
+10	too	O
+11	damaging	O
 12	,	O
 13	but	O
 14	$	O
@@ -20404,8 +20404,8 @@
 9	$	O
 10	15	O
 11	,	O
-12	yearly	OTHER
-13	earnings	OTHER
+12	yearly	O
+13	earnings	O
 14	would	O
 15	move	O
 16	to	O
@@ -20544,9 +20544,9 @@
 35	the	O
 36	results	O
 37	of	O
-38	the	OTHER
-39	local	OTHER
-40	experiments	OTHER
+38	the	O
+39	local	O
+40	experiments	O
 41	.	O
 
 1	In	OTHER
@@ -20580,7 +20580,7 @@
 29	estimates	O
 30	it	O
 31	seems	O
-32	doable	OTHER
+32	doable	O
 33	.	O
 
 1	But	O
@@ -21845,7 +21845,7 @@
 8	critics	O
 9	point	O
 10	to	O
-11	disaster	OTHER
+11	disaster	O
 12	arising	O
 13	from	O
 14	Seattle	O
@@ -21954,10 +21954,10 @@
 10	wage	O
 11	has	O
 12	done	O
-13	little	OTHER
-14	or	OTHER
-15	no	OTHER
-16	harm	OTHER
+13	little	O
+14	or	O
+15	no	O
+16	harm	O
 17	.	O
 
 1	Job	UN/EMPLOYMENT RATE
@@ -22757,7 +22757,7 @@
 6	the	O
 7	way	O
 8	,	O
-9	supports	OTHER
+9	supports	O
 10	President	O
 11	Obama	O
 12	’s	O
@@ -23064,8 +23064,8 @@
 5	government	O
 6	has	O
 7	signalled	O
-8	its	OTHER
-9	support	OTHER
+8	its	O
+9	support	O
 10	for	O
 11	a	O
 12	new	O
@@ -23144,7 +23144,7 @@
 12	web	O
 13	page	O
 14	detailing	O
-15	how	OTHER
+15	how	O
 16	raising	O
 17	the	O
 18	minimum	O
@@ -23206,25 +23206,25 @@
 6	a	O
 7	minimum	O
 8	wage	O
-9	can	O
-10	not	O
-11	only	O
-12	make	O
-13	workers	O
-14	better	O
-15	off	O
+9	can	MOTIVATION/CHANCES
+10	not	MOTIVATION/CHANCES
+11	only	MOTIVATION/CHANCES
+12	make	MOTIVATION/CHANCES
+13	workers	MOTIVATION/CHANCES
+14	better	MOTIVATION/CHANCES
+15	off	MOTIVATION/CHANCES
 16	but	O
 17	can	O
 18	also	O
 19	lead	O
 20	to	O
-21	more	O
-22	efficient	O
-23	levels	O
-24	of	O
-25	production	O
-26	and	O
-27	employment	O
+21	more	COMPETITION/BUSINESS CHALLENGES
+22	efficient	COMPETITION/BUSINESS CHALLENGES
+23	levels	COMPETITION/BUSINESS CHALLENGES
+24	of	COMPETITION/BUSINESS CHALLENGES
+25	production	COMPETITION/BUSINESS CHALLENGES
+26	and	COMPETITION/BUSINESS CHALLENGES
+27	employment	COMPETITION/BUSINESS CHALLENGES
 28	.	O
 
 1	Sanderson	O
@@ -23952,8 +23952,8 @@
 16	percent	O
 17	of	O
 18	Americans	O
-19	favor	OTHER
-20	increasing	OTHER
+19	favor	O
+20	increasing	O
 21	the	O
 22	minimum	O
 23	wage	O
@@ -24355,19 +24355,19 @@
 58	.	O
 59	”	O
 
-1	Improvements	O
-2	in	O
-3	productivity	O
-4	and	O
-5	economic	O
-6	growth	O
-7	have	O
-8	outpaced	O
-9	increases	O
-10	in	O
-11	the	O
-12	minimum	O
-13	wage	O
+1	Improvements	SOCIAL JUSTICE/INJUSTICE
+2	in	SOCIAL JUSTICE/INJUSTICE
+3	productivity	SOCIAL JUSTICE/INJUSTICE
+4	and	SOCIAL JUSTICE/INJUSTICE
+5	economic	SOCIAL JUSTICE/INJUSTICE
+6	growth	SOCIAL JUSTICE/INJUSTICE
+7	have	SOCIAL JUSTICE/INJUSTICE
+8	outpaced	SOCIAL JUSTICE/INJUSTICE
+9	increases	SOCIAL JUSTICE/INJUSTICE
+10	in	SOCIAL JUSTICE/INJUSTICE
+11	the	SOCIAL JUSTICE/INJUSTICE
+12	minimum	SOCIAL JUSTICE/INJUSTICE
+13	wage	SOCIAL JUSTICE/INJUSTICE
 14	.	O
 
 1	With	O
@@ -24456,7 +24456,7 @@
 12	50	O
 13	percent	O
 14	is	O
-15	dramatic	OTHER
+15	dramatic	O
 16	,	O
 17	â	O
 18	€	O
@@ -24732,7 +24732,7 @@
 16	money	ECONOMIC IMPACT
 17	.	O
 
-1	In	O
+1	In	OTHER
 2	fact	O
 3	,	O
 4	both	O
@@ -24777,8 +24777,8 @@
 7	has	O
 8	advocated	O
 9	for	O
-10	gradually	OTHER
-11	raising	OTHER
+10	gradually	O
+11	raising	O
 12	the	O
 13	minimum	O
 14	wage	O
@@ -24805,7 +24805,7 @@
 13	for	O
 14	federal	O
 15	contractors	O
-16	only	OTHER
+16	only	O
 17	.	O
 
 1	Public	OTHER
@@ -24816,7 +24816,7 @@
 6	wage	O
 7	hike	O
 8	is	O
-9	overwhelming	OTHER
+9	overwhelming	O
 10	.	O
 
 1	Though	O
@@ -25226,8 +25226,8 @@
 4	proposal	O
 5	would	O
 6	raise	O
-7	annual	OTHER
-8	income	OTHER
+7	annual	O
+8	income	O
 9	by	O
 10	$	O
 11	3,500	O
@@ -25476,8 +25476,8 @@
 3	minimum	O
 4	wage	O
 5	is	O
-6	incredibly	OTHER
-7	popular	OTHER
+6	incredibly	O
+7	popular	O
 8	:	O
 9	voters	O
 10	even	O
@@ -25745,9 +25745,9 @@
 
 1	There	OTHER
 2	is	O
-3	no	OTHER
-4	good	OTHER
-5	reason	OTHER
+3	no	O
+4	good	O
+5	reason	O
 6	not	O
 7	to	O
 8	increase	O
@@ -25836,8 +25836,8 @@
 7	seeking	O
 8	to	O
 9	pay	O
-10	his	OTHER
-11	workers	OTHER
+10	his	O
+11	workers	O
 12	more	O
 13	.	O
 
@@ -25873,10 +25873,10 @@
 14	wage	O
 15	higher	O
 16	than	O
-17	the	OTHER
-18	federal	OTHER
-19	minimum	OTHER
-20	wage	OTHER
+17	the	O
+18	federal	O
+19	minimum	O
+20	wage	O
 21	.	O
 
 1	One	O
@@ -25948,7 +25948,7 @@
 14	of	O
 15	Columbia	O
 16	introduced	O
-17	legislation	OTHER
+17	legislation	O
 18	to	O
 19	increase	O
 20	their	O
@@ -26316,8 +26316,8 @@
 11	a	O
 12	number	O
 13	of	O
-14	unintended	OTHER
-15	consequences	OTHER
+14	unintended	O
+15	consequences	O
 16	if	O
 17	the	O
 18	minimum	O
@@ -26740,7 +26740,7 @@
 63	workers	SOCIAL JUSTICE/INJUSTICE
 64	.	O
 
-1	If	O
+1	If	OTHER
 2	they	O
 3	were	O
 4	all	O
@@ -26801,7 +26801,7 @@
 24	majority	O
 25	of	O
 26	Americans	O
-27	support	OTHER
+27	support	O
 28	an	O
 29	increase	O
 30	.	O
@@ -27005,7 +27005,7 @@
 30	a	O
 31	Pew	O
 32	poll	O
-33	conducted	OTHER
+33	conducted	O
 34	in	O
 35	January	O
 36	.	O
@@ -27301,9 +27301,9 @@
 
 1	There	OTHER
 2	is	O
-3	widespread	OTHER
-4	bipartisan	OTHER
-5	support	OTHER
+3	widespread	O
+4	bipartisan	O
+5	support	O
 6	for	O
 7	raising	O
 8	the	O
@@ -27812,8 +27812,8 @@
 19	,	O
 20	the	O
 21	employee	O
-22	must	OTHER
-23	receive	OTHER
+22	must	O
+23	receive	O
 24	the	O
 25	current	O
 26	federal	O
@@ -28060,8 +28060,8 @@
 6	end	O
 7	up	O
 8	,	O
-9	$	OTHER
-10	12	OTHER
+9	$	O
+10	12	O
 11	?	O
 
 1	A	O
@@ -28133,7 +28133,7 @@
 12	United	O
 13	States	O
 14	was	O
-15	2009	OTHER
+15	2009	O
 16	.	O
 
 1	A	O
@@ -28283,8 +28283,8 @@
 8	raising	O
 9	minimum	O
 10	wage	O
-11	would	OTHER
-12	be	OTHER
+11	would	O
+12	be	O
 13	the	O
 14	answer	O
 15	.	O
@@ -28305,7 +28305,7 @@
 14	higher	O
 15	minimum	O
 16	wages	O
-17	recently	OTHER
+17	recently	O
 18	.	O
 
 1	And	O
@@ -28441,7 +28441,7 @@
 9	support	O
 10	rather	O
 11	than	O
-12	criticism	OTHER
+12	criticism	O
 13	for	O
 14	raising	O
 15	the	O
@@ -28472,7 +28472,7 @@
 20	a	O
 21	letter	O
 22	in	O
-23	support	OTHER
+23	support	O
 24	of	O
 25	raising	O
 26	the	O
@@ -28516,9 +28516,9 @@
 10	an	O
 11	issue	O
 12	with	O
-13	broad	OTHER
-14	popular	OTHER
-15	support	OTHER
+13	broad	O
+14	popular	O
+15	support	O
 16	.	O
 
 1	Workers	SOCIAL JUSTICE/INJUSTICE
@@ -29138,8 +29138,8 @@
 3	a	O
 4	portion	O
 5	of	O
-6	these	OTHER
-7	expenses	OTHER
+6	these	O
+7	expenses	O
 8	pays	O
 9	for	O
 10	increased	O
@@ -29326,7 +29326,7 @@
 22	dumbest	O
 23	possible	O
 24	argument	O
-25	against	OTHER
+25	against	O
 26	it	O
 27	.	O
 
@@ -29375,9 +29375,9 @@
 21	:	O
 22	“	O
 23	We	O
-24	want	OTHER
-25	to	OTHER
-26	raise	OTHER
+24	want	O
+25	to	O
+26	raise	O
 27	the	O
 28	minimum	O
 29	wage	O
@@ -29400,7 +29400,7 @@
 10	minimum	O
 11	wage	O
 12	largely	O
-13	ignored	OTHER
+13	ignored	O
 14	this	O
 15	issue	O
 16	;	O
@@ -29423,7 +29423,7 @@
 3	n’t	O
 4	alone	O
 5	in	O
-6	thinking	OTHER
+6	thinking	O
 7	we	O
 8	should	O
 9	raise	O
@@ -29597,9 +29597,9 @@
 14	trotted	O
 15	out	O
 16	by	O
-17	minimum	OTHER
-18	wage	OTHER
-19	opponents	OTHER
+17	minimum	O
+18	wage	O
+19	opponents	O
 20	each	O
 21	time	O
 22	a	O
@@ -29659,7 +29659,7 @@
 17	of	O
 18	the	O
 19	economists	O
-20	polled	OTHER
+20	polled	O
 21	in	O
 22	September	O
 23	,	O
@@ -29724,8 +29724,8 @@
 21	wage	O
 22	based	O
 23	on	O
-24	economic	OTHER
-25	theory	OTHER
+24	economic	O
+25	theory	O
 26	and	O
 27	empirical	O
 28	evidence	O
@@ -29751,8 +29751,8 @@
 11	sheet	O
 12	with	O
 13	“	O
-14	common	OTHER
-15	myths	OTHER
+14	common	O
+15	myths	O
 16	”	O
 17	about	O
 18	raising	O
@@ -29839,8 +29839,8 @@
 7	the	O
 8	minimum	O
 9	wage	O
-10	is	OTHER
-11	contemplated	OTHER
+10	is	O
+11	contemplated	O
 12	anywhere	O
 13	,	O
 14	business	O
@@ -30026,8 +30026,8 @@
 4	and	O
 5	Burkhauser	O
 6	see	O
-7	these	OTHER
-8	numbers	OTHER
+7	these	O
+8	numbers	O
 9	as	O
 10	an	O
 11	argument	O
@@ -30066,9 +30066,9 @@
 7	minimum	O
 8	wage	O
 9	is	O
-10	a	OTHER
-11	bad	OTHER
-12	idea	OTHER
+10	a	O
+11	bad	O
+12	idea	O
 13	.	O
 
 1	Economists	OTHER
@@ -30078,7 +30078,7 @@
 5	also	O
 6	come	O
 7	forward	O
-8	against	OTHER
+8	against	O
 9	a	O
 10	wage	O
 11	hike	O
@@ -30930,7 +30930,7 @@
 8	should	O
 9	be	O
 10	done	O
-11	incrementally	OTHER
+11	incrementally	O
 12	.	O
 
 1	Yet	O
@@ -31050,8 +31050,8 @@
 4	:	O
 5	You	O
 6	get	O
-7	more	OTHER
-8	money	OTHER
+7	more	O
+8	money	O
 9	.	O
 
 1	In	O
@@ -31132,8 +31132,8 @@
 15	center	O
 16	)	O
 17	,	O
-18	just	OTHER
-19	committed	OTHER
+18	just	O
+19	committed	O
 20	to	O
 21	making	O
 22	sure	O
@@ -31197,10 +31197,10 @@
 13	money	ECONOMIC IMPACT
 14	.	O
 
-1	Management	O
-2	and	O
-3	longtime	O
-4	employees	O
+1	Management	OTHER
+2	and	OTHER
+3	longtime	OTHER
+4	employees	OTHER
 5	of	O
 6	businesses	O
 7	who	O
@@ -31624,12 +31624,12 @@
 39	back	O
 40	.	O
 
-1	Employees	O
-2	buy	O
-3	in	O
-4	to	O
-5	the	O
-6	company	O
+1	Employees	MOTIVATION/CHANCES
+2	buy	MOTIVATION/CHANCES
+3	in	MOTIVATION/CHANCES
+4	to	MOTIVATION/CHANCES
+5	the	MOTIVATION/CHANCES
+6	company	MOTIVATION/CHANCES
 7	—	O
 8	and	O
 9	that	O

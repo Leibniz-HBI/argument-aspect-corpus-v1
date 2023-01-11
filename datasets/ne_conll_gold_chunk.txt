@@ -11076,10 +11076,10 @@
 10	energy	O
 11	to	O
 12	address	O
-13	climate	O
-14	change	O
+13	climate	ENVIRONMENTAL IMPACT
+14	change	ENVIRONMENTAL IMPACT
 15	:	O
-16	time	O
+16	time	COSTS
 17	.	O
 
 1	Nuclear	OTHER
@@ -31260,9 +31260,9 @@
 20	residents	O
 21	.	O
 
-1	Any	O
-2	water	O
-3	release	O
+1	Any	HEALTH EFFECTS
+2	water	HEALTH EFFECTS
+3	release	HEALTH EFFECTS
 4	is	O
 5	of	O
 6	surface	O
@@ -31271,8 +31271,8 @@
 9	is	O
 10	close	O
 11	to	O
-12	drinking	O
-13	standard	O
+12	drinking	HEALTH EFFECTS
+13	standard	HEALTH EFFECTS
 14	.	O
 
 1	Both	O
