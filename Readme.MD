@@ -13,7 +13,7 @@ that we have used. This repository may also be a starting point to experiment wi
 aspect with other models or hyperparameters
 You can replace models with other available models from huggingface.
 
-The Corpus will also be made available on Zenodo.
+The Corpus is also available on [Zenodo](https://zenodo.org/record/7525183).
 
 ## Installation
 you need [pipenv](https://pipenv.pypa.io/en/latest/index.html) for dependency
