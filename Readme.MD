@@ -13,7 +13,14 @@ that we have used. This repository may also be a starting point to experiment wi
 aspect with other models or hyperparameters
 You can replace models with other available models from huggingface.
 
-The Corpus is also available on [Zenodo](https://zenodo.org/record/7525183).
+The Corpus is also available on [Zenodo](https://zenodo.org/record/7525183). When using the corpus, please cite the zenodo repository:
+
+> Ruckdeschel, Mattes, & Wiedemann, Gregor. (2023). Argument Aspect Corpus (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7525183
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7525183.svg)](https://doi.org/10.5281/zenodo.7525183)
+
+
 
 ## Installation
 you need [pipenv](https://pipenv.pypa.io/en/latest/index.html) for dependency
